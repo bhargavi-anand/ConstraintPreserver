@@ -1,0 +1,22 @@
+Interim Policy Prohibiting Entering Confidential Information into Generative AI
+
+December 06, 2023
+
+Dear WPI Community,
+
+As co-chairs of the Administrative Policy Group (APG), we write to inform you of the approval of the Interim Policy Prohibiting Entering Confidential Information into Generative AI.
+
+Generative Artificial Intelligence (AI) tools such as ChatGPT and Google Bard have garnered tremendous public attention. Members of the WPI community may be unaware that information entered into a generative AI tool immediately becomes part of the generative AI’s information database. As a result, any private or confidential information entered into a generative AI tool is at risk of becoming public. This Interim Policy seeks to mitigate immediate risks of unintended disclosure of Confidential Information, as defined in the Interim Policy.
+
+While this Policy remains interim, the Administrative Policy Group and the Committee on Information Technology Policy are collaborating to revise and update WPI’s Data Classification and Usage Policy to integrate language related to generative AI usage. When that policy is updated and approved, it will replace this Interim Policy.
+
+As generative AI is a new, rapidly developing technology, members of the WPI community are encouraged to increase their understanding of the risks associated with using generative AI tools.
+
+If you have any questions or concerns about the Interim Policy, please contact WPI’s Information Technology Services.
+
+Best,
+
+Michael Horan  
+Arthur Heinricher  
+
+Co-Chairs, Administrative Policy Group

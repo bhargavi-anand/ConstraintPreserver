@@ -1,0 +1,24 @@
+Generative Artificial Intelligence: AI and Academic Integrity
+
+Academic Integrity & Artificial Intelligence (AI)
+Is it cheating to use AI to complete academic work?
+You are expected to complete the work assigned to you so the professor can see if you are learning and what you’ve learned. Ask yourself these two questions before using an AI resource/tool.
+
+question iconIs the resource/tool doing the thing for you that is being assessed?
+
+Make sure you are doing the work that is being assessed. For example, if spelling isn’t being assessed, then you can use a spell checker. However, if your language skills are being assessed, then you shouldn't use Chat GPT or Google Translate (for example).
+
+question iconIs the resource/tool allowed by the course instructor?
+
+If you use a tool/resource that has been prohibited OR if you use one that is not explicitly allowed, then you might be cheating.
+
+UC San Diego is building an AI-enabled campus where students, faculty, and staff can confidently leverage trusted, secure, and responsible AI tools to enhance research, improve operations, and expand educational opportunities while protecting ethics, equity, and university values. Use this link to learn more about TritonGPT and AI Services from supported vendors.
+
+Academic Integrity Considerations
+Values test – does using GenAI on this assignment (given the learning objectives/grading rubric) undermine honesty, respect, responsibility, fairness or trustworthiness?
+
+Standards test – does using GenAI on this assignment undermine academic integrity standards of the instructor or the institution (e.g., what you submit should be your own work in your own words)
+
+Exposure test – if the professor or the Academic Integrity Office knew I used GenAI for this assignment, do I feel okay about that or fearful about that being exposed?
+
+If you doubt using GenAI for academic work, be sure to ASK your instructor.

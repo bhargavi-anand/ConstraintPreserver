@@ -1,0 +1,44 @@
+Policies and Guidance
+IU does not currently have any specific policies around the use of generative AI, other than policies related to data security and privacy.
+
+Microsoft Copilot (formerly Bing Chat Enterprise) (Links to an external site, opens in a new window.) is IU's preferred generative AI service for faculty and staff. It can handle data up to University-Internal level. When using public tools, usage of data is more restrictive, even when the data are anonymized. See Acceptable uses of generative AI services at IU. (Links to an external site, opens in a new window.) Understanding the way data is classified can be complicated, and IU provides a Data Classification Matrix (Links to an external site, opens in a new window.) to help faculty make the most appropriate decisions with using data. 
+
+Students are expected to adhere to the Code of Student Rights, Responsibilities, and Conduct (Links to an external site, opens in a new window.), which addresses Academic Misconduct. (Links to an external site, opens in a new window.) However, it may be useful for instructors to address generative AI more specifically, such as in their syllabi.
+
+Acceptable uses of generative AI services at IU
+
+Overview
+Since 2020, there has been an exponential increase in the investment in and development of generative artificial intelligence (AI) services. Generative AI is a type of artificial intelligence system that generates new text, images, or other media in response to prompts. Notable generative AI systems include ChatGPT, Microsoft 365 Copilot, and Google Gemini.
+For a full overview of the primary generative AI tools approved for use at IU, as well as their core features, data classification approvals, and usage guidelines, see Generative AI tools at IU.
+
+Precautions
+Generative AI has potential applications across a wide range of industries, including art, writing, and software development. However, there are also concerns about the potential misuse of these tools and any data shared with the services. When you provide information to these tools, such as queries, student essays, grant proposals, source code, or datasets, it is the same as posting the information on a public website.
+
+Indiana University encourages its affiliates to experiment with using these generative AI services, as long as no institutional data is submitted to them without approval.
+
+To date, other generative AI tools have not been approved for data beyond Public classification, as they have not been through the Software and Services Selection Process (SSSP). Prior to the sharing of any institutional data, these services will need to go through review to ensure the necessary contracts and safeguards are in place to protect the data submitted and to ensure the algorithms in use are ethical, transparent, and beneficial to the IU community.
+
+Types of institutional data that should not be submitted to public versions of generative AI tools, even when anonymized, include:
+Data classified as University-Internal or higher (for examples, visit the Data Classification Matrix)
+Any data that may be considered student, faculty, or staff intellectual property, unless the individual submitting that intellectual property created it
+
+Specific examples that are not appropriate for the public versions of generative AI tools include:
+Sharing names and information about a real student, employee, research participant, or patient
+Asking an AI service to summarize and grade a student paper or assignment
+Sharing employee-related data such as performance or benefit information for communication drafting or analysis
+Asking an AI service to generate code for IU systems protecting institutional data or sharing IU source code for editing
+Sharing grant proposals still under review
+
+Acceptable uses
+With these precautions in mind, there are numerous ways to use generative AI tools without submitting university data or intellectual property. Using general queries to generate content to pull information from the AI resources is a good way to engage with the products.
+
+Students should use generative AI in ways that align with university academic integrity policies and communicate with their instructors before using generative AI in their coursework. Schools and departments may elect to further restrict generative AI.
+
+From a data management perspective, examples of acceptable uses of generative AI include:
+- Syllabus and lesson planning: Instructors can use generative AI to help outline course syllabi and lesson plans, getting suggestions for learning objectives, teaching strategies, and assessment methods. Course materials that the instructor has authored (such as course notes) may be submitted by the instructor.
+- Correspondence when no student or employee information is provided: Students, faculty, or staff may use fake information (such as an invented name for the recipient of an email message) to generate drafts of correspondence using AI tools, as long as they are using general queries and do not include institutional data.
+- Professional development and training presentations: Faculty and staff can use AI to draft materials for potential professional development opportunities, including workshops, conferences, and online courses related to their field.
+- Event planning: AI can assist in drafting event plans, including suggesting themes, activities, timelines, and checklists.
+- Reviewing publicly accessible content: AI can help you draft a review, analyze publicly accessible content (for example, proposals, papers, and articles) to aid in drafting summaries, or pull together ideas.
+
+Even if you use generative AI tools for activities that do not share personal or institutional data, you should still check the tool's output for accuracy. Since these tools have been known to produce inaccurate content (sometimes called "hallucinations"), verify any factual information generated by an AI tool, and make sure to reference the tool as you would any other source.

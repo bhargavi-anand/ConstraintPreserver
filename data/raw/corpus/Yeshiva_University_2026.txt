@@ -1,0 +1,81 @@
+ARTIFICIAL INTELLIGENCE ACCEPTABLE USE POLICY
+FOR FACULTY AND STAFF
+June 10, 2025
+
+Artificial Intelligence Use Policy for Faculty and Staff
+
+1.1 Overview
+
+Generative AI is a type of artificial intelligence that can learn from and mimic large amounts of data to create content such as text, images, music, videos, code, and more, based on inputs or prompts. Yeshiva University supports responsible experimentation with generative AI tools by its faculty and staff, but there are important considerations to keep in mind when using these tools, including information security and data privacy, compliance, copyright, and academic integrity.
+
+1.2 Purpose
+
+Yeshiva University is dedicated to advancing knowledge and learning. Generative AI tools such as OpenAI’s ChatGPT, Google’s Bard, Stability AI’s Stable Diffusion, and others have become widely available for everyday use. These tools have the capacity to expedite existing processes and make possible new ones, and they advance many aspects of research and health care delivery.
+
+While the University supports responsible use of AI, these tools have limitations and present new risks. These risks include the possibility that input may become public, that outputs may be biased, misleading, or inaccurate, and that tools may be used in phishing campaigns. Risks include impacts on information security, data privacy, copyright, academic integrity, and bias.
+
+1.3 Scope
+
+This policy governs the use of generative AI tools by University faculty and staff in the performance of their functions for or on behalf of Yeshiva University. Because this policy may be updated from time to time, faculty and staff are encouraged to review the most recent version.
+
+1.4 Definitions
+
+Internal or Restricted Information means any business or technical information or research result belonging to Yeshiva University or third parties that is not publicly known or that is subject to confidentiality obligations. Restricted information is information whose loss, corruption, or unauthorized disclosure would cause severe harm. Internal information is information whose unauthorized disclosure would cause limited harm.
+
+Generative AI includes any machine-based tool designed to generate human-like output such as text, images, software code, or designs based on user input.
+
+Personal Information means information that identifies or can reasonably be linked to an individual.
+
+Intellectual Property rights are legal protections for creations of the mind, including literary, artistic, and technical works.
+
+1.5 Policy
+
+Faculty and staff are expected to follow these guidelines when using generative AI tools:
+
+Faculty and staff must contact Information Technology Services before procuring AI tools or software, including free tools.
+
+Faculty and staff must not input Internal or Restricted Information into generative AI tools except when expressly permitted by Information Technology Services.
+
+Faculty and staff must not input Personal Information into generative AI tools except when expressly permitted by Information Technology Services.
+
+Faculty and staff must comply with copyright laws and contractual obligations when using generative AI tools.
+
+Faculty and staff must confirm the accuracy of AI-generated output before relying on or publishing such output.
+
+Faculty and staff must evaluate AI output for bias and must not rely on output that reflects discriminatory outcomes.
+
+Faculty and staff must disclose the use of generative AI tools when producing written materials or work product.
+
+Faculty and staff must not represent AI-generated output as their own original work.
+
+Faculty and staff are prohibited from using generative AI tools to produce malicious content.
+
+Faculty and staff should opt out of allowing generative AI systems to use inputs for training when such options are available.
+
+1.6 Generative AI and Academic Integrity
+
+The University emphasizes intellectual honesty and scholarly integrity. Presenting AI-generated content as one’s own work may undermine academic integrity.
+
+1.7 Generative AI and Research
+
+Use of generative AI in research requires transparency, accuracy, and compliance with journal, funder, and professional society policies. Researchers must not upload unpublished research data, internal or restricted information, or personal information of research subjects into generative AI tools.
+
+1.8 Guidance on Ethical Considerations
+
+Unethical uses of AI include lack of transparency, generating bias, lack of accessibility, reduced learning engagement, unauthorized collaboration, intellectual property infringement, and privacy violations.
+
+1.9 AI Policy Regarding Third-Party Vendors
+
+The University will evaluate third-party vendors’ use of AI during contract negotiations and will establish objectives, safeguards, and accountability for vendor AI use.
+
+1.10 Training and Awareness
+
+All users of AI are required to complete training on ethical use, privacy, data protection, and compliance with this policy.
+
+1.11 Monitoring and Auditing
+
+Information Technology Services will monitor and audit AI use to ensure compliance.
+
+1.12 Review and Updates
+
+This policy will be reviewed at least bi-annually and updated as needed.

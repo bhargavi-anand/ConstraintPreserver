@@ -1,0 +1,17 @@
+Artificial Intelligence at Rutgers
+
+
+Guidance on the use of AI at Rutgers
+
+ Use approved AI tools
+The Office of Information Technology (OIT) provides access to generative AI tools with protections for use in university work. The tools licensed by Rutgers include security and privacy safeguards for appropriate use at the university. By using the Rutgers-approved versions of these tools, your data will not be used to train the models underlying the tools. To protect university data and ensure appropriate use, only Rutgers-approved AI tools should be used at the university.
+
+ Ensure academic integrity when using AI
+At Rutgers, guidance on the appropriate use of AI tools in academic settings will typically vary depending on the discipline, course, and/or instructor. Faculty should consider providing guidance to students on the use of AI to support learning and coursework, and students are encouraged to review course materials and speak with their instructors to understand any specific expectations related to AI. Though AI tools are widely available to students, they should not be considered permissible for coursework unless clearly stated or communicated by instructors. Students are responsible for understanding and abiding by their program and instructors’ guidance or rules on the use of AI. As noted in Rutgers Academic Integrity Policy 10.2.13, the principles of academic integrity require that students ensure that coursework be “the student’s own and created without the aid of impermissible technologies, materials, or collaborations.”
+
+ Protect confidential data
+Confidential information, Protected Health Information (PHI), and other proprietary Rutgers information may not be appropriate for use in AI applications and systems. 
+
+ Check and review AI content
+Always review and verify AI content and outputs. AI tools can produce biased and inaccurate information, and may include copyrighted information without attribution. You are responsible for ensuring the accuracy and appropriateness of AI-generated content used for university work.
+

@@ -1,0 +1,161 @@
+Get Familiar with AI at Ohio State
+What Is Generative AI and How Does It Work?  
+Generative Artificial Intelligence is fundamentally a very large computer program that produces verbal and visual materials (“media”) that simulate the kinds of verbal and visual communications that people produce. Based on intensely complex analyses of existing media, Generative AI programs compile a probabilistic model of human communication patterns, primarily based on the likelihood that one word or segment of an image will follow another word or segment. When given a prompt, that model is used to predict what humans would produce if provided with the same prompt.
+
+Since Generative AI has recently become more widely available for use by the general public, it is important to understand what Generative AI can and cannot do so that you can make decisions about how it can best be used and when use should be avoided in the teaching and learning context.
+
+What Can Generative AI Do? 
+The full range of features that AI can perform -- and the level at which it can perform them -- remains a subject of intense research. New versions of AI and new approaches to prompting AI continue to reveal new abilities. In brief, it seems likely that for any kind of digital media that humans can produce, AI can generate some approximation. Some of the key functions that have received most attention and seem most relevant for education include: 
+
+With Text
+Generating human-readable text: As widely advertised, Generative AI can produce sequences of words very similar to the texts humans might write in response to a similar prompt.
+Modifying and revising text: Given an existing text, AI can generate grammatical, stylistic, and other suggestions for revision based on its perceptions of language norms.
+Transforming and translating text: Given a text in one language or style, AI can approximate what a speaker of another language or someone skilled in the alternative style might produce.
+Speech to text & text to audio approximating speech: Provided with audio of someone speaking (such as the audio track of a video), Generative AI can produce a transcript. Conversely, given a script, or prompted to generate one, Generative AI can produce audio that sounds like human speech.
+Conversations: Unlike search engines, AI can recall parameters from one prompt and apply them to later prompts, creating the structure of a conversation. 
+With Images
+Generating human-perceivable images: AI can produce a digital image in response to any description of a visible object. 
+Modifying images: Given an existing digital image, AI can produce a derivative image that differs from the original as directed, such as removing specific people or components. 
+What Can Generative AI Not Do? 
+The precise contour of the limits (what the technology is unable to do) and limitations (what developers have restricted the technology from doing) of Generative AI continue to be explored. There are rich conversations among AI users sharing and explaining challenges they have encountered and attempting to understand what these experiences reveal.
+
+Some of the key limits and limitations that have currently been identified include: 
+
+Truth: The text and images that Generative AI produces may or may not align with the world or other human-generated text or images. AI predicts what people would produce, but it cannot predict whether those communications would be deemed true. This is most evident when AI is presented with mathematical prompts: it often generates responses that follow the form of mathematical thinking but includes numerical quantities that do not make sense. Similarly, Generative AI sometimes produces citations to articles that do not exist.
+Current Knowledge: The text and images produced by AI are limited to derivations of the material it has been trained on. Given the expense of training large models, updates are infrequent. Thus, for example, if given a hyperlink and asked to summarize an article, AI is not able to produce its summary based on the actual text of the article, instead producing what its model indicates a person would produce given the same prompt.
+Hallucinations: The models that Generative AI develops are imperfect – the rules it derives do not always correspond to our own observations – and so the text and images it produces may include patterns that are not possible in the non-digital world. This is most evident with images of people or architectural features not possible in physical space.
+Consistency: Generative AI may or may not generate the same output given the same prompt. This variation in responses is not predictable and seems to vary based on a wide set of variables, such as the identity of the person who enters the prompt, the configuration of devices used to interact with the AI, and the collective impact of all the other users who have or are currently interacting with the AI.
+Bias: Generative AI is prone to both historical and algorithmic biases. For the former, AI is trained on existing text and images. Whatever biases are present in those datasets (racial, gender, etc.) will be reflected to some degree in the models the AI derives. In addition, there is algorithmic bias, since the developers necessarily must design a process by which AI seeks and responds to patterns in the text and images it is given.
+Detectability: There is not currently a systematic way to determine whether a given text or image was produced by AI or by a person. Sometimes there are features that make the AI-production of an object seem obvious (such as hallucinations or text where the AI self-identifies); however, attempts to design tools that can make this determination reliably have not yet succeeded. See the article "Coping with AI Advancements and Availability" for more detail about this limit. 
+What Generative AI tools are available at Ohio State?
+Ohio State has taken a cautious approach to adopting generative AI tools, primarily due to security and privacy concerns. Currently, there are a few options that you can explore as university-sanctioned options for investigating and incorporating generative AI in your class: Microsoft Copilot chatbot and Adobe Express AI image generator.
+
+
+
+How and why are instructors and students learning with Generative AI? 
+As a follow-up study to the broader Time for Class Spring 2023 report, Tyton Partners administered a pulse survey in the Fall of 2023 that was completed by approximately 2,600 post-secondary faculty and students. The survey reinforces the goal of monitoring digital learning in higher education, focusing specifically on Generative AI (Gen AI) writing tools and how they are being used. The study ultimately found that, while faculty usage of Gen AI increased significantly between March 2023 and September 2023, student usage continues to outpace that of faculty at nearly twice the rate (49% of students compared to 22% of faculty). This gap in usage coincides with existing tensions between faculty and students’ perceptions about Gen AI’s ability to positively impact learning and the level at which Gen AI usage is acceptable.
+
+As multiple articles suggest (see "Students: AI Is Part of Your World" and "Integrating Generative AI"), this is significant because use of Gen AI is likely to continue to grow and impact the future of work, among many other facets of society. Gen AI already is and continues to be incorporated into products that we all use daily, so much so that as Charles Hodges and Ceren Ocak suggest, “Generative AI integration may become so ubiquitous so quickly that students may not even realize the tools they use incorporate it.” (see “Integrating Generative AI”).
+
+In service of preparing our students to be leaders and engaged citizens, many educators at Ohio State believe they have an obligation to support the development of digital literacy skills that help students navigate the changing nature of these technologies as well as their social and ethical implications. Key steps in this pursuit are to understand how and why students are using Gen AI in their learning and to become familiar with the technology itself. From this place of understanding, educators can implement strategies that help to regulate its use effectively.
+
+Student Usage of Generative AI
+In order to support the development of students’ Gen AI literacy, start by exploring the most common ways that students are currently using these tools. Among the top ten student use cases of Gen AI according to the Time for Class report are the following:
+
+Summarizing and paraphrasing text
+Understanding difficult concepts
+Assisting with writing assignments
+Generating practice materials for studying
+Translating text into another language
+Analyzing and interpreting data
+Organizing schedules
+In most cases, students are employing Gen AI to improve their own workflows and efficiency so that they can focus their efforts on the deeper aspects of learning. With a diverse student body that faces an increasing number of competing priorities – from academic to financial to family obligations – these tools provide an opportunity for learners to create customized learning experiences that can better support their cognitive functions. Like content and curriculum developers who seek to support the cognitive dimension of learning by creating “useful” learning experiences, students are employing Gen AI in much the same way to help them better process information by avoiding cognitive overload, reducing extraneous processing through the minimization of distractions, managing essential processing to help them understand new material, and fostering generative processing by constructing models or schemas (see User Experience Design for Learning: Useful).
+
+While this research implies that students are primarily using Gen AI to improve their overall learning and time management skills, there are certainly instances in which students employ these tools in ways that could be detrimental to their education. Several strategies that instructors can incorporate to discourage such usages are described below.
+
+Instructor Usage of Generative AI 
+In addition to understanding how and why students are employing Gen AI tools to assist in their education, becoming familiar with the tools themselves can further aid in an instructor’s ability to support these crucial digital literacy skills. One way to gain familiarity with the tools available at Ohio State is to practice with them first-hand in much the same way that students are, using an iterative process and some prompt engineering strategies to achieve the best results.
+
+How to regulate AI usage? 
+As you consider how Gen AI use affects your classes, you will likely identify several moments in which potential student usage of Gen AI crosses the boundary of useful efficiency and interesting exploration, and instead disrupts the learning process. Thus, there may be instances in which you need to dissuade learners from relying on Gen AI to complete a task, (e.g. a writing assignment that demonstrates close reading and interpretive skills). As AI tools evolve, you may likewise encounter new opportunities in which permitting or encouraging student use of Gen AI could enable important conversations surrounding the technology and its societal impacts or serve as a tool that supports student achievement of course objectives.
+
+Below are a few strategies and ideas that can be implemented to address both the disadvantages and advantages of Gen AI usage in your classes. 
+
+Immediate strategies to discourage student use of generative AI 
+
+Be transparent
+Dr. Mary-Ann Winkelmes’s research has demonstrated that providing greater assignment transparency results in increases in areas that are established predictors of student success. Key among them: their academic confidence, sense of belonging, and awareness of improved capabilities in employer-valued skills. Utilizing the Transparency in Learning and Teaching (TILT) framework, transparent assignments communicate clearly to students about the purpose, the task, and the criteria you will use to evaluate it before they begin the work. 
+ Define the purpose of the assessment to highlight how the skills they develop as a result will benefit them beyond the classroom. 
+Be clear and explicit about the task you are asking students to perform in order to support their self-efficacy and avoid demotivation. 
+Define the characteristics by which their work will be assessed. Consider utilizing a rubric that provides clear examples of how excellent work differs from adequate work. 
+
+Create an AI policy
+Along the lines of transparency described above, providing a clearly defined and stated AI policy for the course and restating that policy for individual assignments can help students navigate the complexities of AI technology and avoid any unnecessary anxieties about what may or may not be acceptable. (For more on this topic see ASC ODE’s article on Crafting Policy for Student Use of Artificial Intelligence and the TLRC’s resource AI Considerations for Teaching and Learning)
+
+Adjust prompts to be specific to the course or campus community
+When asking students to discuss or reflect on a specific topic or idea, ask them to incorporate and make connections to a specific object, moment, or experience that they have already encountered in the course or from other elements of campus life. Gen AI, at least at present, will struggle to produce meaningful outputs when confronted with content and descriptions that do not appear in open-access sources. 
+
+Test your own prompts in Copilot
+If you are concerned about students utilizing Gen AI to respond to an assignment prompt, test that prompt out for yourself in Microsoft Copilot to see how well or poorly these tools respond. If the output from Copilot is acceptable, you may need to adjust your prompts to include more specificity, as defined in the bullet point above. 
+
+Consider a critical approach, focusing on process over product
+Here you might consider adding a reflective step to the assignment that asks students to explain their learning process, how they moved from point A to point B. If they are tasked with completing a mathematical equation, for example, ask them to describe their thought process and the steps they took to solve the problem. For larger assignments and projects, consider scaffolding components of the assignment so that they build upon one another, forcing students to make connections between each step as they go along.  
+
+Ideas for incorporating student use of generative AI 
+Summarize a difficult concept and reflect on their learning
+Ask students to take sections of a difficult or technically dense text being read in class and use Copilot to summarize or reword to help with understanding. Have students reflect on what they learned as a part of this process and what their experiences of doing this illuminated. 
+
+Generate and test coding language
+Ask students to use Copilot to help generate coding language snippets to use in a design and development assignment, then test the code and ask Copilot to help navigate problems that they encounter. Build this as an iterative assignment where students can return to Copilot for multiple steps of this process. 
+
+Visualize fictional characters or scenes
+Ask students to utilize Adobe Express to generate an image of a literary character or setting and then reflect on how well or poorly the Gen AI output represents that person or place based on what they have learned from the lectures and other course activities. 
+
+Supplement speaking and/or writing practice in a second language
+Ask students to screen record a written and/or spoken conversation with Microsoft Copilot where Copilot takes on a unique personality (e.g. a waiter at a restaurant, a traveler on a train, etc.) and highlights any grammatical errors made by the student. Then, ask the student to reflect on their language experience conversing with a Gen AI chatbot or on specific questions surrounding intercultural competency and what questions generative AI might raise. Alternatively, you might ask the student to list the errors that Copilot identified and then to correct and explain the nature of those errors. 
+
+Compare and contrast artistic movements
+Ask a student to generate an image in Adobe Express in the style of an artist being studied. Then, have them compare and contrast the ability of AI to capture nuance, texture, perspective, or other theoretic constructs. 
+
+
+
+Artificial Intelligence (AI) in Research Guidelines
+ January 21, 2026
+ 
+ When used ethically and responsibly, AI-assisted technologies and tools can rapidly accelerate research progress and scholarly work. To protect the integrity of research, AI must be used in accordance with relevant discipline, journal, and/or sponsor policies and guidelines. AI misuse could cause concerns regarding research misconduct, research security, privacy, data confidentiality, and intellectual property rights. 
+
+Applies to
+All individuals at The Ohio State University involved with research activities, including faculty, staff, students, research associates and fellows, post-doctoral fellows, other research trainees, and visitors. 
+
+General Principles
+The Ohio State University is committed to providing support for the ethical adoption and use of AI tools and research using AI. While AI tools accelerate discovery and knowledge, when used improperly or unethically, they can cause integrity concerns. The Enterprise for Research, Innovation and Knowledge (ERIK) in collaboration with the University Research Committee has developed these guidelines for using AI in research. 
+
+Approved AI tools and Use
+The Office of Technology and Digital Innovation maintains a directory of approved AI tools for institutional use by university faculty and staff. Medical center employees must consult with medical center IT before the use of any of the cloud-based institutional AI tools/models due to different security requirements.  
+Best practices involve the use of institutional AI-approved tools for S1 (public) and S2 (internal) institutional data.  S3 or S4 institutional data can be included when necessary for education, business, or research. This guidance does not apply to those with access to Microsoft 365 Copilot, as this tool accesses institutional data across Office 365 applications.
+The Clinical and Translational Science Institute (CTSI) maintains a list of AI informatics tools.
+For externally funded projects, researchers and study teams should ensure that any AI use is allowable per sponsor regulations and policies.  
+The National Institutes of Health (NIH) “will not consider applications that are either substantially developed by AI, or contain sections substantially developed by AI, to be original ideas of applicants.”
+The National Science Foundation states that “proposers are encouraged to indicate in the project description the extent to which, if any, generative AI technology was used and how it was used to develop their proposal.”
+Research involving entirely locally-hosted models is generally allowable, as long as all security framework controls are in place to protect the machines on which they run. Local IT should validate that the model/interface to the model does not include any agentic/web-search features that would extend the reach outside of the local model and that the model meets all legal requirements at Ohio State.
+Human Subjects Research
+Research involving AI raises concerns regarding privacy and data confidentiality in human subjects research. The following should be considered when using AI tools:
+
+AI as an intervention or for use in the administration of human subject research as a tool requires disclosure to the IRB in the protocol.
+The Health Insurance Portability and Accountability Act (HIPAA) protects the privacy of protected health information. Under HIPAA, researchers and/or research units wanting to use an external, commercial AI tool that involves the transfer of PHI in human subjects research must obtain approval from the IRB (acting as the Privacy board), an IT risk assessment, and legal review, as applicable. 
+Use of AI tools on internal computing infrastructure, including cloud computing, where no PHI is transferred, still requires IRB approval and disclosure of its use in consent forms, if applicable.
+The Food and Drug Administration (FDA) regulations on mobile medical applications and devices may apply to AI tools in human subjects research and should be considered in protocol development. 
+Intervention-based research involving AI tools should be thoroughly disclosed and monitored by the research team for both participant safety and data confidentiality. 
+Questions about the use of AI in human subject research, both as an intervention and in support of the administration of the research, should be referred to the IRB.
+Implications for Research Misconduct and Academic Misconduct
+If AI misuse includes a credible allegation of plagiarism or an allegation of fabrication and/or falsification of research data using generative artificial intelligence, the matter will be reviewed under the University Policy on Research Misconduct by the Office of Research Compliance.
+The undisclosed use of AI to create text for research publications, presentations, or grant documents is not an acceptable practice but in most cases does not meet the definition of plagiarism (the appropriation of the ideas, processes, results, or words of another person, without giving appropriate credit).  Such allegations will be referred to the appropriate sponsor and/or college for their determination of any sponsor or publisher violations.  
+Students should use GenAI tools only with the explicit permission and approved methods of each instructor. Concerns of improper AI use, including the use of AI generated hallucinated citations, in the academic or course setting, will be referred to the Ohio State Committee on Academic Misconduct. 
+NIH guidance states that if “the detection of AI is identified post award, NIH may refer the matter to the Office of Research Integrity to determine whether there is research misconduct while simultaneously taking enforcement actions including but not limited to disallowing costs, withholding future awards, wholly or in part suspending the grant, and possible termination.”
+NSF policy states that research misconduct may occur "directly or through the use or assistance of other persons, entities, or tools, including artificial intelligence (AI)-based tools, in proposing or performing research funded by NSF, reviewing research proposals submitted to NSF, or in reporting research results funded by NSF." Specific and credible allegation(s) that fabrication, falsification, or plagiarism occurred through the use or assistance of AI-based tools in the research setting will be referred to the Office of Research Compliance for review under the University Policy on Research Misconduct.
+In alignment with the Research Data Policy, principal investigators are responsible for ensuring research is accurately reported, including verifying the accuracy of all AI-generated content, data, and results.
+Authorship and Peer Review
+AI large language models (LLMs) cannot fulfill the criteria for authorship of scientific publications and therefore cannot be listed as an author. 
+Any approved use of AI-assisted technology, including LLMs, should be accurately disclosed, often in the methodology section, and only used in accordance with institutional and journal standards. 
+Many journals and most federal sponsors prohibit the use of AI tools in the peer review process and therefore, must be avoided.
+Commercialization
+If an input to a publicly available AI tool shares details of a patentable invention, that use could be a public disclosure, resulting in the one-year year timeline to submit a patent application on file in the US, with most patent rights outside the US lost if no patent application has already been filed. 
+For trade secrets, the owner must take reasonable steps to maintain the secrecy of that trade secret. Disclosing a trade secret as an input to an AI tool under terms that don’t include confidentiality could result in a loss of rights. 
+While AI-assisted inventions are patentable, the AI tool is not named as a co-inventor. Researchers are required to share how AI was used in making the invention with your Licensing Officer from ERIK Innovation and Commercialization to ensure that appropriate disclosures are made to the U.S. Patent and Trademark Office when applying for an invention that was developed with the use of AI. Learn more about disclosing an invention.
+Provided that a human researcher selects, arranges, or meaningfully edits AI-generated software in a way that reflects creative choices, the resulting software code may be copyrightable, although only the human-authored elements may be copyrightable. ERIK Innovation and Commercialization can assist you in commercializing software you create as part of your research program, and advise on the best open source license to use to further your research objectives. 
+Copyrighted Content
+The intersection of copyright law and AI is an evolving landscape. When considering the use of copyrighted works in conjunction with AI tools, whether that be as part of a prompt, an AI-generated output, or an LLM training dataset, it is important to exercise the same caution that you would rely on in any setting to ensure that use of an AI tool does not infringe on a copyright owner’s rights.
+Open Access does not mean copyright-free. Using Open Access works in conjunction with AI tools requires careful consideration of licensing requirements and use restrictions.
+The fair use doctrine allows for the use of copyrighted works in certain circumstances, which is determined using a four-factor test that considers the purpose of the use, the nature of the copyrighted work, the amount and substantiality used, and the effect of the use on the market for the copyrighted work. To consider relying on fair use in the context of AI, you would need to perform a fair use analysis to determine if you can make a case for fair use. Researchers should note that the terms of service for content licensed by the library (which fall under contract law) can, and often do, override fair use rights (which fall under copyright law).
+AI-generated outputs must reflect sufficient human contribution to warrant copyright protection. Where AI is used as a tool, and where a human has been able to determine the expressive elements they contain, outputs may be copyrightable in whole or in part. Prompts alone are unlikely to satisfy those requirements. Sufficient human contribution is determined on a case-by-case basis and is still under debate.
+The U.S. Copyright Office offers additional information on copyright and AI in its three-part Report on Copyright and Artificial Intelligence. 
+This guidance is for informational purposes only and should not be construed as legal advice. For questions about copyright in the context of AI, contact libcopyright@osu.edu.
+Content Licensed by the Library 
+Nearly all online content made available to the campus community is governed by license agreements. License terms cover how content can be used for teaching and research purposes.  Functionally, AI technology often relies on text and data mining technology as an early step. Terms for each are usually addressed separately in our licenses. As with any new technology, it takes time to get integrated into licenses. Currently, few licenses have language explicit to AI use. 
+Many of the resources licensed at Ohio State are made available through consortia partnerships with OhioLINK and the Big Ten Academic Alliance (BTAA). There may be some resources where license terms will vary.
+Where a license does not cover use of AI, the general process is to reach out to University Libraries via LIB-ResourceLicensing@osu.edu or your subject librarian for next steps. It may involve working with the content provider to obtain permission to use content or to work directly with them on obtaining the content.
+Other Considerations
+Research involving export control projects must be described in a Technology Control Plan and may not use cloud-based systems or software, which includes AI agents, without the approval of the Export Control office. 
+Consulting with China on anything related to AI should be submitted through the Outside Activity Approval Form (OAAF) process and escalated to the Conflict Approval Committee (for a conflict-of-interest review), Research Security, and Export Controls
+Integrating AI in coursework is vital in Ohio State’s “AI Fluency”. Expanded resources are available to assist in incorporating AI into teaching and learning.  
+Research involving non-generative AI systems, such as machine learning, is generally allowable and is outside the scope of this guidance. 

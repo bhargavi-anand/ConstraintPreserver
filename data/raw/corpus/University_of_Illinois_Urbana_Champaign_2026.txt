@@ -1,0 +1,46 @@
+Academic Integrity Statement and AI Policy
+
+Use of Generative AI
+Generative AI presents a range of intrinsic problems for scholars which we have analyzed in our recent papers. (Please read them!) With our CyberScholar application, we have calibrated the technology to do only those things that it does well.
+
+If you decide to use Generative AI through publicly available interfaces, as well as being extremely cautious of their deficiencies for scholarly work, we require you to provide:
+
+Your prompts
+Output text, with before/after highlighted to indicate the impact of the AI on the work (e.g. use “compare documents” in Word)
+A change note analyzing your experience of advantages and disadvantages in use. 
+
+Be sure you are familiar with the basic benefits and deficiencies of these models (bias, temporal limits on content, hallucinations etc.), and have a basic understanding of how they operate. 
+
+Illinois Student Code
+The Illinois Student Code is considered as a part of our courses’ syllabus. Students should pay particular attention to Article 1, Part 4: Academic Integrity.
+
+IMPORTANT!
+
+Academic dishonesty may result in a failing grade. Every student is expected to review and abide by the Academic Integrity Policy
+
+All the work you do in this course is very visible. Not only is plagiarism a terrible idea; it will be obvious in ways that is not obvious in traditional course formats because your work will be seen by many eyes. Fortunately, for these reasons, we experience very little plagiarism in our courses. However, just in case, here are some rules, additional to the University’s standard rules.
+
+Citing Peers: This is a collaborative knowledge community. We want you to learn from each other’s work, as much as from the resources that we provide and that you identify. When you have learned something from a course participant, please cite the source. This might be an update they have made, or a peer-reviewed work. Include author, title, and a weblink as your citation.
+Self-Plagiarism: Do not self-plagiarize, or copy work from previous updates or works, or other courses. All work must be new. If you want to refer to earlier work, cite it, including author, title, and a weblink as your reference.
+Generic Evaluations: Do not copy/paste generic review text or annotations (an old teacher’s trick, we know, when faced with the chore of grading). Comments and annotations must be tailored to a specific work.
+Appropriate Use of AI: See above
+
+Ways to Use Generative AI
+There are good and valid ways to leverage the power of generative AI. Here are a few ways:
+
+Use it as part of the revision process to enhance your own work.
+Shorten your own text.
+Revise your own text for spelling and grammar.
+Create study aids (e.g., flashcards) for quizzes or exams.
+Test and practice your knowledge of course topics.
+Conduct basic research on course and assignment topics.
+Use it to help come up with new ideas or expand upon existing ones.
+Develop skills related to usage of generative AI as it will add value to your profile for the workplace.
+Generative AI can help people communicate, translate, summarize, and more.
+Ways Not to Use Generative AI
+There are some things to keep in mind when using generative AI for your coursework. Here are a few:
+
+Don’t rely solely on information provided by generative AI as it may be inaccurate, misleading, biased, and even made-up. So can citations provided by generative AI.
+Be transparent in your use of generative AI and cite as appropriate.
+Don’t use generative AI to replace your critical thinking and problem-solving skills.
+Use generative AI to supplement your learning, not to replace it.

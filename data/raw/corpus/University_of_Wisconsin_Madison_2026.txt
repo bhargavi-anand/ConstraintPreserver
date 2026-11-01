@@ -1,0 +1,62 @@
+UW–Madison guiding principles for generative AI in teaching
+This guidance is based on the work of cross-disciplinary teams at UW–Madison including faculty, instructional academic staff, academic technologists and student affairs specialists. Campus guidance and resources will continue to evolve to reflect developments in this rapidly changing space.
+
+This is an accordion element with a series of buttons that open and close related content panels.
+
+Advance accessibility and equity
+Generative AI offers both benefits and risks related to accessibility and equity. Generative AI tools may present opportunities for students who are multilingual, who struggle with writer’s block or writing anxiety, or who are entering a new discipline. At the same time, AI can generate racist, sexist, and other kinds of biased responses and potentially promote such biases. It may also present accessibility barriers for students with certain disabilities. Financial equity is another concern – some students can afford premium subscriptions while others cannot. To promote equity, UW–Madison provides no-cost access to several generative AI tools.
+
+Protect data and intellectual property
+Instructors and administrators are responsible for protecting student privacy and intellectual work, as well as securing FERPA-protected data. They must also follow university policies that apply to the use of generative AI.
+
+With this in mind:
+
+Students should not be asked to submit personal information to AI tools.
+If instructors submit student work into AI tools for the purposes of assisting with feedback, no identifying information should be included. AI should not be used as the primary source of feedback or comments to students.
+Instructors who are concerned about intellectual property may communicate to students that assignment prompts and other instructor-created materials are protected intellectual property and submitting that to an AI tool without permission may be a violation of intellectual property rights. (For more on communicating with students, see AI Statements for Course Syllabi.)
+Consider educational uses
+Generative AI can support student learning and open new opportunities for teaching.
+
+Potential uses for students
+To access just-in-time support at various stages of the learning process – to generate or test out ideas or formulas, to summarize or distill complex thinking, to learn specific genre conventions, and to check grammar.
+To clarify complex readings, issues or points of confusion.
+To support research – finding, generating and analyzing data quickly; encouraging multimodal approaches to communication (e.g., generating websites or posters).
+To check knowledge of course content by generating practice quizzes.
+Potential uses for instructors
+Help with designing course materials, including syllabi, questions, quizzes and prompts for learning activities.
+Explaining complex concepts in multiple ways for diverse learners.
+Generating drafts of announcements or newsletters for large classes or cohorts.
+While instructor feedback on an entire student work should not be automated, AI can assist with generating ideas for praise, considering additional approaches, and offering stylistic or grammatical suggestions to a specific paragraph.
+Just as you may expect students to be transparent with you about their use of AI, be prepared to share with students how you are using it.
+Learn more in the AI Prompt Cookbook.
+
+Adapt learning experiences and assessments
+Whether or not you choose to use AI, consider how to adapt learning experiences and assessments. Think about the skills students need to develop and use independently as well as the tasks where AI is increasingly being employed as part of a discipline or profession. The following strategies can help:
+
+Scaffolding learning tasks and assessments so students feel capable of success without relying exclusively on AI.
+Developing authentic assessments and activities that can be completed without AI, such as in-class discussion; personal narratives; assignments focused on local and/or very recent events; applications of learning to real-world scenarios; and collaborative learning, such as peer review and group projects.
+Considering metacognitive learning strategies, such as writers’ memos, reflections on learning and sharing thinking processes.
+Considering flipped classroom and active learning opportunities using tools such as Top Hat and time in class to brainstorm or work on assignments.
+Using process-over-product approaches, such as sharing Google drafting histories, scaffolded assignments and assessments, check-ins on progress, and conferences with students to gauge learning. Communicating Across the Curriculum (the Writing Across the Curriculum Sourcebook) includes suggestions for scaffolding writing assignments.
+Learn more in the guide Planning AI Use in Your Course
+
+Discuss course expectations and academic integrity with students
+The proliferation of generative AI tools necessitates intentional and thoughtful discussions about AI, broadly (what it is, can do, etc.) and, more specifically, how it relates to student learning and academic integrity.
+
+Communicate with students about generative AI (including how it relates to academic integrity), both at the start of a course (in course syllabi, in Canvas and in conversation) and throughout the semester.
+
+Here are some things to consider when thinking through communications with students:
+
+Instructors may have a policy for the entire course, or have specific instructions for individual assignments and assessments. Recognize that students may receive different guidelines from other instructors. View sample syllabus statements.
+Provide clear instructions, examples and explanations to help students understand the expectations. Explain when generative AI can be used (e.g., initial queries, topic development, help structuring a written assignment or project) and when AI might hinder their learning or development of essential skills and knowledge (e.g., relying on AI to complete a math assignment that builds skills necessary for more advanced work).
+If instructors plan to discourage or prohibit the use of AI, it is particularly important that they explain why to students in the context of learning outcomes for the course.
+If allowed, consider when/how/in what way AI-generated content should be cited and whether to require students to turn in, or at least retain, chat transcripts.
+Establish a clear and transparent dialogue with students early (and often) to help avoid an instructor-student dynamic built on mistrust. Using a “misconduct” lens can create a climate of policing/suspicion.
+Incorporate the topic of generative AI into a broader discussion on academic integrity and professional ethics within an instructor’s discipline.
+Participate in conversations about academic integrity and generative AI with colleagues in your department. Departments are being encouraged to facilitate conversations within their specific discipline to clarify shared expectations and identify strategies for promoting professional ethics within the discipline. Academic associate deans, CTLM and Writing Across the Curriculum are available to support these conversations.
+Address potential misconduct using established policies and procedures
+Instructors are encouraged to take a proactive approach to prevent misconduct, using the teaching and communication strategies outlined above.
+
+Avoid generative AI detection tools – they are imperfect at best, carry the risk of false positives, have been shown to be biased against non-native English speakers, and will not prevent students from using these tools. UW–Madison has decided not to offer an enterprise tool for AI detection due to these issues.
+
+If an instructor suspects a student has not followed their established course guidelines on generative AI, they should address it as they would any case of suspected academic misconduct, beginning by meeting with the student to discuss concerns.

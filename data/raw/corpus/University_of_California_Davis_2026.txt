@@ -1,0 +1,46 @@
+AI Guidance
+We encourage members of the UC Davis and UC Davis Health communities to experiment with AI tools responsibly and adhere to the guidelines below. AI guidance is subject to change as new tools, platforms, and information become available.
+
+Use UC Davis–Approved AI Tools
+UC Davis and UC Davis Health provide access to a wide range of AI tools, including education versions of popular commercial products. Through UC contracts, the university ensures rigorous security and privacy protections and the integrity of UC Davis data.
+
+Use the UC Davis–approved versions of AI platforms—or tools developed by UC Davis—for university work.
+
+Consult IT Before Procuring AI Tools
+Many AI tools are already integrated into university-approved platforms. Before purchasing additional AI software, consult with your school, college, or unit IT team to ensure compliance with UC Davis and UC Davis Health security and procurement policies.
+UC Davis staff: Submit a Vendor Risk Assessment (VRA) request before purchasing an AI tool.
+UC Davis Health staff: Submit a New Technology Request Initiative.
+
+Consult the UC Davis Interim Administration and Services AI Committee
+All AI tools for use in carrying out Administration and Services responsibilities require review and approval by the Committee before departments at campus and health locations are permitted to proceed with procuring the AI tool. The Committee does not review AI tools used for teaching and learning, research, or UC Davis Health clinical care. Departments can append an AI use case questionnaire during the Vendor Risk Assessment process to submit to the committee for review and approval.
+
+Protect Sensitive Data
+Do not enter sensitive UC Davis data—such as student records, personnel information, patient data, confidential research findings, or financial account details—into AI tools.
+Review the UC data classification guidelines and the data protection level recommended for common AI tools.
+Regularly review and delete stored AI-generated outputs from university platforms to reduce your digital footprint.
+UC Davis Health staff: Additional requirements apply to health data. Consult your unit’s IT professionals for guidance.
+
+Follow the UC Davis Acceptable Use Policy
+Ensure your use of AI tools comply with UC Davis Acceptable and Allowable Use policies, and any specific terms of use applicant to each AI tool.
+Always review AI-generated content before sharing or publishing. AI output can be inaccurate, misleading, or contain copyrighted material.
+You are responsible for ensuring that AI-generated content you share is accurate and compliant with University policies.
+
+Uphold Academic and Administrative Integrity When Using AI
+Instructors: Clearly communicate expectations for AI use in your syllabus and during the start of each term. Consider including assignment-specific guidelines.
+Students: Confirm with your instructors before using AI in coursework. Do not use AI to complete assignments unless explicitly permitted.
+
+Be Alert for AI-Driven Phishing
+Generative AI has made phishing more sophisticated, including fake videos or audio designed to mimic someone without their consent.
+Stay cautious when reviewing unexpected, urgent, or suspicious communications, especially if they ask for personal information. More information about phishing.
+Report suspicious messages to cybersecurity@ucdavis.edu.
+
+Student Guide to Using GenAI
+UC Responsible AI Principles
+1.Appropriateness 
+2.Transparency
+3.Accuracy, Reliability & Safety
+4.Fairness & Non-Discrimination
+5.Privacy & Security 
+6.Human Values 
+7.Shared Benefit & Prosperity 
+8.Accountability

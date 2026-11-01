@@ -1,0 +1,171 @@
+AI @ UNC
+
+A. Staff Generative AI Usage Guidance
+To Administrative Faculty and Staff:
+
+Generative Artificial Intelligence (AI) tools like ChatGPT are becoming more popular. The University of North Carolina at Chapel Hill’s (“UNC-Chapel Hill” or “University”) Generative AI Committee has established the following guidelines to help people use generative AI tools responsibly and ethically. 
+
+These guidelines are for everyone who works at UNC-Chapel Hill and is doing administrative work. This includes students, faculty, and staff. The University has published separate guidelines for using generative AI in research, teaching, and learning. Please refer to those guidelines if they apply to you. 
+
+Keep these guidelines in mind as you do your work and use the ones that make sense for what you are doing. As generative AI keeps growing and changing, these rules might get updated. 
+
+If you are unsure about something in these guidelines, or you have an idea about how to improve them, please email the University’s Ethics and Policy Office at policy@unc.edu. 
+
+Guidelines for the Use of Generative AI for Administrative Tasks 
+
+Generative AI tools, including ChatGPT and similar technologies, can generate text, images, and other media. Integrating generative AI into your work can help you be more efficient and effective in getting that work done. However, you must use generative AI responsibly. This includes making sure you understand the applications and limitations of generative AI while also ensuring that any use of generative AI is done ethically and in line with the University’s values, mission, and strategic plan. 
+
+Generative AI has certain limitations that you should consider in administrative contexts:
+It is not always clear how generative AI produces specific outputs; 
+Generative AI outputs are based on existing data, which may contain biases and inaccuracies; 
+Intellectual property concerns arise when using generative AI tools, and the sourcing and ownership of information may be unclear.
+
+Philosophies for AI Use in Administrative Tasks 
+1. AI should help you think. Not think for you: You should think of generative AI Generative AI as a complementary tool that can support you, rather than a replacement for human expertise and judgment. You should maintain an active role in your work and continue to engage directly with relevant stakeholders.  
+2. Quality and Accuracy: You are responsible for making sure any content you create using generative AI is of high quality and accurate. You should be mindful of potential concerns or opposition to generative AI-driven processes and explain how you used generative AI in your work. 
+3. Protecting Confidential, Copyrighted, or Personal Data: Do not enter sensitive information (as defined by the UNC-Chapel Hill Information Classification Standard) into generative AI tools unless the University’s Information Security Office (ISO) has conducted a risk assessment of the generative AI tool and the University’s Data Governance Oversight Group (DGOG) has approved the tool to handle sensitive information. You should be careful and prioritize data privacy and security in all generative AI-related work.  
+4. Digital Accessibility and Inclusivity: When using generative AI in administrative tasks, you should prioritize creating outputs that are universally accessible and inclusive. Recognize that generative AI is only as unbiased as its source data; therefore, make sure that the generative AI’s results foster a diverse and inclusive environment, catering to all regardless of abilities or backgrounds. Please work with the University’s Digital Accessibility Office if you have questions about digital accessibility. Please work with the University’s Office of Diversity & Inclusion if you have questions about inclusivity. 
+5. Transparency and Documentation: You should disclose when you use generative AI for tasks that can impact decisions or have ethical or legal implications. You do not have to disclose when you use generative AI for minor tasks, or if you make significant edits to the output that a generative AI tool gives you. You should always ask yourself whether a reasonable person would expect to know that you used generative AI to create your work product. 
+6. Purposeful Integration: You should use generative AI tools that align best with the specific needs of your work and enhance efficiency and effectiveness. You should evaluate tools based on user-friendliness and potential for personalized experiences.  
+7. Emphasizing Human Skills: You should highlight the value of human skills, such as empathy and adaptability when using generative AI in administrative tasks. Additionally, anyone at the University who uses generative AI tools should recognize and nurture the unique benefits that human interactions bring to the administrative processes. Please note that generative AI should not be used to hire, evaluate, or discipline employees. 
+8. Continuous Learning: You should stay updated with the latest advancements in generative AI technology and best practices in administrative settings. You should take advantage of professional development opportunities to enhance your understanding of generative AI and its implications for administrative tasks. 
+9. Tailoring Guidelines: You should customize departmental/unit guidelines to align with specific administrative tasks. You should regularly communicate the generative AI guidelines to relevant stakeholders and help University employees consider the most appropriate ways to use generative AI tools in their work.
+ 
+Guidelines for Specific Administrative Tasks 
+1. Administrative Presentations: You can use generative AI-powered tools to create visually engaging presentations by incorporating interactive elements, visualizations, or simulations to effectively convey information during administrative meetings or training sessions. 
+2. Communications: You may use generative AI when drafting audio, visual, or written communications. However, you must critically review content for tone, accuracy, and inclusivity to prevent potential misinformation, misinterpretations, and/or violations of intellectual property under the UNC-Chapel Hill Copyright Policy. 
+3. Data Analysis and Reporting: You may use generative AI when analyzing data and recognizing patterns in various data sets. However, you should be careful when using generative AI tools. Always consider the sensitivity of the data you are using.  
+4. Document Generation and Processing: You may use generative AI when creating administrative documents, including budgets, reports, memos, or letters. Generative AI tools can also help process and organize large volumes of paperwork, such as student applications or financial aid forms. Generative AI should not be used to generate documents used to hire, evaluate, or discipline employees.  
+5. Resource Allocation: You may use generative AI to support resource allocation within the University. This may include scheduling classes, assigning rooms, or managing faculty and staff workloads, based on factors like availability, preferences, and constraints. 
+6. Support Services and Workflow Automation: You may use generative AI to offer automated support services. These tools can provide personalized guidance and direct users to suitable resources while potentially streamlining administrative processes by automating repetitive tasks like transcribing, taking meeting minutes, file organization, or scheduling. This approach could enhance efficiency and allow for a concentration on more intricate or value-added tasks. 
+7. Digital Accessibility and Inclusivity: You may use generative AI to create a more inclusive and accessible environment by providing automatic captioning or transcription services for recorded lectures or events. Generative AI tools can also help make administrative materials, websites, or digital content more accessible for individuals with disabilities. 
+8. Compliance Monitoring: You may use generative AI to monitor and assist compliance with legal and regulatory requirements, such as data protection, academic integrity, or accessibility standards. Generative AI can flag potential violations or discrepancies for further investigation but should not rely solely on AI to meet legal and regulatory requirements. 
+9. Programming/Coding: You may use generative AI in some programming tasks but you must be cautious. Ensuring security, adhering to best coding practices, and addressing digital accessibility are critical, and you should be vigilant about potential intellectual property issues. 
+
+Sourcing Generative AI Tools
+1. Appropriate & Informed Sourcing: When using generative AI tools, you should make sure the technology and data sources you use adhere to privacy and security policies. Additionally, it’s important to investigate the provider’s track record, commitment to ethical generative AI practices, and adherence to industry standards. Always consult your unit’s Senior IT personnel before using or procuring any generative AI product for University business. Your IT personnel can discuss solutions relevant to your use case that may already be vetted and utilized in your department, unit, or more broadly on campus.  
+2. Reliability: Before you use a generative AI tool, you and your unit’s Senior IT personnel should thoroughly evaluate its reliability and accuracy. If possible, you should conduct pilot tests to assess the suitability and effectiveness of generative AI tools for specific administrative tasks. Pilot tests are an effective way to determine if the tool and/or service will work in your environment.  
+3. Documentation: In line with the above guidelines, you should acknowledge the use of generative AI in administrative tasks regarding the sourcing of generative AI. This sourcing documentation may include items such as user manuals or software-specific guidelines. Documenting how generative AI is sourced and why helps stakeholders understand the role of generative AI technologies in their interactions and decisions. You should emphasize the importance of following documentation guidelines when utilizing generative AI tools. Sourcing documentation is crucial to ensuring sustainability and the retention of institutional knowledge.
+ 
+By following these guidelines, those fulfilling administrative tasks can use generative AI effectively while upholding ethical standards and ensuring a positive impact on administrative processes. 
+
+B. Teaching Generative AI Usage Guidance
+To the Instructor:
+As you are likely aware, the use of generative AI tools such as ChatGPT has sparked numerous inquiries related to instructional practices. To address these and other emerging concerns, the Provost and Deans established the UNC Generative AI Committee, with representatives from every academic unit.
+The Committee has developed the following set of guidelines for instructional applications of generative AI. These guidelines aim to establish a framework for the ethical and responsible employment of AI tools in your teaching.
+Please review these recommendations and integrate them into your instructional practices, tailoring them as necessary to suit your specific course requirements. It is also recommended that you inform your students about the intended use of AI in your course on the first day of class.
+Given the rapid pace of advancements and instructional applications in generative AI, we anticipate these guidelines to continue to evolve. Thus, if you have any questions or feedback, please do not hesitate to reach out to Dana Riger at driger@unc.edu or your academic unit representative.
+
+
+Teaching Use Guidelines for Generative Artificial Intelligence 1
+Introduction
+ChatGPT and other generative Artificial Intelligence (“AI”) tools that can produce text, images, and other media are now widely available. Integrating AI technology into teaching can enhance the learning experience for our students. AI can be a powerful tool to assist instructors in delivering effective instruction, promoting engagement, and facilitating personalized learning. At the same time, AI can create significant disruptions to learning that yield challenges and opportunities for teaching practices. It is crucial to address classroom and pedagogical challenges responsibly, adjust teaching approaches, and maintain a balance between AI use and human interaction to ensure a holistic educational experience. AI tools are important for instructors to understand and use effectively, appropriately, and ethically. Instructors are responsible for understanding the uses and limitations of AI for both education and the workplace.
+
+Generative AI is limited in the following ways:
+1. How output is arrived is not clear as the internal processes used to produce a particular output within the generative AI cannot be determined.
+2. The output is based on existing data (often scraped from online sources) and may reflect biases that should be acknowledged; it may also be inaccurate or entirely fabricated, even if it appears reliable or factual.
+3. AI evokes a range of intellectual property concerns; sourcing and ownership of information is unclear, and the status of AI output raises numerous questions—e.g., is output equivalent to a published resource? What citational responsibilities are in place for various AI interactions?
+The following sections offer philosophies for AI and teaching and specific guidelines for approaching these AI tools and features. Unless your college, school, or department provides other guidelines, you should use these.
+
+Usage Philosophy
+Usage of generative AI in your teaching should be based on the following principles:
+
+1. AI should help you teach, not teach for you. AI can serve as a complementary tool to support instructors, but is not a replacement for human interaction. Instructors should continue to play an active role in the teaching process and maintain direct engagement with students. Therefore, make sure you understand how AI tools help achieve learning goals and improve student understanding.
+2. Balance quality and timeliness for grading purposes: Take into consideration whether AI is suitable for grading an assignment. If it is deemed appropriate, make sure to verify that the output generated by the AI accurately reflects the actual accomplishments or feedback you would otherwise provide to students. Further, think about the potential discomfort or opposition from students towards AI-driven grading and consider explaining your decision to employ it.
+3. You are 100% responsible for your teaching materials. You are responsible for any mistakes made by AI if you choose to incorporate its output into your lectures or other course content. If you are unsure about the accuracy of a statement, it is your responsibility to research and verify it before using it. This includes properly attributing ideas, ensuring the accuracy of facts, and using correct sources.
+4. The use of AI should be open and documented. It is essential to be transparent and document the use of AI in your work. Inform your students about the use of AI in generating course assignments, exam questions, and other relevant materials. Provide explanations or demonstrations of how AI is employed, helping students understand the technology’s role and limitations.
+5. Adjust teaching practices to address AI use concerns. Complement any limits placed on AI use with activities that promote intellectual aims challenged by uncritical AI practices. For example, emphasize in-class generation of knowledge and foreground process-based learning. Consider incorporating oral- or performance-based activities and identify opportunities for reflection and meta-cognition.
+6. Select AI tools that align with course objectives. Utilize AI to align teaching strategies with course objectives, making sure that it enhances rather than overshadows the learning process. AI tools should be selected to support students’ learning needs. Consider ease of use, accessibility, and the potential for personalized learning. Instructors should ask themselves what they are trying to help students learn and which AI tool best facilitates that learning. The integration of AI should be purposeful and beneficial to the learning process, rather than being incorporated merely for its own sake.
+7. Ensure that AI use is inclusive. Make sure that the AI tools and instructions provided are accessible to all students, including those with disabilities or diverse learning preferences. Consider the needs of all students when selecting or designing AI-based instructional materials.
+8. Facilitate and encourage critical thinking. While AI can provide valuable insights and assistance, instructors must encourage students to think critically, and question information provided by AI tools. Foster a culture of inquiry and intellectual curiosity and assist students in developing an AI literacy.
+9. Emphasize human skills. Highlight the importance of human skills such as empathy, creativity, and critical reasoning alongside the use of AI. Challenge uncritical attempts to ascribe human characteristics to AI. Teach students to leverage AI as a tool while emphasizing the unique qualities that humans bring to the learning process.
+10. Specify AI policies for your course. Consider tailoring university or departmental guidelines to your specific course. Any guidelines or limits you specify for student submissions supersede the university guidelines. As different instructors and schools may have different guidelines, remind students regularly of your AI policies and how they can use these tools appropriately in your course.
+11. Avoid entering confidential or personal data into AI tools. Putting confidential or personal data (e.g., your students’ One Card details,) into these tools exposes you and others to the loss of important information. Therefore, do not do so.
+12. Stay informed. Keep up to date with advancements in AI technology and instructional best
+practices. Stay informed about emerging AI tools, research studies, and ethical guidelines
+related to AI in education. Engage in professional development opportunities to enhance your
+AI integration skills.
+
+Guidelines for Specifics Assessments & Instructional Resources
+1. Lecture Enhancement: You can utilize AI-powered tools to create visually engaging presentations, such as interactive graphs, visualizations, or simulations. You can also use AI-based language models to generate real-time examples, case studies, or scenarios to enhance lecture delivery and illustrate concepts effectively.
+2. Assessments and Exams: While AI tools can quickly generate a large number of questions, it’s important to review and modify these questions as needed and to ensure the level of learning being assessed is appropriate. AI can also be used to create simulations or interactive assignments that require students to apply what they have learned to solve real-world problems. These can be generated by instructors for formative or summative assessments or by students for self-assessment.
+3. Plagiarism Detection: Exercise caution while utilizing AI plagiarism detection tools, as their accuracy is not guaranteed and there may be instances where they fail to detect plagiarism. Additionally, be aware that individuals could potentially exploit AI technologies to circumvent detection software. Vigilance and mindful use of these tools is recommended.
+4. Student Support: You can integrate AI chatbots or virtual assistants to provide timely and automated responses to common student queries, freeing up instructor time. You can also use AI systems to suggest supplementary resources or personalized study plans based on individual student performance.
+5. Critical Thinking: Provide guidance to help students identify biases and misinformation associated with AI. Develop activities that prompt students to participate in iterative, inquiry-based thinking while using AI tools.
+6. Student Correspondence: Instructors should consider incorporating language into their emails or email signatures to disclose the use of AI-generated text when communicating with students. For example, “The content of this email might include AI-generated responses; however, they have been examined and confirmed by the sender.”
+
+Sourcing Use of AI
+1. Ethical sourcing: When using AI tools, ensure that the technology and data sources used are ethically obtained and comply with privacy and security regulations. Avoid using AI tools that may compromise student privacy or rely on biased or discriminatory data.
+2. Reliability: Before implementing an AI tool, thoroughly evaluate its reliability and accuracy. Consider factors such as the technology’s track record, user reviews, and endorsements from reputable sources. Pilot test AI tools before incorporating them into instructional practices.
+3. Documentation: Include a general statement in the syllabus acknowledging the use of AI in the creation of certain course materials. This statement serves to inform students about the integration of AI technologies and their impact on the learning experience. Additionally, it is recommended that instructors address the importance of following student use documentation guidelines.
+
+C. Research Generative AI Usage Guidance
+To the UNC research community:
+
+As you are likely aware, the use of generative AI tools such as ChatGPT has sparked numerous inquiries related to research and scholarly practices. To address these and other emerging concerns, the Provost and Deans established the UNC Generative AI Committee, with representatives from every academic unit.
+
+The Committee has developed the following guidance for research and scholarly applications of generative AI. This guidance applies to all members of the research community, including faculty, staff (SHRA and EHRA non-faculty), students (undergraduate, graduate and professional), guest researchers (e.g., unpaid volunteers, interns, and visiting scholars), collaborators, and consultants involved in research occurring under the auspices of the University. This guidance aims to establish a framework for the ethical and responsible employment of AI tools in research and scholarship.
+
+Please review this guidance and integrate it into your research and scholarly practices, tailoring it as necessary to suit your specific discipline and accepted research and scholarly practices within your discipline. Mentors and supervisors should have regular conversations with mentees and other research trainees about the intended use of generative AI in their research programs.
+
+Given the rapid pace of advancements in generative AI, we anticipate this guidance to continue to evolve. Thus, if you have any questions or feedback, please do not hesitate to reach out to Eric Everett (Phone: 919-962-0988 or email: eric_everett@unc.edu).
+
+Research Use Guidance for Generative Artificial Intelligence
+Introduction
+Generative AI (Artificial Intelligence) systems such as ChatGPT have emerged from a number of technologies including machine learning and are capable of creating images, text, and other products in response to queries and “prompts.” As a result, generative AI has become a powerful tool for research and scholarship. Systems like ChatGPT can be task-specific and are capable of evolving as information is provided from users and other sources.
+
+Use of generative AI in research involves (at least) the following limitations and risks.
+The operations that produce AI output are often unknown to its end-users. As a result, these tools may generate content that is not amenable to verification via validating primary sources.
+AI-generated output is based on previously existing data and thus reflects the biases and other limitations of that data. These biases need be interrogated and acknowledged. The output may also be inaccurate or entirely fabricated, even if it appears reliable or factual.
+It cannot be assumed that generative AI tools are compliant with rules and laws designed to ensure the confidentiality of private information, such as HIPAA (Health Insurance Portability and Accountability Act of 1996) and FERPA (Family Educational Rights and Privacy Act). Uploading information (e.g., research data, grant proposals, unpublished manuscripts, or analytical results) to a public AI tool is equivalent to releasing it publicly; thus, before any information from you or another individual is uploaded to a public AI tool, appropriate steps must be taken to ensure that the disclosure of that information is consistent with all rules and laws related to the handling of private information.
+Generative AI may present other privacy risks to both individuals and the institution, such as those implicated by data breaches, exposure of intellectual property (IP), and Science & Security concerns.
+Generative AI raises a range of intellectual property concerns regarding the ownership of its output, as well as questions about whether its output is properly treated as equivalent to a published resource. In particular, generative AI may create content that infringes on others’ intellectual property (IP) or copyright-protected works. Generative AI may also create content that leads to allegations of plagiarism or other forms of misconduct against the researcher/scholar.
+Norms and requirements surrounding the citation of AI-generated output, as well as disclosure of the use of AI technologies, are complex, rapidly evolving, and oftentimes unclear. In addition, these norms and requirements may vary substantially depending on the source; for example, publishers, journals, professional organizations, and funding organizations all may have (or be in the process of developing) policies surrounding the use of AI that need to be navigated.
+Usage Philosophy
+University of North Carolina at Chapel Hill policy is that its research be carried out with the highest standards of integrity and ethical behavior. To that end, everyone involved in conducting research under the auspices of the University is responsible for ensuring that they use best practices in proposing, performing, and reviewing research, as well as in reporting research results. Authors are ultimately responsible and accountable for the content and methodology of their published and disseminated work.
+
+Lead Principal Investigators and other key personnel involved in the preparation of grant applications submitted through the University’s Research Administration Management System & eSubmission (RAMSeS) certify the submissions before the grants are sent to sponsors. This entails certifying the following:
+
+The information submitted within this application is true, complete, and accurate to the best of my knowledge. Any false, fictitious, or fraudulent statements or claims may subject the Organization and the Investigators to criminal, civil, or administrative penalties.
+I have the responsibility for the scientific, fiscal, and ethical conduct of the project and to provide the required progress reports if an award is made.
+I will comply with all relevant state and federal regulations, University policies, and contractual obligations in administering the resultant award.
+I have reviewed applicable U.S. Export Control requirements and University policy on Export Controls and will comply with the export control requirements.
+If this is an NIH application, I will comply with NIH Policy on Public Access.
+I will work to ensure that my relationship with the sponsor of this project is free of conflict of interest or consistent with a previously disclosed conflict of interest management plan.
+I can ensure that proper citation practices have been followed in this submission; and
+The information that is proposed in this application represents original work by the investigators named in the application.
+Usage of generative AI in research should be based on the following principles:
+Entering private or confidential information into a public AI tool is tantamount to publicly releasing that information. Uploading information to public AI tools, including by entering prompts or queries into tools like ChatGPT, is a form of release of that information to a third party. The same rules that apply to other forms of public disclosure of private or confidential information apply as well to interactions with public generative AI tools. Disclosure of this type of information to public AI tools exposes both individuals and the institution to potential breaches of privacy and security. Similarly, uploading research data, grant proposals, or analytical results into a public AI tool is effectively to disclose that content publicly.
+The norms of appropriate use of generative AI are constantly evolving, and vary enormously depending on application, context, and discipline. A particular use of generative AI in one research context might be perfectly appropriate, whereas an identical use of generative AI in a different research context might be a serious breach of professional research standards.
+Those who are involved in proposing, reviewing, performing, or disseminating research bear the responsibility for familiarizing themselves with the policies and standards governing the use of generative AI in their research, and are ultimately responsible for the work that they produce and disseminate. This responsibility includes properly attributing ideas and credit, ensuring the accuracy of facts, relying on authentic sources, and appropriately disclosing the use of AI in research. This responsibility applies to all members of the research community, including faculty, students, staff, postdoctoral research scholars, and other research trainees. Individuals with supervisory responsibility for research activities should initiate discussions with their teams to ensure that all members of the team understand both opportunities and responsibilities surrounding the use of generative AI.
+The use of generative AI should be clearly and transparently disclosed and documented. Documentation requirements will vary substantially from research context to research context and from discipline to discipline, but researchers should err on the side of explicitly disclosing any material use of generative AI in their research activities. Here is one perspective, generated by the Association for Computing Machinery:
+“If you are using generative AI software tools such as ChatGPT, Jasper, AI-Writer, Lex, or other similar tools to generate new content such as text, images, tables, code, etc. you must disclose their use in either the acknowledgements section of the Work or elsewhere in the Work prominently. The level of disclosure should be commensurate with the proportion of new text or content generated by these tools.
+If entire sections of a Work, including tables, graphs, images, and other content were generated by one of these tools, you should disclose which sections and which tools and tool versions you used to generate those sections by preparing an Appendix or a Supplementary Material document that describes the use, including but not limited to the specific tools and versions, the text of the prompts provided as input, and any post-generation editing (such as rephrasing the generated text). Authors should also note that the amount or type of generated text allowable may vary depending on the type of the section or paper affected. For example, using such tools to generate portions of a Related Work section is fundamentally different than generating novel results or interpretations.
+If the amount of text being generated is small (limited to phrases or sentences), then it would be sufficient to add a footnote to the relevant section of the submission utilizing the system(s) and include a general disclaimer in the Acknowledgements section.
+If you are using generative AI software tools to edit and improve the quality of your existing text in much the same way you would use a typing assistant like Grammarly to improve spelling, grammar, punctuation, clarity, engagement or to use a basic word processing system to correct spelling or grammar, it is not necessary to disclose such usage of these tools in your Work.”
+Researchers should also be aware of or anticipate other positions coming from journals, publishers, professional associations/societies and funders/sponsors regarding the use generative AI in the creation of new content.
+It is a shared responsibility to stay informed about relevant developments surrounding generative AI. Both the technical capabilities of generative AI tools, as well as the rules and norms surrounding their use, are constantly evolving, and responsible research requires an up-to-date awareness of changes in AI technology and best practices within specific fields of research and scholarship. Everyone involved in research should make efforts to stay informed about relevant emerging AI tools, research studies, and ethical guidelines, and should take advantage of professional development opportunities to enhance their AI integration skills.
+
+
+D. A UNC Student Guide to USING GENERATIVE AI APPROPRIATELY
+
+1. AI should help you think, notthink for you.
+You may be able to use these tools to brainstorm ideas, research topics, and analyze problems, but you must decide what’s appropriate and accurate.
+2. Engage responsibly with AI.
+You must evaluate AI-generated outputs for potential biases, limitations,
+inaccuracies, false output, and ethical implications. Do not put personal or
+confidential data into these tools.
+3. The use of AI must be open and documented.
+You should declare, explain, and cite any use of AI in the creation of your work
+using applicable standards (e.g. APA, MLA, course guidelines). Understand
+that you are ultimately 100% responsible for your final product.
+4. Follow specific AI guidelines in the syllabus.
+If you are unsure, check with your instructor. In cases of alleged academic
+misconduct, Student Conduct would reference guidance in your syllabus.
+
+
+
+
+
+
+

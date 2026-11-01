@@ -1,0 +1,45 @@
+AI and Academic Research
+
+How Can I Use AI Tools in Research
+1. Generating Research Ideas: AI tools analyze data to identify trends, gaps, and emerging topics, helping refine research questions. They suggest innovative angles by recognizing patterns in existing literature or datasets. (You can still Ask-a-Librarian.)
+
+2. Developing Search Strategies: AI tools can identify keywords for better discovery of resources, recommend appropriate library databases, and develop search strategies for those databases. (You can still Ask-a-Librarian.)
+
+3. Finding Relevant Information: AI tools use natural language processing (NLP) to locate relevant articles, papers, and datasets quickly. These tools help you find pertinent and high-quality sources by analyzing content and citations. (You can still Ask-a-Librarian.)
+
+4. Data Scraping: AI tools can scrape data from websites, automatically collecting large amounts of relevant information for analysis. This method has become increasingly popular in research to efficiently gather datasets from web sources.
+
+5. Data Analysis: AI tools enhance data analysis by recognizing patterns in complex datasets, automating repetitive tasks like data cleaning, and generating predictive insights.
+
+6. Citation Management: AI-powered tools simplify citation management by automatically organizing references, generating bibliographies, and ensuring adherence to style guidelines. (Citation managers do this, too!).
+
+Using AI in Coursework
+
+Review Your Syllabus
+Your professor may have included in the course syllabus a statement that addresses the use of AI tools. If not, ask them.
+- What is their level of tolerance with AI tools? Are they permitted at all? If so, to what extent?
+- What qualifications do they place on the limitations of these tools?
+- How should you cite your use of generative AI content?
+ 
+What Is Being Assessed?
+- Is the resource/tool doing the thing for you that is being assessed?
+- Make sure you are doing the work that is being assessed. For example, if spelling isn’t being assessed, then you can use a spell checker. However, if your language skills are being assessed, then you shouldn't use Chat GPT or Google Translate (for example).
+
+Considerations for Academic Integrity
+1. Inaccuracy and Bias are Built-In
+AI models are trained on vast amounts of human-generated text, as a result, they may reflect and perpetuate biases and errors present in this data. Companies producing AI models often put barriers in place to prevent inaccuracy and bias, but their presence and effect are often difficult to correct (see more about this on the "Assessing" page of this guide). 
+
+2. Hallucination
+When AI generates incorrect information, it’s called a “hallucination." Since it is difficult at times to tell where an AI tool is sourcing its data, as a researcher, you have the responsibility to review and identify sources (see more about this on the "Assessing" page of this guide). 
+
+3. Errors
+AI models make mistakes. Although they process and analyze data at incredible speeds, they simply don't possess the intuitive understanding or judgment that a human possesses. We should always review and contextualize its outputs.
+
+Uploading Articles from Library Databases
+Please be aware that many library-provided resources do not allow for the use of their materials with third-party AI tools. If you have any questions regarding permissible use, please email liberm@stthomas.edu.
+
+AI Tools
+AI tools can significantly enhance productivity across professional, educational, and personal tasks. In using them, however, it is important to be aware of which tools are best suited to the task you are trying to accomplish. It is crucial to exercise critical thinking skills and be aware of both the strengths and limitations of any tools you use for research.  Explore the subpages to discover a sampling of AI tools tailored to your specific needs.
+
+Assessing Generative AI Outputs
+Using AI tools for simple day-to-day information seeking may not require much critical evaluation if the accuracy of the answers is not terribly important, but when doing academic research, it is necessary to ensure that the information contained in a generated response is valid and based on trustworthy sources.

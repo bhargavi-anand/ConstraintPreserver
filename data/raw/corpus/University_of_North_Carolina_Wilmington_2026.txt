@@ -1,0 +1,92 @@
+Responsible AI Use at UNCW
+
+Now that Microsoft Copilot with Commercial Data Protection is available for the campus, we want to highlight initial guidelines regarding procurement and use of generative artificial intelligence (AI) tools by UNCW.
+As an institution, we support the responsible use of generative AI, but it is essential to consider several critical factors when utilizing these tools. These considerations include information security, data privacy, compliance, academic integrity and copyright.
+Generative AI technology is rapidly evolving, and we remain committed to monitoring developments and incorporating feedback from the campus community.
+
+Guide For Responsible Use of Generative AI
+The guide below will help you gain confidence in utilizing AI tools and models effectively while ensuring the security of UNCW’s data.
+
+Safety & Risk Measures
+Let’s explore several essential methods for enhancing privacy and security while utilizing third-party AI platforms and tools.
+1. Protect
+Avoid inputting any sensitive data, including certain classifications of university data and other data classified or regulated by state and federal requirements, into publicly-available generative AI tools.
+The University’s Data Governance and Management Policy mandates this precaution. Information shared with generative AI tools using default settings is not private and could potentially expose proprietary or sensitive information to unauthorized parties.
+
+2. Review
+As a user of these tools, you are accountable for any content you produce or publish that includes AI-generated material.
+Keep in mind that AI-generated content may be inaccurate, misleading, entirely fabricated (referred to as “hallucinations”), or even contain copyrighted material. Always review your AI-generated content before sharing it.
+
+3. Be Aware
+Generative AI has made it easier for malicious actors to create convincing content.
+Be vigilant and cautious when encountering AI-generated messages, especially in communication channels susceptible to phishing attempts. As a reminder, please send all suspicious emails to phishing@uncw.edu.
+
+Approval
+University users should determine if Microsoft Copilot with Commercial Data Protection will meet their needs before submitting a request to purchase an alternative. All purchases of generative AI tools require approval from ITS and Purchasing per UNCW 05.151 and 07.400.01 policies.
+ITS will assess the tools before purchase approval to ensure they meet appropriate security, privacy, and compliance requirements.  
+
+Resources & Help
+As you review the resources and policies presented on this page, please remember that the legal and ethical landscape surrounding the development and utilization of AI is continuously evolving.
+For instance, the expansion of the AI industry has led to a rise in "data scraping," where vast amounts of online information are regularly copied and utilized to train new AI models. Although this practice is widespread, its legality and potential ramifications remain uncertain.
+Similarly, other issues concerning generative AI are also subjects of ongoing debate and examination.
+
+Honor Code Faculty Resources
+For questions and inquiries about the honor code or to request additional training for faculty related to student academic integrity, faculty may contact Dr. Chip Phillips, Assistant Dean of Students at 910.962.3119 or phillipsf@uncw.edu.
+
+Generative Artificial Intelligence (AI) Resources
+Clearly Communicate AI Expectations in your Course Syllabus
+With the rise in cases of academic dishonesty at UNCW pertaining to the unauthorized use of Artificial Intelligence (AI), instructors are encouraged to discuss the parameters around the use of AI in their classes on all academic work submitted for credit.
+As you craft your syllabi statements, consider the following:
+Including in your syllabus clear expectations regarding the use of generative AI tools and any differentiation in the usage policy for specific assignments.
+Clearly identify in what situations generative AI use is prohibited or permitted.
+When generative AI is permitted, be clear about student expectations in terms of documentation and attribution, as well as what work is expected to be produced by the student themselves, and how the student is expected to validate or verify output from generative AI.
+
+Example syllabus language…
+Artificial intelligence applications have the potential to support student learning and development when used ethically and responsibly. However, inappropriate reliance can be a barrier to student learning and can pose a significant risk to academic integrity.
+The authorization of the use of generative artificial intelligence (AI tools) in a course is at the discretion of the course instructor, and it is up to the instructor of the course to determine if and how generative artificial intelligence tools can be used and explicitly communicate those expectations to students. If a student has a question on a particular AI tool, it is their responsibility to review it with their instructor to be granted permission.
+In this class (ADD GUIDANCE HERE)
+The use of these tools may vary from course to course or assignment to assignment within the same course. ADD GUIDANCE REGARDING HOW YOU WILL COMMUNICATE EXPECTATIONS HERE. It should never be assumed that the use of AI tools in one assignment is permitted in another assignment or in another course.
+If a student has used generative AI tools in a manner that violates the expectations provided in this syllabus, they will be referred to the Office of the Dean of Students for an honor code violation.
+
+Generative AI Detection Tools
+There are several tools available online that aim to detect generative AI use in student work, with varying levels of reliability. Commercial detection resources popular among educators include Phrasly, Copyleaks, and GPTZero among others.
+UNCW has authorized use of Turnitin’s AI Detection tool through the Canvas platform, which instructors can choose to use on student assignments submitted through Turn It In.
+For FAQ’s on Turn It In’s AI Detection Score, please visit https://www.turnitin.com/products/features/ai-writing-detection/
+Because of the potential for false positives, it is strongly recommended that if you choose to enable this tool, that you use it as a starting point for further discussion and investigation. It is not recommended that you submit an honor code referral with the Turnitin AI Score as the only supporting documentation. While the score may give indication as to how much of an assignment may be generated using artificial intelligence and what areas are in question, it is not always 100% accurate.  There are however, several different techniques that you may employ, which will further support a high AI detection tool score.
+
+Spotting AI in Student Work
+Employing one or more of the following strategies will help you identify potentially AI generated text…
+Off topic, doesn’t address the prompt – Chatbots likely don’t have direct access to the content covered in your course and their output can often be off topic, sparse, or incomplete.
+Inaccurate and Biased Content – generative AI scrapes the internet for information and puts it into text. While it may be good at generating text that has good sentence structure and grammar, the content can be as inaccurate as information found on the web.
+General, Vague and Repetitive - Chatbots usually provide general information, but not the expected detail or specificity. You may notice student responses are so vague that they don't demonstrate any depth of understanding. And the content is often repetitive, with the same concepts phrased differently. You may also sometimes see repetitive structure, such as multiple sentences within two paragraphs starting with the same introductory clauses in the same order.
+Too short or Two or More Thesis or Concluding Statements – Although there is no official character or token limit on ChatGPT’s responses, there is a soft limit of about 4000 tokens (approx. 500 words). So sometimes students cobble together two or more chatbot responses to create a longer paper. This is why the first paragraph sometimes includes two topic sentences. One might start with “This essay examines . . .” and another with “This paper argues . . .” Sometimes you may see a paragraph near the end that starts with “In conclusion . . .” and another with “To summarize . . .”
+Perfect Grammar and Punctuation – It is usually true that AI-generated text will have perfect grammar and punctuation. It will not however, if the student edits the text to insert imperfections or uploads samples of their own writing and instructs the chatbot to write in their style of writing.
+References/Citations - Because chatbots pull together information from many sources, they will not always provide accurate citations. They will sometimes find an author who has written something that would be appropriate to cite, but then make up a new title for that work or fully invent an author and a work. They may also fabricate quotes from real sources.
+Same or Similar Output - If asked to respond to a prompt, AI will sometimes generate text that is very similar to what a student submitted. Nearly identical concepts are often generated in a nearly identical sequence. In many cases it is highly unlikely this would happen by coincidence.
+Over-the-top, extravagant words and phrases atypical of student writing – For example, “Here, There and Everywhere" is a breathtaking ballad created by Paul McCartney. It's a masterpiece of simplicity and emotion. The harmonies are nothing short of exquisite, and the lyrics are profoundly touching.”
+
+Citing and Referencing Generative AI
+Below are a few helpful resources for citing AI in assignments and papers.
+APA Style 7th Edition: ChatGPT & Other AI Generative Tools
+How do I cite generative AI in MLA style? | MLA Style Center
+The Chicago Manual of Style - Citation, Documentation of Sources
+
+Pedagogical Strategies to Minimize Misuse
+From ChatGPT: A Brief Introduction and Considerations for Academic Integrity “. . . strategies to consider to help you and your students navigate this new territory:
+Scaffold the activity by asking students to turn in an outline and iterative drafts that address comments and feedback from the instructor or teaching assistants. This requires students to show progression in a way that is difficult for tools like ChatGPT to produce.
+Ask students to write papers using a shared Microsoft document through One Drive so you can see the version history.
+Use writing prompts that are more specific or require students to cite specific texts.
+Use AI tools to teach students. [e.g.,] generate essays in ChatGPT and have students critique them.
+Discuss with students what is considered acceptable use of AI technologies (e.g., generating a summary of a field) and what is not (e.g., responding to a specific assignment prompt).”
+
+From AI-Generated Content in the Classroom: Considerations for Course Design
+Consider connecting your assignment prompts deeply to in-class discussions and activities. AI content generation services do not have access to your course content, so requiring mention of topics or ideas specific to your class negates the value of AI-created content.
+Require more than one draft of the same paper/assignment. Have students bring a first draft to class, then work during class to revise and improve the paper/assignment. Even if students use AI-generated content for their first draft, they will be invested in the work to refine the second draft.
+Encourage primary research, when possible, so that student work uses information not available on the internet (e.g., interviews, reviews of archival materials).
+Consider using citation practices that require DOI numbers or links to validate resources. Crossref is an excellent tool for validating resources, and you could have students include a report with their bibliography showing the Crossref results and explaining any mismatches/errors that came up.
+Include a reflective component in your paper/assignment that can only be created by students themselves. AI content generation services do not have the ability to create content that is not based on reported and searchable information.
+Develop writing prompts and other assignments at levels of Bloom’s Taxonomy that require higher-level cognitive engagement. AI content generation services can construct content at the “create” and “evaluate” levels rather effectively; however, content that requires students to “analyze,” “apply,” “understand,” or “remember” is often lacking in complexity and depth.
+Use small assignments/papers in conjunction with other technologies to allow them to be written during class time, such as a Canvas quiz or a prompt on Nearpod.
+Consider multi-modal project types, such as presentations, videos, or podcasts.
+Group and/or client-based projects, where students must collaborate with one another or external entities.
+Problem-based learning and design thinking are processes that are too complex for AI content generators to navigate effectively.

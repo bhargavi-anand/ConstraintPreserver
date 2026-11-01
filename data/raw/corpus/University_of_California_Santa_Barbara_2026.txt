@@ -1,0 +1,90 @@
+Guidelines for AI Use
+
+Ethical use is critical when applying AI tools to an academic setting. 
+These guidelines, developed by the UCSB ITC Subcommittee on AI, are intended to serve as guidance for members of the campus community who engage with AI for research, teaching, administrative work, and other university-associated functions. They are intended to be applied in contextually appropriate ways to a rapidly evolving set of AI conditions.
+
+Accuracy, Reliability, and Safety
+AI-enabled tools should be effective, accurate, and reliable for the intended use and verifiably safe and secure throughout their lifetime.
+
+Privacy and Security
+AI-enabled tools should be designed in ways that maximize privacy and security of persons and personal data.
+
+Fairness and Non-Discrimination
+AI-enabled tools should be assessed for bias and discrimination. Procedures should be identified, depending on the concrete tool and deployment context, and put in place to proactively identify, mitigate, and remedy these harms. 
+
+Shared Benefit and Prosperity
+AI-enabled tools should be inclusive and promote equitable benefits (e.g., social, economic, environmental) for all. Knowledge of available AI-enabled tools and access / instruction / training to AI-enabled tools created and used in a university context should be made broadly available to the community.
+
+Appropriateness
+The potential benefits and risks of AI and the needs and priorities of those affected should be carefully evaluated to determine whether AI should be used, or if the use of AI should be endorsed, discouraged, or prohibited. Before individuals or units make decisions about AI, potential benefits and risks should be carefully evaluated, along with the needs and priorities associated with the context for AI usage.
+
+Human Values
+AI-enabled tools should be developed and used in ways that support the ideals of human values, such as human agency and dignity, and respect for civil and human rights. Individuals or units implementing AI tools should ensure that adherence to civil rights laws and human rights principles is examined as part of AI tool adoption where rights could be violated.
+
+Transparency
+Individuals should be informed when AI-enabled tools are being used. When individuals are permitted or forbidden to use AI tools, or when individual or campus unit data is used to train AI-enabled tools, this should be made clear by the units implementing the AI tools. The methods being used to gather the data and provide them to the AI tool and the purpose(s) for doing so should be explained. Individuals should be able to request that their data not be used, and remedies to address harms should be in place should they occur.
+
+Accountability
+The University of California Santa Barbara should adopt appropriate policies, processes, and structures to ensure that the University consistently enacts and pursues adherence and accountability to the above principles in its development, use, and regulation of the use of AI systems. In implementing AI tools the University and/or its relevant units should provide a clear process for individuals to express concerns about their use. The University should remain aware of general AI developments, especially in conjunction with enterprise-level technologies for which the University has contracted, and ensure that these are consistent with the principles outlined in this document.
+
+AI Technical & Security Guidelines
+Image
+lock graphic
+ 
+
+These guidelines focus on deploying artificial intelligence (AI) solutions while upholding data security, privacy, and ethical use to ensure the responsible and secure adoption of AI technologies at UC Santa Barbara. These guidelines should be used by those units and individuals responsible for the technical implementation of AI solutions at UCSB.
+
+1. Data Management and Protection
+Privacy: 
+Ensure third-party AI systems comply with privacy regulations such as FERPA and GLBA.
+Collect, store and process only the necessary data to minimize privacy risks.
+Minimize or mask personal information to reduce the risk of re-identification.
+Security: 
+
+Verify vendors and/or solutions use strong encryption for data at rest and in transit.  
+Vendors must also delete all UC data when a contract ends.
+Data Proximity: Prioritize architectures locating data near AI compute capacity for cost and performance efficiency.
+
+2. Vendor Evaluation
+Security Reviews: 
+Assess the inclusion of AI third-party applications, including privacy policies, certifications, and audit reports.
+Consult with the Office of Information Security to assist with reviewing the use case and AI implementation. Users who seek to incorporate P3/P4 data should contact the Chief Information Security Officer's office and may also need to contact UCSB Human Resources for employee data. They may also need to contact the Campus Privacy Officer.
+All AI implementations must follow UC information security policies, including required security reviews.
+Transparency:
+
+Request documentation on how AI models process data and generate outputs.
+Data Usage:
+For third-party tools, choose AI engines that do not use UCSB prompts or data for training. UCSB-developed tools and/or models must utilize and store UCSB data in a manner consistent with both these guidelines and the UCSB Responsible AI Principles.
+
+3. Deployment Best Practices
+Piloting:
+Test AI technologies in controlled environments before full deployment.
+Training:
+Training data must be anonymized
+Integration:
+Ensure solutions integrate securely with UCSB infrastructure using compliant APIs.
+Continuous Improvement:
+Be ready to replace AI engines to take advantage of improved performance, reductions in cost, or vendor misbehavior.
+
+
+AI Considerations for Faculty
+
+Does generative AI tool enhance teaching and learning experiences while maintaining academic integrity?
+Am I being transparent about the use of AI-generated content in course materials?
+Am I encouraging students to use AI responsibly and ethically?
+Am I complying with University policies governing behavior when using AI in the academic environment?
+AI Considerations for Staff
+
+Am I using generative AI to improve administrative processes and decision-making?
+Am I ensuring data privacy and security when using AI tools in daily tasks?
+Am I staying informed about the latest AI developments and best practices?
+Am I complying with university policies governing workplace behavior when using AI?
+AI Considerations for Students
+
+Am I using generative AI to support learning and research while adhering to academic integrity policies?
+Am I properly citing AI-generated content in academic work?
+Am I aware of the limitations of AI-generated content?
+Am I verifying its accuracy before using it in academic or research contexts?
+Am I complying with university policies governing behavior when using AI in the academic environment?
+
+

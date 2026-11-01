@@ -1,0 +1,27 @@
+Interim AI Usage Guidelines
+
+The following interim AI usage guidelines are recommended while the university develops a comprehensive AI policy and other supporting resources.
+
+Legal, Ethical & Institutional Compliance
+
+Follow Existing Laws, Regulations & Policies: All faculty, staff and students who use AI tools (“users”) are fully responsible for ensuring that any use of AI-generated results complies with all applicable laws, regulations and university policies, including those related to data governance, academic integrity, communications, IT security and accessibility. The user is accountable for any actions or decisions resulting from the use of AI tools.
+
+Seek Approval for New AI Tools: Any new generative AI platforms, chatbots or tools must undergo formal review and receive approval from TCU Information Technology and/or the Office of the Provost prior to use or deployment.
+
+Human Oversight & Responsible Use
+
+Use AI to Support, Not Replace, Human Judgment: AI tools should enhance—not replace—critical thinking, expertise and human oversight. Final decisions, especially those affecting people (e.g., students, employees, stakeholders), should be made by users, not algorithms.
+
+Be Transparent When Using AI: To the extent possible, faculty, staff and students should clearly disclose when AI tools contribute to academic or professional work.
+
+Stay Informed & Use Judiciously: AI technologies are rapidly evolving. Users are encouraged to remain curious, but also cautious and informed. When in doubt about appropriate use, seek guidance from your supervisor, university leadership or simply err on the side of caution.
+
+Data Privacy & Security
+
+Protect Privacy & Do Not Upload Sensitive Data: Safeguard confidential, proprietary and personally identifiable information (PII). Do not enter or upload any sensitive data—such as student records, personnel files, research data or internal documents—into public or third-party AI tools unless the tool has been formally approved by the university. This includes both typed input and file uploads (e.g., spreadsheets, documents, images).
+
+Accuracy, Fairness & Integrity
+
+Prioritize Accuracy & Fact-Checking: AI-generated outputs should be reviewed and verified for factual accuracy, appropriateness and potential bias. Do not rely on AI as a sole source for information without corroboration.
+
+Avoid Bias & Harm: Be mindful of the potential for AI systems to reinforce stereotypes, marginalize voices or produce discriminatory results. Use AI in ways that align with university’s values.

@@ -1,0 +1,74 @@
+﻿Generative AI tools offer many capabilities and efficiencies that can greatly enhance our work. When using these tools, members of the University community must consider issues related to information security, privacy, compliance, and academic integrity.
+View guidance on using and procuring generative AI tools such as PhoenixAI, OpenAI’s ChatGPT, Microsoft Copilot, and Google’s Gemini.
+Guidelines on Using and Procuring Generative AI Tools
+1. Protection of University Data
+The use of confidential data with publicly available generative AI tools is prohibited without prior security and privacy review. This includes personally identifiable employee data, FERPA-covered student data, HIPAA-covered patient data, and may include research that is not yet publicly available. Some grantors, including the National Institutes of Health, have policies prohibiting the use of generative AI tools in analyzing or reviewing grant applications or proposals. Information shared with publicly available generative AI tools may expose sensitive information to unauthorized parties or violate data use agreements. (Please see Policy 601 or definitions of confidential data and its use for more information.)
+2. Responsibility for Content Accuracy and Ownership
+AI-generated content may be misleading or inaccurate. Generative AI technology may create citations to content that does not exist. Responses from generative AI tools may contain content and materials from other authors and may be copyrighted. It is the responsibility of the tool user to review the accuracy and ownership of any AI-generated content.
+3. Academic Integrity
+For guidance on how generative AI tools intersect with academic honesty, it is recommended that instructors contact the Chicago Center for Teaching and Learning. (See Academic Honesty & Plagiarism in the Student Manual for University policy.)
+4. Procuring and Acquiring Generative AI Tools
+Generative AI systems, applications, and software products that process, analyze, or move confidential data require a security review before they are acquired, even if the software is free. This review will help ensure the security and privacy of University data.
+Please contact IT Services by submitting our Generative AI Tool Review form before acquiring or using any tools, add-ons, or modules that include generative AI technology with University confidential data, even if they are free. For more information, see the Policy on the Use of External Services and the Policy of Procurement and Engagement.
+Frequently Asked Questions
+This FAQ provides guidance for faculty, staff, researchers, and students on the appropriate use of generative artificial intelligence (AI) tools at the University of Chicago. 
+
+It outlines the review and approval process for AI tools, explains how decisions are made regarding their use, and clarifies when additional oversight—such as from Information Assurance, Procurement, or the Institutional Review Board (IRB)—is required. 
+
+The goal of this guidance is to ensure that the University community benefits from AI innovation while maintaining compliance with applicable laws, contractual obligations, and institutional data protection standards.
+Use of Generative AI Tools at the University of Chicago
+Is the use of Generative AI tools for University work permitted?
+
+Members of the University community who wish to use a generative AI tool should first review the approved tools and use cases. This site is updated bi-monthly with decisions approved by the University’s Chief Technology Officer (CTO) and Chief Information Security Officer (CISO).
+What should members of the University community do if the Generative AI tool or use case they want to use is not listed?
+
+If a desired tool or use case is not listed, the next step depends on whether the tool requires payment for use.
+
+For paid tools, individuals should submit a request through ServiceNow Procurement Intake.
+
+For free tools, individuals should submit the Generative AI Tool Evaluation Form.
+Completing these forms ensures proper review and oversight and helps inform updates to the University’s approved tools and use cases list.
+What are research use and IRB requirements for Generative AI tools?
+
+Researchers who wish to use AI tools in studies involving human subjects must inform the Institutional Review Board (IRB). The IRB must be aware of any technology used to collect, process, or analyze human subjects data. IT Services works closely with the IRB to verify that proposed tools meet University and regulatory requirements, ensuring that research participants’ data are managed securely and in compliance with policy.
+What is the purpose of Generative AI review?
+
+The University recognizes that the review forms request a significant amount of information and may take time to complete. This level of detail is essential to properly evaluate AI tools and use cases, prevent inadvertent exposure of institutional data to external systems, and ensure compliance with applicable laws, regulations, and agreements.
+
+The questions help Information Assurance and IT Services understand how a tool functions, what data it accesses, and whether it meets the University’s security, privacy, and contractual standards. This process supports the responsible and compliant use of AI technologies across the institution.
+What are the review criteria for Generative AI tools?
+
+Information Assurance reviews generative AI tools to ensure they are used securely, responsibly, and in compliance with applicable laws and University standards. Reviews focus on the following dimensions:
+* Research and Compliance Obligations: Whether use of the tool could conflict with existing research agreements, data-use limitations, or regulatory requirements.
+* System Impact: Whether the tool requires tenant-wide activation or integration with University systems.
+* Requester Context: Whether the requester’s role (e.g., faculty, researcher, senior administrator) warrants additional review.
+* Available Safeguards: Whether compensating controls—such as deletion options, data masking, or enterprise licensing—are available to mitigate risk.
+* Business Case: Whether the tool’s institutional value or benefit outweighs any residual risk.
+* Data Use Restrictions: Use of University data by vendors to train or improve their models is not permitted.
+* Requests involving elevated or unresolved risk are escalated to senior leadership for final determination.
+What happens if a Generative AI tool does not meet University standards?
+
+If a requested tool does not meet the University’s security or compliance thresholds, several options are available:
+* Evaluate PhoenixAI: The University’s internal generative AI platform may now provide equivalent functionality. Inquiries can be directed to ai-feedback@uchicago.edu. 
+* Selecting an Alternative Tool: Approved options are listed at genai.uchicago.edu/generative-ai-tools.
+* Getting an exception through a Risk Acceptance Letter (RAL): If the proposed use is not prohibited by compliance regulations but exceeds standard risk tolerance, and the requester still wishes to proceed with the purchase, the request is escalated to senior leadership—the Chief Information Security Officer (CISO) and Chief Technology Officer (CTO), and the Chief Privacy Officer (CPO)—for guidance. If applicable, Information Assurance may prepare an RAL. An RAL serves as formal acknowledgment by requesting unit leadership that specific, defined risks have been reviewed and are being accepted under documented conditions.
+What are the advantages of paid or enterprise versions of Generative AI tools?
+
+Paid or enterprise versions of AI tools are often required because they provide enhanced security and administrative features not available in free versions. Key advantages include:
+* Enhanced Data Protections: Paid versions typically include contractual assurances that institutional data will not be used for model training or shared externally.
+* Custom Contract Terms: Payment allows the University to negotiate and attach its own AI terms governing privacy, data security, and intellectual property.
+* Administrative Oversight: Enterprise tools provide features such as access control, audit logging, and centralized account management.
+* Reliability and Support: Paid tiers generally include stronger service guarantees, priority support, and incident response commitments.
+* These features help ensure compliance with data governance, privacy, and security standards. 
+What is the difference between paid (purchase required) and enterprise Generative AI tools?
+
+Paid (purchase required) and enterprise versions of Generative AI tools both provide stronger protections than free versions, but they differ in how they are accessed and how their use is structured at the University.
+
+Paid versions
+A paid version is required when the free version of a Generative AI tool does not include sufficient protections for University use. In these cases:
+* The tool must be purchased through Procurement.
+* Contract review allows the University to attach or negotiate AI, privacy, security, and intellectual property terms.
+Enterprise versions 
+An enterprise version means the University already has an institutional agreement in place that establishes the terms and conditions for use of the tool. These agreements typically:
+* Establish clear expectations around data protection, privacy, and security at the University level.
+* Include defined service levels, support, and incident response commitments.

@@ -1,0 +1,48 @@
+Artificial Intelligence Guidelines
+
+Syracuse University is committed to ensuring the ethical and responsible use of artificial intelligence (AI) technologies across its campus. These guidelines outline the controls on vendor access to data for AI training and provide guidelines for the personal use of AI to protect business and confidential data.
+
+Scope: These guidelines apply to all individuals using Syracuse University’s AI technologies, computing resources, or information, including but not limited to faculty, staff, students, and external collaborators.
+
+1. Prohibition on Business and Confidential Data: Syracuse University has several policies that help protect University data. Information entered in an AI system may be processed, retained, and used to train models, which can lead to unintentional exposure. This means that if you enter personal information about yourself or any confidential Syracuse University information, that information may be stored and potentially shared with or used by others. In addition, users of AI technologies may unintentionally or unknowingly grant a perpetual license to their information or Syracuse University information to the AI platform/company. Faculty, staff, and students are prohibited from using enterprise or confidential University data in personal AI applications or platforms not approved by Syracuse University.
+
+1.1. Examples of Business and Confidential Data: Include, but are not limited to:
+
+Student records and academic information
+Employee personnel files
+Financial data and budget information
+Research data and unpublished findings
+Strategic planning documents
+Donor information
+Admissions data
+Internal memos and communications
+IT system details and security information
+
+2. Approved AI Tools: To protect University data and ensure compliance with security and privacy standards, only University-approved AI tools may be used for University work. Approved tools are contracted and configured to safeguard sensitive information and prevent AI systems from using University data for training. Use of unapproved or public AI tools is not permitted for University data. Always access approved tools while logged in with your NetID/university credentials.
+
+2.1. Approved AI Tools: When a user is logged in with University credentials (NetID), Syracuse University supports the use of the following University-approved tools for University data:
+
+Microsoft Copilot Work or Web
+Google Gemini
+OpenAI ChatGPT Teams
+Anthropic Claude Team/Enterprise
+Adobe Firefly
+Gradescope
+Blackboard’s AI
+IBL mentorAI
+
+3. Training and Awareness: ITS staff, in collaboration with faculty and staff from around campus, will conduct workshops, training, and resources for the university community to ensure that all users understand AI exploration and implementation, as well as the potential risks associated with AI and the importance of data protection
+
+4. Reporting and Enforcement: Users must report any suspected misuse of AI or data breaches to the University’s Information Security Office immediately. Claims will be investigated as defined in the University’s Incident Response Plan.
+
+5. Review and Updates: The Data Governance Committee will review these guidelines annually to ensure they remain relevant and effective. The review process includes the following considerations:
+
+5.1. Technological Advancements: The committee will assess recent AI technology advancements and their policy implications.
+
+5.2. Regulatory Changes: Any changes in laws or regulations related to AI and data privacy will be reviewed and incorporated into the guidelines as necessary.
+
+5.3. Community Feedback: Feedback from faculty, staff, and students will be solicited and considered during the review process.
+
+5.4. Performance: The effectiveness of the guidelines will be evaluated based on compliance rates, reported incidents, and the outcomes of enforcement actions.
+
+If you have questions or need more information about these guidelines, please get in touch with the Syracuse University Information Security Office at itsecurity@syr.edu.

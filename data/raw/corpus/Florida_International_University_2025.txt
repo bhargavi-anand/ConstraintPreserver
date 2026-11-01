@@ -1,0 +1,66 @@
+Artificial Intelligence (AI) Acceptable Use Guideline
+
+INITIAL EFFECTIVE DATE:
+May 9th, 2025
+LAST REVISION DATE:
+October 23rd , 2025
+RESPONSIBLE UNIVERSITY DIVISION/DEPARTMENT
+Information Security Office
+
+Scope
+Florida International University workforce members and students must be well-versed with Generative (Gen) AI risks and use cautious when using it. They must be aware that the data entered may be saved and used to train their models. Gen AI technologies include, but are not limited to ChatGPT, Gemini, Claude and DALL-E.
+
+1 Prohibited Use
+1.1.1 Input or upload sensitive data into Gen AI such as
+▪ Health Information safeguarded under HIPAA
+▪ FERPA protected information such as student grades
+▪ Information protected under Criminal Justice Information System (CJIS)
+▪ Documents labeled as confidential
+▪ Research data
+▪ Any data related to University Intellectual property
+▪ Documents that are labeled as Controlled Unclassified Information (CUI)
+▪ Other data types labeled as label 2 and 3 as per FIU Data Classification
+standard.
+1.1.2 Use of Gen AI code to integrate within University’s system
+1.1.3 Use of Gen AI to cause harm such as creating phishing campaign
+1.1.4 Use of AI tools for transcribing meeting notes involving sensitive information
+
+2 Responsible Use
+
+2.1 Workforce members are encouraged to use licensed Microsoft AI tool, Copilot https://copilot.microsoft.com, but shall only enter level 1 and level 2 data as described in FIU Data Classification standard.
+2.2 In Microsoft Copilot for M365 pilot, be aware that all prompts are electronically discoverable and may be subject to public records request. Copilot for web does not store prompts. They are neither electronically discoverable or searchable by IT personnel or end users.
+2.3 Any Units willing to use applications that support Gen AI, must go through the Technology Evaluation Group (TEG) process, https://it.fiu.edu/teg/.
+2.4 Must adhere to all University policies listed in https://policies.fiu.edu.
+2.5 It is your responsibility to ensure that your use of AI is done ethically.
+2.6 Students have the responsibility to ensure that their use of AI is done ethically and responsibly and within the parameters set forth by each of their professors.
+2.7 Always read privacy policies and terms and conditions. Be aware that accepting terms and conditions without delegated signature authority may result in personal responsibility for compliance with AI tools’ terms and conditions.
+2.8 Always be mindful and fact check the results as it may not be accurate.
+
+3 AI Services Matrix
+
+Below you will find AI Services Matrix that describes what type of data is allowed or prohibited in most common AI tools.
+
+4 Incident Reporting
+Report any violations to the IT Security Office at security@fiu.edu as soon as possible, but no more than 24 hours after discovery. 
+
+5 Definitions
+Generative AI (Gen AI): Artificial Intelligence is designed to produce output, normally requiring human intelligence by applying machine learning techniques or large collections of data.
+Data Classification: Categories which define the level of sensitivity of data.
+Health Insurance Portability Accountability Act (HIPAA): U.S. law that sets national standards to protect privacy and security of patient information.
+Family Education Privacy Act (FERPA): U.S. federal law that protects privacy of student educational records.
+Electronic Protected Health Information (ePHI): Health information that is created, received, stored, or transmitted electronically.
+Controlled Unclassified Information (CUI): Sensitive, non-classified information that requires safeguarding.
+Persona Identifiable Information (PII): Any data that can be used to identify a specific person.
+
+6 Related Resources
+AI at FIU https://it.fiu.edu/ai/
+Data Classification Standard https://security.fiu.edu/_assets/docs/data_classification_standard.pdf
+FERPA https://regulations.fiu.edu/FIU-108-2025-04-22.pdf
+Controlled Unclassified Information Policy https://policies.fiu.edu/files/953.pdf
+FIU Incident Response Plan https://policies.fiu.edu/files/862.pdf
+
+HISTORY
+List the initial effective date, revision dates, and/or review date.
+Initial Effective Date: May 9, 2025
+Review Dates (review performed, no updates):
+Revision Dates (updates made to document): October 23, 2025; added definitions, related resources

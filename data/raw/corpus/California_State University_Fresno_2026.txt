@@ -1,0 +1,65 @@
+AI Guidelines
+Learn more about AI guidelines at Fresno State. 
+ 
+Guiding Principles 
+•	Ethical Use
+◦	AI tools should be used to enhance your learning, creativity, and skill development, serving as a support rather than a substitute for personal effort, critical thinking, and original contributions. Use AI thoughtfully to complement, not replace, individual engagement and responsibility.
+◦	Always review relevant course guidelines and consult your instructor to ensure you are using AI appropriately and in alignment with course expectations, and to make sure that use of AI is permitted in the course.
+•	Integrity
+◦	Academic integrity requires that AI tools be used in ways that support independent learning and does not circumvent academic responsibilities.
+◦	AI generated content must be properly cited, clearly disclosed, and used in accordance with university policies, so that honesty, trust, and accountability are maintained in your work.
+•	Transparency
+◦	You are expected to be open and clear about your use of AI tools in academic work.  Always disclose how AI was used and follow any university policies and specific course guidelines.
+◦	Transparent use also includes recognizing AI’s potential limitations or biases and communicating them to maintain academic integrity.
+•	Accountability
+◦	You are ultimately responsible for the quality, originality, and integrity of your  work, regardless of AI assistance.
+◦	AI generated content may contain inaccuracies, outdated information, or biases. It is your responsibility to critically evaluate, verify, and refine any AI assisted output to ensure it reflects your own learning and critical thinking.
+•	Fairness
+◦	AI tools should support your learning and enhance understanding, not to gain an unfair advantage or replace collaboration.
+◦	You must not use AI to deceive, fabricate data, or manipulate information. Fair use respects honesty and collaboration.
+•	Privacy and Security
+◦	Use AI tools responsibly to protect privacy, confidentiality, and intellectual property. You should not input or share personal, confidential, sensitive data, or intellectual property when using AI tools.
+◦	Your use of AI must align with institutional policies on information security, privacy, and academic integrity always.
+
+General Guidelines:
+1	Do Not Share Sensitive Information
+◦	Do not upload or share personally identifiable information (PII) such as Social Security numbers, student IDs, dates of birth, addresses, phone numbers, or financial data.
+◦	Do not enter student grades, disciplinary records, or academic performance data into ChatGPT.
+2	Do Not Share Confidential or Proprietary Data
+◦	Avoid discussing or inputting any confidential university data, research data, or unpublished findings.
+◦	Faculty should not use ChatGPT to evaluate student work or generate student grades.
+3	Do Not Share Conversation Links or Outputs Without Review
+◦	ChatGPT-generated responses may contain inaccuracies or biases. Always verify information before sharing.
+◦	Do not distribute ChatGPT-generated content without proper attribution or critical review.
+
+General Guidelines for Faculty and Staff
+
+1	Set Clear Expectations for AI Use in Assignments
+◦	If students are allowed to use AI, provide guidelines on appropriate vs. inappropriate use (e.g., using AI for idea generation vs. submitting AI-generated work as their own).
+◦	Consider requiring students to disclose AI-assisted work and reflect on how they used it.
+2	Encourage Ethical AI Use & Critical Thinking
+◦	Teach students to evaluate AI-generated content critically, ensuring accuracy, bias detection, and proper citation.
+◦	Remind students that AI-generated sources may not be reliable and should be fact-checked.
+3	Protect Intellectual Property & Research Integrity
+◦	Faculty should not input unpublished research, grant proposals, or confidential institutional data into ChatGPT.
+◦	AI should not be used for automated grading or providing feedback on sensitive academic work.
+4	Use AI as an augmentation to teaching, Not a replacement for the crucial role of interaction between instructor and student.
+
+General Guidelines for Students
+Faculty across all academic disciplines are exploring how artificial intelligence (AI) tools can improve learning, encourage creativity, and build skills. They also recognize the risks, such as over-reliance on AI, reduced critical thinking, and academic integrity issues. As AI becomes more common in education, it is important to balance its benefits with its limitations.  These guidelines reflect shared learning community values to guide ethical AI practices in classrooms. 
+Adhere to University Policies on AI Use
+•	All use of AI tools must comply with existing university standards, policies, and guidelines. Misuse of AI, such as using it in ways that violate academic integrity or institutional policies, may result in academic misconduct penalties.
+•	It is the responsibility of each student to be familiar with and follow the university’s overall expectations regarding ethical technology use.
+Review the Syllabus for AI Use in Courses
+•	Each course may have its own rules and expectations regarding AI usage, set by the instructor. Students should carefully read the syllabus and course materials to understand these guidelines
+•	If any questions arise about appropriate AI use in a specific course, students are expected to consult their instructor.  Course-specific norms are shaped by the unique learning goals and ethical standards of each classroom.
+Use AI Tools to Support Learning, Not Replace It
+•	When permitted by your instructor, AI tools can be used like a tutor to assist with tasks such as brainstorming ideas, clarifying concepts, summarizing information, or generating writing prompts. 
+•	AI tools should not replace active engagement with course material or be used to complete assignments without demonstrating independent learning, critical thinking, problem solving and personal effort.
+Properly Acknowledge AI Generated Content
+•	Any content produced with the help of AI tools must be clearly acknowledged and not submitted as your original work without proper citation.
+•	Always follow institutional policies on academic integrity and plagiarism, and ensure you fully understand and correctly attribute any AI generated material used in your work.
+Be Mindful of AI Biases AI is imperfect and can have biases. Being aware of these potential biases is essential. Always apply critical thinking and independent judgment when interpreting AI outputs, and cross-check information as needed.
+•	AI biases can come from different sources, including: Training Data – AI is trained from a massive amount of information, which may include human opinions, cultural perspectives, and biases, influencing its outputs.
+•	Processing Methods – AI processes patterns in data, which may introduce bias by prioritizing ideas or perspectives based on the most frequent patterns it detects.
+•	User Input – The way questions are asked or the details provided can shape AI responses in ways that might reinforce existing biases. 

@@ -1,0 +1,61 @@
+Policies and Guidelines
+
+Summary Guidance
+Work within current University policies.
+Beware of Data Danger & protect confidential, copyrighted, and personal information.
+Any AI tool used with institutional data must follow approval processes.
+Routinely revisit specific usage policies.
+Act ethically with AI.
+You are 100% responsible for the output you use.
+Be transparent and document usage of AI.
+When in doubt, reach out.
+
+Guidelines for Using Generative AI at Notre Dame
+The AI landscape is evolving rapidly, with its capabilities constantly improving and new tools being released daily. The current parameters on using Generative AI at Notre Dame are described below. Note that these guidelines for AI use may change as the field progresses. Ethical considerations, regulations, and guidelines surrounding Generative AI must be regularly updated to reflect its ever-evolving nature.
+
+Notre Dame encourages safe exploration and use of generative AI tools to further our teaching, learning, research, and other pursuits. Keep these guidelines in mind:
+
+Work within current University policies.
+Our policies are here to help protect the University and its people.
+
+The use of AI tools must adhere to existing policies including Responsible Use of Data & Information Technology Resources Policy.
+
+Students are expected to abide by the Generative AI Policy for Students.
+
+Faculty are asked to read the Statement on Generative AI and Academic Integrity and communicate clear expectations to students on using generative AI in their courses.
+
+Nearly all third-party digital information resources provided through the Hesburgh Libraries or other University channels are subject to license agreements. Most of these agreements currently prohibit the use, adaption, copying, or data mining of journal articles, e-book chapters, or other electronic content with generative AI. Doing so without prior, express, written permission from the publisher/provider(s) may violate our license agreement and could jeopardize access to the affected resources for the entire campus, and also subject the University to legal risk. If you are considering using AI or data mining tools on library or other institutionally-acquired third-party content, please email csa-er-management-list@nd.edu to request a consultation.
+Protect confidential, copyrighted, and personal information.
+Generative AI product providers vary in their approaches to data protection, retention, and usage of your data. Entering information into AI tools can be similar to posting that information on a public website.
+
+This data includes:
+
+Information entered via prompts
+Uploaded material
+Personal identifying information like your name or email address
+Other background information you provide to improve personalization
+Any data entered into such tools could become part of its training data, which may be reproduced or incorporated into the output it generates for users outside the University. Providers may store and use your inputs to improve their models; others may share it with third parties for advertising purposes. Some may guarantee data deletion, with others retain your data indefinitely. Often, providers vary their data use policies across products, with free products having a lower default standard for data protection than subscription products. Sensitive business information, personal details, or confidential data entered into these systems could be exposed, reused, or accessed by unauthorized parties. 
+
+Before using any AI platform, understand its specific data policies, security measures, and potential risks to make informed decisions about what information you enter into an online platform.  The University is reviewing AI tools for use with non-public data; see Approved AI Tools for more detail. 
+
+Any AI tool used with University information must follow review processes.
+Faculty, students, and staff may use University information with generative AI tools or services only when:
+
+The information is classified as public, or
+
+The AI tool or service being used has undergone appropriate internal reviews and contract terms are in place to protect university data assets. Visit Approved AI Tools for more information.
+
+Routinely revisit specific usage policies.
+Generative AI technology companies typically provide usage policies to promote safe and responsible use of their products (OpenAI example). Users should be aware of such guidelines set forth by external entities, including the vendor, to ensure ethical and lawful use of the technology. These policies are frequently updated without notice and should be reviewed regularly.
+
+Act ethically with AI.
+Adhere to ethical and legal standards and norms of the disciplines and the University, with regard to data privacy, consent, ownership, and academic integrity. Notre Dame Research has published information about research compliance to help researchers navigate the laws, rules, and policies governing research.
+
+You are 100% responsible for the output you use.
+Generative AI-produced content may be biased, inaccurate, completely fabricated, or contain copyright-protected or proprietary information, therefore requiring thorough human review prior to use.
+
+Be transparent and cite usage of AI.
+The use of generative AI for any Notre Dame related research, scholarship or work, should be clearly documented and disclosed.
+
+When in doubt, reach out.
+As this industry rapidly changes, it is impossible to consider every scenario you might encounter. Work with IT staff to get connected with the right people to help move your project forward, explore use cases, and mitigate risks. You can start with the OIT Help Desk or complete the AI Usage form.

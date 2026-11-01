@@ -1,0 +1,42 @@
+ChatGPT, Artificial Intelligence, and Academic Integrity
+ChatGPT, Artificial Intelligence, and Academic Integrity
+
+Students who use ChatGPT and similar tools on assignments without permission, or who use them in improper ways, are violating the academic integrity rules of the University.
+
+Since its launch by OpenAI in late 2022, ChatGPT has inspired many questions related to academic integrity. Like most tools, ChatGPT (and other artificial intelligence products) can be used for purposes both good and bad. There are legitimate ways to use these tools for research, and there are ways to use them to cheat on academic work. This page aims to explain how students can avoid committing academic dishonesty with chatbots and other online tools.
+
+What Is ChatGPT?
+
+According to its creators, ChatGPT is “a model … which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.”
+
+For example, when preparing this page, the author prompted ChatGPT as follows: “In three sentences, please tell me why academic integrity is important.”
+
+ChatGPT then responded, “Academic integrity is important because it upholds the principles of honesty, fairness, and trust in the academic community. Maintaining academic integrity ensures that students are evaluated based on their own merit and not on dishonest or unethical behavior. Additionally, it helps to preserve the integrity and reputation of academic institutions and the degrees they confer.”
+
+As this exchange illustrates, ChatGPT can often answer relatively simple questions well.
+
+May Students Use ChatGPT and Similar Tools for their Academic Work?
+
+The answer is, “It depends.” If your professor allows you to use ChatGPT, and you use it as permitted, then you are not committing academic dishonesty. This is similar to use of a graphing calculator, which is acceptable as long as the instructor permits it.
+
+Just like a graphing calculator, however, using ChatGPT on assignments is prohibited if the instructor does not allow its use. Students who use ChatGPT and similar tools without permission, or who use them in improper ways, are violating the academic integrity rules of the University.
+
+In the University’s academic policies, we have an entry for “Academic Dishonesty.” You can find it in the Registrar’s Academic Calendar, Academic Policies, Academic Dishonesty.
+
+It states, in part: “Academic honesty is fundamental to the activities and principles of the University. All members of the academic community must be confident that each person’s work has been responsibly and honorably acquired, developed and presented. Any effort to gain an advantage not given to all students is dishonest whether or not the effort is successful.”
+
+Students who use ChatGPT and similar programs improperly are seeking to gain an unfair advantage, which means they are committing academic dishonesty.
+
+In addition, as of August 2023, the University of Missouri explicitly prohibits “unauthorized use of artificially generated content,” which includes, but is not limited to, both “use of artificial intelligence tools or other tools that generate artificial content in taking quizzes, tests, examinations, or other assessments without permission from the instructor” and “submitting work for evaluation as one’s own that was produced in material or substantial part through use of artificial intelligence tools or other tools that generate artificial content without permission from the instructor.”
+
+Can Professors Tell if Students Use ChatGPT?
+
+Sometimes. Tools exist that aim to detect text created by ChatGPT and similar programs. Chances are, the tools that create text will evolve over time, as will the tools designed to detect AI-created text. Students who use generative artificial intelligence improperly put themselves at risk because faculty may discover their behavior. More importantly, by undermining the purpose of assignments, students deny themselves the benefit of learning new material, which is the purpose of taking university courses in the first place.
+
+What’s the Bottom Line?
+
+If you think your instructor would object to your using ChatGPT (or a similar tool) in a certain way, you should not do it. If you are unsure, you should ask your instructor first. If the instructor approves your plan to use an AI tool, then you are not acting dishonestly. If you have any doubt, tell your instructor what tools you used and how you used them.
+
+The Mizzou Honor Pledge states, “I strive to uphold the University values of respect, responsibility, discovery, and excellence. On my honor, I pledge that I have neither given nor received unauthorized assistance on this work.”
+
+To uphold Mizzou’s values, students should commit to doing their own work, without “unauthorized assistance” from humans or machines.

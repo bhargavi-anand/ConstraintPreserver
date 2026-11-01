@@ -1,0 +1,37 @@
+Responsible Use of Generative AI
+What is Generative A.I.?
+Stated simply, generative artificial intelligence (GAI) is a system that relies on very large data sets to generate content (text, images, video) in response to a prompt. This generated content is composed based on a complex model that predicts the likelihood of what output best matches the words used in the prompt. That model uses a variety of computational methods to associate likely outputs with the prompts entered by the user. This model is based on a representation of the contents of the large data set, and not based on a ‘human’ understanding of the prompt or the content it generates.  The collections of texts and images and video informing most commercially available generative A.I. software are taken primarily from the internet and from the prompts entered by users. As a result, the quality of GAI output varies in terms of accuracy and bias. 
+
+The university Joint Task Force on Generative A.I. reached consensus on the following values:
+
+The university values the exploration of new ideas and supports the thoughtful application of new technologies, such as generative artificial intelligence (GAI), to education, research, and administrative processes when appropriate.
+The university values education and research endeavors as processes with human-to human interaction at the core. Technological tools, such as GAI, provide support for but are not a substitute for these processes.
+The university’s mission and values must inform any policies or sanctioned practices involving GAI. The use of GAI should not reduce equitable access to a human-centered, effective, and quality educational experience or impinge on rights to academic freedom, intellectual freedom, privacy, due process, or any other substantive rights.
+Download the Special Report of the Joint Task Force on Generative AI (.pdf).
+
+Faculty Considerations
+Generative AI is innovative and exciting; in the right circumstance, faculty will want to explore its potential uses in teaching and learning. There are also important safeguards that instructors and researchers should be mindful of before implementing activities and assignments using GAI in classes and in labs. 
+
+Support Academic Honesty
+Communicate your policy on AI tool use to your students: Absent a statement in the syllabus, students are advised to check with their instructor about using generative AI tools in your class. If you permit the use of these tools, please tell students how you want their use documented or disclosed. At UMass, the default is that using AI tools as a substitute for their authentic intellectual and creative work is cheating unless instructors say otherwise.
+
+Be careful with data
+Data that you enter when using generative AI to produce text, images, code or video will become part of the model used to train that tool in the future. Don’t enter personal information, copyrighted text, images, or video, and don’t enter protected information about others. This includes data that is FERPA protected. Some university tools may provide additional data privacy protections. The university task force on generative AI has developed a series of recommendations to be mindful of in applying generative AI tools to traditionally human activities such as evaluating scholarship applications, summarizing or checking student work, and offering ranking suggestions for a suite of candidates. ​
+
+Remember your accountability
+Generative AI tools like ChatGPT, Gemini, CoPilot and similar, seem impressive. However, these tools make mistakes. They can give wrong information, fake information, include copyrighted content, give biased results, and the information repositories they rely on are not up to date.  In addition, many granting agencies and publication venues have posted policies regarding permitted use of generative AI in research and scholarship. It is a good idea to help graduate students be aware of these policies at the outset of a project. If you use a generative AI tool to produce work or to contribute to a creative activity, you are just as responsible for the content of that work as if you had only used your brain to produce it.
+
+Resources for Responsible Use of AI
+The Center for Teaching and Learning has compiled information that instructors experimenting with GAI may find useful. IT provides an evaluation service of AI tools from a security standpoint. Faculty and students can find out more information about Copilot which protects user data and does not use user data to train models when users are logged in with a UMass NetID through the University’s license agreement with Microsoft. The Faculty Senate has ruled that the unauthorized use of GAI by students to complete coursework is in violation of the academic honesty policy. 
+
+Researchers seeking external funding may want to review the guidelines on the use of GAI published by the following federal funding agencies. These guidelines include information on GAI use in proposal preparation and in service on review panels, among other important policies:
+
+National Institute of Health (NIH)
+
+National Science Foundation (NSF)
+
+Similarly, scholars should familiarize themselves with the GAI use and disclosure policies of publication venues. The Committee on Publication Ethics (COPE) has published a statement on AI and authorship. Similar statements have been issued by the World Association of Medical Editors (WAME) and The Journal of the American Medical Association (JAMA) network.
+
+Publishers like Elsevier have posted guidance as have Princeton University Press and Taylor and Francis.
+
+This list is not exhaustive. Researchers are encouraged to search for and verify publisher guidance on the use of GAI in scholarly work before incorporating GAI tools into their research.

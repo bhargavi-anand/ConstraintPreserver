@@ -1,0 +1,28 @@
+Brandeis University Artificial Intelligence (AI) Acceptable Use Policy
+Data Privacy and Security
+All AI applications must comply with Brandeis' data governance protocols and cybersecurity policies. Use of regulated, restricted, or confidential information in AI tools requires appropriate authorization and safeguards.
+Ethical and Legal Use
+All students, faculty, staff, and affiliates must ensure that AI tools are used ethically, maintaining the integrity and originality of their work. Guidelines for Ethical considerations may be reviewed on the AI Task Force “Ethical Considerations with AI” website.
+Brandeis community members must adhere to applicable laws and legal obligations when using AI and take care to avoid infringing on the legal rights of others. This may include laws or regulations on intellectual property, FERPA and other privacy laws, and other regulations. In addition, Brandeis community members must comply with applicable contracts, end user agreements, and other terms that relate to the use of AI tools.
+Academic Use
+A. Teaching and Learning
+Instructor Guidelines:
+Under this policy, there will be disciplinary differences in how AI is integrated into coursework depending on learning objectives. Instructors should include a policy in all their syllabi regarding the use (and misuse) of generative AI in their courses and dedicate some time in class discussing the reasons for how AI can be used. Please visit the Center for Teaching & Learning (CTL) website for guidance on developing a syllabus statement. 
+Student Responsibilities:
+Students are expected to maintain the University’s standards of academic integrity, including the use of artificial intelligence. Please refer to Section 4 of Rights and Responsibilities for guidance and resources about artificial intelligence in relation to academic integrity. Additional information on ethical and privacy concerns can be found on the CTL website.
+B. Research
+Responsible Use and Transparency
+AI-generated content should be critically evaluated and not solely relied upon for research conclusions. Researchers are encouraged to ensure that AI tools are used ethically, maintaining the integrity and originality of their work. Regulated, restricted, and confidential data should never be input into AI tools without proper safeguards and approvals. Using AI with preprints or data sets can produce unintentional mistakes, and the author, not the technology, is accountable.
+Any researcher planning to use AI as part of their Human Subjects Research or associated data analysis must consult with the Brandeis Human Research Protection Program (HRPP).
+
+The use of AI in preparing publications and grant proposals may be restricted by publisher and funder policies. For example, see Apply Responsibly: Policy on AI Use in NIH Research Applications and Limiting Submissions per PI | Grants & Funding.
+Administrative Use
+A. Efficiency and Innovation
+Staff are also encouraged to explore AI tools to enhance efficiency in administrative tasks, such as data analysis, scheduling, and communication, or in larger projects and initiatives, while adhering to Brandeis' data privacy and security standards. Employees are required to use University-approved and provided AI tools if using University data or make requests for new tools through the IT Advisory Committee (ITAC) for Operational & Administrative AI technologies or the Academic Technology Advisory Committee (ATAC) for academic-use and research AI technologies. 
+B. Project Requests and AI Assessments
+Staff departments can request assistance through the Academic Technology Advisory Committee or the IT Advisory Committee (ITAC) depending on its intended use in assessing and procuring large-scale AI tool implementations depending on its intended use. 
+Procurement and Approval
+Departments seeking to acquire AI tools must follow the university's procurement policies and obtain necessary approvals from the Academic Technology Advisory Committee (ATAC) or the Information Technology Advisory Committee (ITAC).
+Compliance and Enforcement
+Violations of this policy will be addressed in accordance with existing university procedures for academic and administrative misconduct.
+The AI Task Force will periodically review and update this policy to reflect technological advancements and emerging best practices.

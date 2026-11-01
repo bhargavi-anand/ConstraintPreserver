@@ -1,0 +1,8 @@
+Generative AI Policy
+Binghamton University supports the responsible use of Generative Artificial Intelligence (GenAI) tools for faculty, staff, and students to support teaching, learning, research, and administrative tasks. To ensure ethical and fair use across our campus community:
+	Protect Privacy: The input of personal, sensitive, or confidential information (Protected Information) into any Generative AI (GenAI) tool is prohibited unless approval has been granted. To safeguard data security and privacy, approval for the use of any GenAI tool with Protected Information, including those for administrative or research purposes, must be granted by Information Security. While the use of AI tools is encouraged, a proper risk review must be completed and documented before AI tools are used to process any Protected Information.
+	Be Transparent: Clearly disclose when GenAI tools are used in academic work, research, or other university activities.
+	Uphold Academic Integrity: Use GenAI in ways that align with Binghamton's academic integrity policies as well as New York State IT policies, ensuring work reflects your own effort and understanding.
+	Promote Integrity and Fairness: Verify GenAI outputs for accuracy and fairness, actively reducing bias to support equitable outcomes.
+	Maintain Human Oversight: Treat GenAI outputs as advisory-qualified humans must review and approve any decisions or actions based on them.
+

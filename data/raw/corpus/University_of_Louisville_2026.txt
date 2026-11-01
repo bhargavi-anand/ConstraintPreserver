@@ -1,0 +1,18 @@
+Foundational principles and ethical guidance 
+Artificial intelligence (AI) is rapidly growing in capability, impact and collective influence. Approaches to AI and generative AI (GenAI) should align with our university’s core values and UofL’s Cardinal Principles. UofL is working to have a multi-faceted strategy for ethical guidance, prohibited use, security compliance and accountability for AI, GenAI and the many tools and platforms related to its use. Trusted AI has the potential to add significant value to our institutional mission and goals, create effective efficiencies within administrative ecosystems and empower new directions for research, teaching and learning. 
+Core principles for ITS AI @ UofL
+Human-centeredness
+Enhancing human capabilities and collaborative augmentation should be the goal. AI should work in a synergistic fashion that amplifies human skills, problem-solving and creativity in a manner that offers relevant and timely solutions. 
+Cybersecure and protected
+Robust containment protocols, oversight mechanisms and risk assessment are foundational to our cybersecurity approach to AI and GenAI systems. Protected environments also include guardrails for accountability and responsible use. University policies are set to safeguard, at different risk levels, against unauthorized access or misuse.
+Valid by design
+Through training and validation, our systems, models and tools should deliver accuracy and sound problem-solving and meet the goals of its intended purpose of accurately reflecting what it aims to measure. With iterative improvement over time, both data and AI must remain justified, reasonable and relevant.
+Clarity and transparency
+Providing clear documentation and perceptibility of use is needed with all AI and GenAI. By requiring transparency and attribution for development and use, we maintain the integrity we ask of our users. 
+Accountability
+Accountability spotlights the essential role humans have in working with AI and GenAI as part of any decision-making process. Our collective responsibility for ethical practice using any application of AI technology begins with an individual’s accountability with a rigorous evaluation of the outcome. 
+Fairness and bias mitigation
+AI systems, algorithms and training data require monitoring to prevent discriminatory or unintentional biases. Promoting best practices for accessibility, fairness and impartiality are key. We look to engage a wide spectrum of users from our university community for testing and scaled pilot studies of new platforms and tools. 
+Data privacy and ownership
+A fundamental mandate (and a legal requirement) is that federal privacy regulations and NIST AI risk management framework be followed. Our UofL controlled and contracted AI and GenAI environments, with robust data security measures, ensure university-owned data remains safe. Users are individually responsible for any misuse of systems and data mishandling according to university policy. This includes student data, intellectual property and protected personal information. 
+Additional understanding, awareness and responsibilities come with collaborating with AI and GenAI. A mindful usage approach is highly encouraged: Using tools thoughtfully and purposefully, avoiding frivolous or repetitive queries that unnecessarily burden the system and contribute to any environmental impact. Being a responsible digital citizen requires that you are aware of any academic or course-specific use policies, adhere to university policies and guidelines, and make a commitment to authentic, ethical use. 

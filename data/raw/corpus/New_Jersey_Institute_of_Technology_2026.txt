@@ -1,0 +1,18 @@
+Responsible Use of Artificial Intelligence (AI)*
+NJIT values academic integrity and ethical behavior in all learning activities, including using artificial intelligence (AI) tools in coursework. AI can be a valuable learning aid, providing opportunities to enhance understanding and creativity. In many cases, AI can help students develop new skills and improve student learning outcomes. However, students must adhere to the expectations outlined by their instructors, uphold the standards of academic honesty when using AI tools, and not utilize these tools to conduct or support academic dishonesty such as cheating and plagiarism. 
+
+Most professors will include specific rules regarding AI use in their course syllabus. These rules may vary across professors, courses, and even individual assignments. While many faculty may encourage or even require the use of AI, others may prohibit it, depending on the course learning objectives. If a student has not received explicit authorization from their course instructor to use AI, submitting AI generated work may constitute a violation of the Code of Student Conduct and Academic Integrity policies. Therefore, it is crucial to carefully review the syllabus and seek clarification from the professor when it is unclear.
+
+When using AI tools, students must ensure that their work remains original and is properly attributed. This includes giving credit to the authors or sources of any ideas, quotes, or information incorporated into their assignments, whether generated in whole or in part by AI (e.g., Grammarly, Quillbot, Claude.ai, etc.) or other external sources (e.g., GitHub, Integrated Development Environment Software, etc.). Students should exercise critical thinking skills when using AI-generated content. It is essential that students critically evaluate, understand, and, when utilized, modify AI-generated suggestions to align them with their own writing style, message, and academic objectives. Submitting AI-generated work as a student's own without giving proper credit or relying on AI to complete assignments without understanding the content is unacceptable.
+
+Additionally, students must adhere to copyright laws and intellectual property rights when utilizing AI tools.  Students should not use AI to duplicate or alter copyrighted materials without permission and accurately credit all content sources, including AI-generated material, to prevent plagiarism and other academic dishonesty.
+
+For more information on AI and to access other helpful resources, students should visit: 
+
+AIWG Student Guidelines - Coming Soon
+
+NJIT Library AI citation page
+
+Code of Conduct & Academic Integrity
+
+ 

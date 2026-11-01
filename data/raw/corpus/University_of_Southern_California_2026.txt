@@ -1,0 +1,97 @@
+Generative AI General Policy
+1. Policy
+Issued: January 9, 2026
+Last Revised: New
+Last Reviewed: New
+
+2. Policy Purpose
+This Policy provides guidance to the USC community for the use of the University’s enterprise-grade Generative Artificial Intelligence (Gen AI) tools rather than personal subscriptions and provides guidance regarding appropriate use of USC data with those tools. As further described in this Policy, the following guidelines must be followed when using AI Tools for USC business or entering USC data in AI Tools:
+
+Data Type	Individual AI Tools	USC Enterprise AI Tools
+Public Data (e.g., published research, public website content)	PERMITTED	PERMITTED
+Internal Use Only (e.g., student IDs, non-public memos, in-process contracts)	NOT PERMITTED	PERMITTED (use with caution and in compliance with other University policies and department rules)
+Confidential Data (e.g., student education records protected by FERPA, health or medical information protected by HIPAA, nonpublic personal or financial information)	NOT PERMITTED	NOT PERMITTED (unless advance written approval provided by Office of Ethics & Compliance)
+Restricted Confidential Data (e.g., ITAR/EAR export-controlled data, CUI, sponsor restricted data)	NOT PERMITTED	NOT PERMITTED (unless advance written approval provided by Office of Ethics & Compliance)
+3. Scope and Application
+This policy applies to all:
+
+University faculty members (including part-time and visiting faculty)
+Staff and other employees (such as postdoctoral scholars, postdoctoral fellows, and student workers)
+iVIP (guests with electronic access), as well as any other users of the network infrastructure, including independent contractors or others (e.g., temporary agency employees) who may be given access on a temporary basis to University systems.
+Third parties, including vendors, affiliates, consultants, and contractors.
+Students
+This policy applies to any AI Tools (defined below), whether a free-standing application or service or an add-in to another tool or service, when used by a Covered Individual for USC purposes, on a USC network, or with USC data.
+
+4. Defined Terms
+See Section 6 below for important definitions of key terms used throughout this policy.
+
+5. Policy Detail
+Policy Requirements
+
+5.1        Protecting Sensitive USC Data
+
+5.1.1     AI Tools, like any technology, carry inherent risks of data exposure once data has been input. Therefore, all Covered Individuals must familiarize themselves with the following guidelines before using any AI Tools for USC purposes, on a USC network, or with USC data.:
+
+No Internal Use Only Data, Confidential Data, or Restricted Confidential Data may be input into any Individual AI Tools. Users must be particularly cautious about Individual AI Tools that are publicly available to use free of charge because they often lack adequate safeguards for sensitive data.
+Internal Use Only Data and Confidential Data may be used with USC Enterprise AI Tools, but users should do so carefully and only in ways permitted by this Policy and other University rules on sensitive information.
+Restricted Confidential Data may not be entered into any AI Tool, including USC Enterprise AI Tools, unless expressly approved in writing by the Office of Ethics and Compliance (OEC). Such approval will be granted only after OEC, in consultation with the Office of the General Counsel, the Office of Cybersecurity, and other appropriate University offices, confirms that the proposed use complies with applicable legal requirements, including export control laws and regulations (ITAR and EAR), NSPM-33, relevant NIST standards, and sponsor requirements.
+5.1.2     Covered Individuals and System Owners must abide by all applicable data protection and information security policies including University guidance on what AI tools may be used with specified classifications of data or information systems.
+
+5.1.3     In alignment with incident reporting requirements, Covered Individuals and System Owners must immediately report potential and suspected unauthorized disclosure or use of USC Confidential or Internal Use Only data.
+
+Possible and actual data privacy issues should be reported to a supervisor and the Office of Ethics and Compliance (compliance@usc.edu) or Report and Response (report.usc.edu)
+Possible and actual cybersecurity related issues should be reported to a supervisor and the USC Cyber Defense Team’s Security Operations Center (security@usc.edu)
+5.2        Acquisition
+
+5.2.1     Departments, schools, and units may not acquire Individual AI Tools without first consulting the Office of Cybersecurity, Office of Ethics and Compliance, and the Office of the General Counsel. Any such acquisition must be done in accordance with all applicable policies and standards related to acceptable use and procurement established by their department, school, or unit (DSU).  The Offices of Cybersecurity, Ethics and Compliance, and General Counsel may collectively designate an AI Tool procured by a Department, School or Unit as an Enterprise AI Tool.
+
+5.2.2     Contracting to purchase any software or service that utilizes AI Tools requires clear disclosure during the procurement process and adherence to applicable Third-Party Security Risk Management policies and standards.
+
+5.2.2.1  AI Tools, which generally carry terms and conditions for use, must be processed in alignment with University and DSU-specific processes (i.e. through purchase order, and not through procurement card).
+
+5.2.2.2  Individual AI Tools (whether purchased or used free of charge) are also subject to the University’s data protection policies and other relevant University policies when used for USC purposes and/or when used on a USC network.
+
+5.3        Protecting USC Integrity
+
+5.3.1     Generative AI tools can provide value in creating new and novel content, but this comes with the inherent risk of inaccuracy, bias, and errors in generation which may result in fabrications (“hallucinations”), among other issues. Covered Individuals are responsible for checking outputs from Generative AI tools for accuracy and completeness, and are responsible for any output generated by their use of an AI Tool when that output is used in USC work product.
+
+5.3.2     Faculty, Staff, and Students may be subject to rules governing the use and disclosure of external assistance and sources, including but not limited, Generative AI. The use of USC Enterprise AI Tools (rather than Individual AI Tools) or compliance with this Policy does not relieve an individual from their responsibility to comply will other applicable policies, including but not limited to the Integrity and Accountability Code, Faculty Handbook, Student Handbook, guidance issued by the Office of Research Integrity, and any other specific Department, School, or Unit, or course requirements.
+
+6. Definitions
+ 	Definition
+AI Tools	A general term identifying applications and add-ins that leverage Generative AI to create content or otherwise support or enhance the creation of content.
+USC Enterprise AI Tools	AI Tools procured, integrated, and endorsed by the University for institutional use as specified on the ITS website. These tools have been assessed by USC’s Office of Cybersecurity.
+Individual AI Tools	Any AI-powered tools, platforms, or services used by Covered Individuals that are not institutionally procured or managed. Includes AI Tools procured by a Department, School or Unit unless it has been approved by the Office of Cybersecurity, Office of Ethics and Compliance, and Office of the General Counsel as an Enterprise AI Tool.
+Artificial Intelligence	Artificial Intelligence (AI) refers to machine-based systems that can perform tasks that would typically require human intelligence. It often involves algorithms or models capable of learning, reasoning, and making decisions. AI can be found in a wide range of applications and technologies, from voice agents that engage in natural language processing to image recognition tools and from autonomous vehicles to virtual assistants.
+Generative Artificial Intelligence	Generative Artificial Intelligence (Generative AI or GAI) is a subset of AI techniques that learn patterns contained in input data to generate new content that emulates the structure and characteristics of the input data but is novel content, including text, computer code, synthetic data, workflows, and models of physical objects. Generative AI also can be used to create novel art, literature, or material design.
+Covered Individuals	People or entities specified by the Scope of this Policy, in Section 3 above.
+System Owners	The individuals responsible for the procurement, development, integration, modification, operation, maintenance, or retirement of an information system. System Owners are key contributors in developing system design specifications to ensure the security and user operational needs are documented, tested, and implemented.
+Public Data (See Data Protection Policy)	Data that is not regulated and is generally made available through public interfaces and requires no protection mechanisms
+Internal Use Only Data (See Data Protection Policy)	Data that includes all information used to conduct USC business, unless categorized as “Confidential” or “Public”. Examples include: Non-regulated Personally Identifiable Information; In-process contracts and agreements; Employee performance evaluation information; Audit reports; Network diagrams; Non-public USC policies; Information involving USC strategy and implementation plans; Internal USC memos and emails; USC and employee ID numbers
+Confidential Data (see Data Protection Policy)	Regulated or sensitive data that could cause legal, financial, reputational, or operational harm to USC and/or its community members if disclosed or could require compliance efforts if exposed to unauthorized parties.
+Restricted Confidential Data (see Data Protection Policy)	A sub-category of Confidential Data that includes Confidential-Controlled Data, as defined in the USC Data Protection Policy, and any data subject to U.S. export control laws. This includes, but is not limited to, Covered Defense Information, Controlled Technical Information (CTI), Controlled Unclassified Information (CUI), and other information with military, space, or national security applications for which the data provider (e.g., a research sponsor) has imposed safeguarding, access, or dissemination controls or where USC is otherwise legally or contractually required to restrict or prevent disclosure to third-parties.
+7. Procedures
+None
+
+8. Forms
+None
+
+9. Responsibilities
+Responsibility for evaluating the risks of Generative AI involves many groups, from individuals identified in Section 3 above, to the teams that support execution of the Policy including, but not limited, to the following:
+
+USC Office of Cybersecurity
+USC’s centralized cybersecurity team includes various groups responsible for data security. In the event of a possible security incident, the Cyber Defense team is responsible for investigating and mitigating damage. When security risks over vendors and AI Tools are shared, a combination of Third-Party Risk Management, Security Architecture, and Risk Assessment works to provide guidance on safe use of add-ins and tools.
+Office of Ethics and Compliance (OEC)
+OEC comprises several areas of expertise which support proper governance and compliance at USC. For example, when privacy concerns or possible incidents involving regulated data are identified, OEC’s Privacy Team are notified and provide guidance. In the event there are questions about the use of AI Tools in research compliance, OEC’s Research Compliance Team should be involved.
+10. Related Information
+Compliance Measurement
+
+USC Cyber and the Office of Audit Services are responsible for ensuring compliance with this policy, USC’s information security policies and standards, and applicable federal and state laws and regulations. Compliance with cybersecurity related policies will be monitored regularly in conjunction with USC’s monitoring of its cybersecurity program. Audit Services will conduct periodic internal audits to ensure compliance.
+
+Exceptions
+
+If a Covered Individual wants or needs an exception to any cybersecurity related provision in the Policy, a request must be submitted and approved in accordance with the Information Risk Committee decision criteria by USC Cyber. Exceptions must be requested via email to the USC Cyber team at secgovrn@usc.edu. Exception requests related to Confidential Data or Restricted Confidential Data must also be approved by OEC and OGC.
+
+Non-Compliance
+
+Violation of this Policy may be classified as serious misconduct, which is grounds for discipline in accordance with the Faculty Handbook, staff employment policies, and the Student Handbook as appropriate. Any disciplinary action under this Policy will consider the severity of the offense and the individual’s intent and could include termination of access to the USC network, USC systems, software, and/or applications, as well as employment actions up to and including termination.

@@ -1,0 +1,241 @@
+Introduction
+San Diego State University has a principled, agile and data-informed generative
+artificial intelligence (GenAI) strategy that supports responsible and ethical
+adoption among university students, faculty and staff. This foundation enables
+SDSU to leverage GenAI, and the following guidelines center on supporting human
+intelligence and capabilities rather than replacing them. Indeed, at SDSU, we each
+have a responsibility to ensure that the power of GenAI is accessible and used to
+amplify the potential of employees and students from diverse backgrounds and
+areas of expertise.
+SDSU students, faculty and staff should follow important considerations in adopting
+any GenAI tools related to information security, data and personal privacy,
+compliance, copyright and protecting proprietary information, accuracy, and
+academic integrity. GenAI tools are known to “hallucinate” or fabricate references
+for which sources do not exist. This guidance is essential, as some GenAI systems
+may pose weaknesses and risks when utilized. Independent unit-level guidelines
+should not be produced in tandem with or to replace these approved guidelines.
+SDSU does not guide the personal use of GenAI tools. While these guidelines are
+specific to educational and professional work conducted at SDSU, they may,
+however, also apply and be useful to adopting GenAI for personal use.
+Strategic Communications and Public Affairs (StratComm) at SDSU, in partnership
+with members within the Information Technology Division, the Center for Human
+Resources, Academic Affairs, Student Affairs and Campus Diversity, and the
+California State University (CSU) system, among other units, has compiled the
+following guidelines regarding the appropriate use of GenAI in their professional
+roles.
+
+
+How to Adopt Guidance
+This guidance is designed to aid students, faculty and staff in maintaining integrity,
+accuracy and compliance with legal and ethical standards. Adoption of AI is
+voluntary and based on a person’s needs.
+
+GUIDING PRINCIPLES
+SDSU recognizes that GenAI should be implemented with a strong ethical
+foundation aligned with institutional values, fairness and social responsibility.
+We have a responsibility to stay informed and proactively adapt to the rapid
+evolution of GenAI, as ignoring or not addressing the tool prevents us from
+being able to set boundaries and standards to ensure its ethical and effective
+use.
+AI should complement or augment human expertise rather than replace it;
+human oversight, creativity and decision-making should remain central to
+ensure accuracy and accountability.
+GenAI adoption should respect privacy rights by securing personal data,
+complying with legal and ethical standards, and ensuring that GenAI tools do
+not inadvertently expose sensitive information.
+GenAI tools should support, not undermine, academic integrity, originality and
+intellectual honesty.
+GenAI technology is never to be used to deceive, spread misinformation,
+privilege any specific group or make claims that human sources have not
+substantiated.
+GenAI should enhance efficiency and effectiveness without diminishing the
+value of human expertise.
+Training and upskilling opportunities are essential for all students, faculty and
+staff using GenAI tools, and online training is provided by SDSU.
+
+DEFINITIONS
+Under the umbrella of AI, generative artificial intelligence (GenAI) is an emergent
+technology that powers tools and are also sometimes integrated into other
+software and online platforms. They include ChatGPT Edu, Microsoft Copilot,
+Claude, Gemini, Perplexity, DALL-E, GitHub, Midjourney and many others. These
+platforms and applications are evolving rapidly, pushing the boundaries of what is
+possible with digital technologies. Utilizing a prompt, individuals can use GenAI
+systems to produce messages, images (photos and video), and audio content that
+may appear to be created and performed by humans. As GenAI is newly adopted
+and evolving quickly, however, the information generated from such systems is not
+always entirely accurate or free from bias, requiring human engagement, editing
+and verification.
+SDSU’s guidelines also apply to AI Agents, which are systems that use artificial
+intelligence to perform tasks autonomously or semi-autonomously based on goals
+or instructions. Unlike GenAI tools that only generate content, AI Agents can initiate
+actions, interact with systems or carry out multi-step tasks such as sending
+messages, retrieving information or scheduling activities.
+
+GENAI ADOPTION AT SDSU
+SDSU students, faculty and staff interested in utilizing GenAI are encouraged to
+adopt GenAI tools appropriately and ethically. Such tools should augment or
+support original work and not be autonomous, and SDSU professionals should
+strictly follow the guidelines below. Further, care should be taken to use
+professional versions of GenAI tools. At SDSU, ChatGPT Edu, Google Gemini and
+Microsoft Copilot are recommended. These are commercially licensed tools that
+protect individual and institutional information and data (prompt and output are
+neither saved nor used to train the associated Large Language Model).
+
+GenAI tools can support SDSU students, faculty and staff in many ways during
+several phases of their work:
+Brainstorming ideas and planning: Before creating content, GenAI may be used
+to brainstorm topics, questions, ideas and concepts, and also to collect
+examples, develop outlines, identify themes or organize plans.
+Drafting content: Some GenAI tools support generating and editing content
+based on prompts, including initial and draft versions of scripts, letters,
+translations into multiple languages, descriptions, and social media posts.
+Revising: After original content is generated, many GenAI tools can aid in
+enhancing clarity, structure and grammar in writing (while ensuring original
+thought and citation). GenAI can also help check for inclusive language and
+implicit bias. GenAI writing styles should not supersede SDSU’s editorial
+guidelines (for marketing and communications professionals).
+Time management & organization: GenAI tools can help create study
+schedules and help organize notes.
+Communications & Reports: To complement your work, GenAI can assist in
+drafting internal memos or refining emails.
+Search engine optimization (SEO): GenAI tools may assist with keyword
+research to improve content readability, keyword usage, and word relevancy,
+thus improving web page quality and performance.
+Content testing: GenAI tools can help anticipate potential questions or
+concerns.
+Aiding efficiency or productivity: GenAI tools can assist with and/or streamline
+tasks such as generating summaries, drafting outlines, interpreting data, and
+generating transcripts.
+Improve code quality: Some GenAI tools can improve computer code's overall
+quality and consistency, aiding debugging.
+
+Regardless of the tool adopted or phase of work, initial drafts should never be presented as a
+final product in the creation of class assignments, proposals, emails, articles, research
+presentations, brochures, flyers, fact sheets, media releases, or other information, whether for
+an internal or external audience. Data, facts, and other information must continue to be
+rigorously reviewed and validated before being published or shared.
+
+Do the following:
+Remain informed on any university guidelines or industry best practices and
+continue to learn how to responsibly and ethically use GenAI tools, including
+generating quality prompts to help ensure accurate results free of error and
+implicit bias. At SDSU, the Academic Applications of AI (AAAI) Micro-Credential
+is a freely accessible training. Faculty and staff who intend to use GenAI tools
+are also encouraged to complete the program. The micro-credential prepares
+employees to apply GenAI technology efficiently, effectively and ethically.
+Community members may choose to audit the content and skip the ‘required’
+activities if they are not interested in obtaining the digital badge. Providing
+work-related responses to the activity prompts is acceptable for staff interested
+in obtaining the digital badge.
+Adopt appropriate and ethical use of GenAI to increase productivity.
+Use GenAI to support and improve workflows.
+
+Do not do the following:
+Never upload confidential, proprietary or embargoed information or data to
+public GenAI tools (e.g., data from Canvas, my.SDSU and other examples
+provided in this document's Human Oversight and Review section).
+Never use existing copyrighted works – including existing scripts, messages,
+chapters, articles and similar content – to be edited and/or modified with GenAI
+without the owner's express permission.
+Do not use GenAI in confidential or sensitive meetings, including materials for
+documenting information outside approved university systems. California is a
+“two-party consent” state, meaning it is illegal to record a private conversation
+unless all parties consent to the recording, including digital recordings and
+transcripts, which specific GenAI tools can generate.
+Do not rely on GenAI to generate finished images for publication or distribution
+without appropriate review and approval, including consultation with
+requirements for image attribution by platform.
+Do not use GenAI to identify sources or citations without individually checking
+and validating each source. Authenticity and accuracy are essential in
+academic research and academic settings.
+Do not publish anything created with GenAI without review for accuracy, SDSU
+editorial style, and brand voice.
+Do not post GenAI-generated or edited photo or video content to news sites
+and news-related channels, including unit-level news sites and NewsCenter,
+unless used as an example and containing a specific caption indicating that the
+content is GenAI-generated or edited. Also, to preserve journalistic integrity, do
+not share any GenAI-generated images with members of the media for
+publishing as part of news content. If such images are requested, be sure to
+explain that the content is GenAI generated or edited.
+
+Prohibited while using GenAI tools:
+GenAI tools should not be used in ways that violate existing university
+standards, policies or guidelines.
+Do not enter private, protected or proprietary data about university students,
+employees, patients or others (such as social security numbers, banking
+information, research information under embargo and other personally
+identifiable information) into GenAI tools. Doing so may be a breach of
+California State University system or SDSU policies, or state or federal privacy
+laws, including HIPAA (related to health and medical records) and FERPA
+(related to student educational records).
+Users should be careful not to present a false narrative that AI-generated
+visuals are actual or true-life photographs, documentary footage or authentic
+images of actual events, individuals or locations if a person had not captured
+the actual photo or video content live themselves.
+AI-generated visuals should not be used in journalism, official reports or
+documentation that requires factual accuracy, unless explicitly labeled as
+illustrative.
+The creation of AI-generated visuals designed to impersonate real individuals,
+to alter reality or fabricate events (such as deepfake) is strictly prohibited.
+
+ADDITIONAL GUIDANCE
+Because these guidelines are not university policy, do not govern academics and
+research, and are designed more broadly for university staff, they may not address
+all your questions or needs. If you have questions about GenAI adoption, including
+those related to instruction or research, contact the Information Technology
+Division via the Faculty Instructional Technology (FIT) Center. All faculty are
+encouraged to complete the Academic Applications of AI (AAAI) Micro-Credential.
+
+Human Oversight and Review
+While GenAI can streamline content creation processes and result in efficiencies
+and cost savings, poor use of GenAI could have the opposite effect, including the
+development of substandard materials.
+Further, information to someGenAI tools may become public and part of a public
+knowledge base, as certain AI tools make search results publicly accessible. For
+this reason, SDSU encourages university-supported tools, such as ChatGPT Edu.
+The university also recommends Google Gemini and Microsoft Copilot.
+Examples of protected information include personally identifiable information, such
+as a person’s name and details related to their educational or professional records,
+personal identification numbers, and medical or counseling records. Confidential
+university information and information related to academic research and integrity—
+including research-related information held under embargo or under review—also
+should not be added to GenAI tools as prompts.
+
+Accuracy and Authenticity
+The accuracy, quality and authenticity of content produced by GenAI tools vary
+widely. SDSU professionals must ensure that GenAI-generated content is accurate,
+authentic and aligns with the SDSU’s brand guidelines, including those related to
+university values and messaging. SDSU professionals should exercise caution to
+prevent disseminating misleading, biased or false information.
+
+Transparency and Disclosure
+When utilizing GenAI technologies, professionals should disclose the use of such
+generated content when relevant or necessary for clarity.
+
+Data Privacy and Security
+All SDSU employees must adhere to strict data privacy and security protocols
+when using GenAI technologies, and should only use data obtained ethically and in
+compliance with applicable laws and regulations, such as the California Consumer
+Privacy Act (CCPA).
+
+Intellectual Property Rights
+SDSU professionals should respect intellectual property rights when creating and
+using GenAI-generated content and must not infringe upon copyrights, trademarks
+or any other legal protections held by third parties. Never use existing copyrighted
+works to be modified with GenAI without the express permission of the owner of
+said content.
+
+Ethical Considerations
+Consider the ethical implications of using GenAI. Avoid creating content that
+perpetuates hurtful or harmful stereotypes, discriminates against individuals or
+groups of people based on their backgrounds and experiences, or promotes
+unethical or illegal behaviors. If you have questions and need support, contact
+StratComm at stratcomm@sdsu.edu.
+
+Ongoing Professional Development
+Given the rapidly changing landscape of GenAI, employees should stay informed
+about advancements in GenAI technologies and best practices for their ethical and
+responsible use, to include regular training and knowledge-sharing. All employees
+at SDSU are encouraged to complete the Academic Applications of AI (AAAI)
+Micro-Credential and regularly seek additional skills development opportunities
+elsewhere.

@@ -1,0 +1,27 @@
+The University of Rhode Island (URI) embraces artificial intelligence (AI) as a powerful tool for teaching, learning, research, and innovation. However, we recognize the importance of ensuring AI is used securely, ethically, and responsibly to reflect our values of transparency, fairness, and accountability. This page serves as a resource for understanding URI’s standards and practices for responsible AI use.
+
+Guiding Principles
+URI’s approach to responsible AI use is built on the following core principles:
+
+People: Our employees – faculty and staff – lead the way and are the decision-makers. 
+Transparency: Clearly disclose when AI tools are used to create content or inform decisions.
+Accountability: Validate the accuracy of AI outputs and take responsibility for their use.
+Fairness and Inclusivity: Mitigate biases and ensure AI systems respect diversity and equity.
+Privacy and Security: Protect sensitive and institutional data from misuse and unauthorized access​.
+Key Resources
+Please note that this is preliminary guidance.
+
+URI Data Classification Schema and Guidelines
+Details the classification and management of data, including restricted and sensitive information, relevant to AI practices.
+Guidelines for the Secure and Ethical Use of Artificial Intelligence
+Provides comprehensive guidance on AI transparency, accountability, and compliance with accessibility, privacy, and intellectual property standards​.
+
+
+o ensure the secure and ethical use of AI, URI enforces the following standards:
+
+Data Security and Privacy: Follow URI’s Data Classification Guidelines to avoid exposing restricted or sensitive information.
+Accessibility: Ensure all AI tools comply with Web Content Accessibility Guidelines (WCAG) and the Americans with Disabilities Act (ADA).
+Prohibited Data Use: Avoid inputting private or restricted data, such as Personally Identifiable Information (PII) or patient records, into public AI tools like ChatGPT.
+Data Handling Awareness: Be cautious when using AI platforms, as data entered may be transmitted to third-party servers.
+Disabling Data Logging: Where possible, disable history and logging features to prevent information from being stored or used for AI training without consent.
+Intellectual Property Compliance: Respect copyrights and ensure proper protections when using AI systems. Do not input confidential data or licensed library content (e.g., online journals, e-books, and databases) into AI tools unless permitted by licensing agreements and institutional policies.

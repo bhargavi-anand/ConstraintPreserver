@@ -1,0 +1,57 @@
+Guidance for Responsible Use of Artificial Intelligence
+
+Commitment To Responsible Use Of AI
+The University (Auburn University, Auburn University at Montgomery, the Alabama Cooperative Extension System, and the Alabama Agricultural Experiment Station) is committed to the responsible use of AI in academic, research, operational, and administrative settings. Although many AI tools are designed to improve productivity, performance, and efficiency in such settings, AI also can cause harm if utilized in an improper, unethical, unlawful, or unsecure way.
+
+The University adheres to all applicable state, federal, and international laws regarding AI use, and the University is also committed to ethical, humane, and socially responsible use of AI tools and systems. Responsible use of AI incorporates principles of ethics, transparency and accountability, data privacy and security, fairness, and human-centered oversight.
+
+Definitions
+Artificial intelligence (AI) is technology that enables computers or machines to operate with varying levels of autonomy, exhibit adaptiveness after deployment, and infer from input received how to generate outputs such as predictions, content, recommendations, or decisions. AI may take the form of narrowly focused tools or be incorporated into larger systems.
+
+User is a person or entity that uses an AI tool or system for a University-affiliated purpose.
+
+Guidance Based On Type Of AI Risk
+Data Protection: Many AI tools are designed to incorporate users’ inputs for training and learning purposes. Data shared with these tools often cannot be considered to be protected.
+
+Personal Liability: Users engaged in high-risk use of AI (defined below) may face personal civil or criminal liability in some circumstances if the AI use is unlawful or unethical. Further, some AI tools use "clickwrap" or "clickthrough" agreements to get users to accept policies and terms of service before using the tool. Individuals who accept clickthrough agreements without University approval may face personal liability for compliance with the terms and conditions.
+
+Privacy: AI tools may not be designed to protect the privacy of confidential, proprietary, or otherwise sensitive information (PII, health information, ID numbers, financial information, etc.).
+
+Intellectual Property: AI presents novel challenges to determining intellectual property (IP) rights. Users may not own intellectual property rights to the output of an AI tool. Caution should especially be taken when using a publicly available AI tool to produce non-public or proprietary results. Terms of usage of AI tools may include language indicating that IP rights are retained by the tool. Finally, AI tool output may include unauthorized derivative works of others’ copyrighted material, and users may be at risk if they publish such work as their own.
+
+Cybersecurity: Any AI tool may itself serve as a vector for malware or other cybersecurity threats to users' systems, and standard risk mitigation practices should always be observed by users when using these tools on institutional systems.
+
+Accuracy: AI tool output may not always produce accurate results. Users are always ultimately responsible for ensuring the accuracy of AI output.
+
+Bias: AI tool output may unintentionally produce biased, discriminatory, offensive, or otherwise undesirable results. Users are always ultimately responsible for ensuring AI output is free from unlawful or unethical bias.
+
+Guidance Based On Type Of AI Use
+Instructional Use: Instructional faculty may incorporate AI tools into their teaching methods and assessments but should clearly communicate the use and role of AI tools to students. Faculty have freedom to encourage or restrict student use of AI tools in their courses. Faculty should give students clear and unambiguous expectations for use of AI tools, as well as awareness of disciplinary consequences of misuse. Students using AI tools as part of their academic work must be transparent about their use and must not misrepresent AI-generated content as entirely their own. Plagiarism policies extend to AI-generated work, and misuse of AI tools for academic work may be a violation of the Academic Honesty Code.
+
+Research Use: Researchers should disclose their use of AI in data analysis, experimentation, or publication. When publishing research, researchers should differentiate between human-generated and AI-generated contributions. AI-generated content should not be listed as a co-author in academic papers, but its contribution should be acknowledged where applicable.
+
+Administrative Use: AI systems may be used to improve administrative processes (e.g., admissions, resource allocation, scheduling), but such decisions should always involve a human review component, especially in high-impact scenarios. Staff using AI for administrative tasks should receive ongoing training on the ethical use of AI, its limitations, and the University's expectations around transparency and fairness in decision-making.
+
+High-Risk Use: Users are responsible for ensuring lawful and ethical use of AI tools and systems involving any of the following high-risk activities:
+
+Safety component in a critical infrastructure, transportation, or other system that potentially impacts the health and safety of the general population
+Remote biometric identification systems or biometric categorization systems inferring sensitive or protected attributes or characteristics
+Access, admission, or placement of students
+Grading or evaluating learning outcomes
+Monitoring or detecting prohibited student behavior
+Employee recruitment or selection, candidate evaluation, promotion or merit raise determination, assignment of tasks, or performance evaluation
+Eligibility to receive student or employee benefits or services
+Categorizing or triaging emergency calls for prioritization of emergency services response
+Human medical diagnosis or treatment
+Predictive assessments of criminal behavior or misconduct
+"Social scoring," i.e., evaluating or classifying individuals or groups based on social behavior or personal traits
+Any other use deemed to have a significant potential to cause harm to humans, animals, property, systems, or infrastructure
+Other Relevant Policies
+Data defined as "operational data" or "confidential data" in the Auburn University Data Classification Policy or the AUM Data Classification Policy should never be shared with, submitted to, or used with artificial intelligence (AI) tools or systems in the absence of specific, legally binding data security protection agreements and procedures. On an ongoing basis, the University may offer secure, private AI options to mitigate some of the risks associated with publicly available AI tools. Users should consult with University IT and Compliance departments before utilizing AI tools.
+
+Any purchase or acquisition of an AI tool must comply with the AU Software & Information Technology Services Approval Policy or the AUM Software Acquisition Policy. Other University policies may contain additional language regarding the use of AI in particular contexts.
+
+Oversight And Training
+There are many resources available to individuals who wish to learn about safe and appropriate AI use, and University employees, faculty, students, staff, and other personnel are encouraged to educate themselves on these topics before using AI tools in the University setting.
+
+Any suspected misuse or irresponsible use of AI tools or systems at the University should be reported immediately to the Division of Institutional Compliance & Privacy (DICP).

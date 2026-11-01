@@ -1,0 +1,35 @@
+DO'S AND DONT'S
+
+MAKE SURE TO:
+
+1. UNDERSTAND THE SOFTWARE
+Know the limitations, security and privacy policies, and pricing of any generative AI software you use.
+
+2. FOLLOW UNIVERSITY GUIDELINES
+Always refer to the University's data privacy and appropriate use policies.
+
+3. USE AI AS A TOOL
+Acknowledge what GenAl can and can't do, using it to supplement, not replace, human work.
+
+SEEK GUIDANCE
+Ask your department CSR or OIT representative for clarification on Al usage.
+
+PRIORITIZE ACCURACY
+Take time to understand how GenAl works, and practice with small projects. Avoid large-scale, customer-facing services.
+
+STAY INFORMED
+Keep up to date with guidelines and updates communicated by campus leadership.
+
+PLEASE DO NOT:
+
+1. VIOLATE PRIVACY REGULATIONS
+Don't enter Nonpublic Institutional Data into GenAl services.
+
+2. RELY SOLELY ON AI
+Always cross-check Algenerated results to make sure they are accurate and appropriate.
+
+3. SHARE NONPUBLIC INSTITUTIONAL DATA
+Don't share data with any GenAl service without a busines contract to ensure data privacy. The University does not currently have any contracts with GenAl vendors.
+
+4. EXPOSE SENSITIVE DAТА
+Don't enter Nonpublic Institutional Data into a genAl service. refer to BYU's Data Use, Privacy, and Security Policy.

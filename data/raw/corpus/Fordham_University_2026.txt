@@ -1,0 +1,59 @@
+Policies and Principles on Using Generative AI Tools in Education
+A Proposal by Fordham’s AI Vision Committee
+July 2023
+
+This document presents recommendations from Fordham’s AI Vision Committee, established by Provost Dennis Jacobs in June 2023, with the aim of formulating policies and principles that leverage the benefits of generative artificial intelligence tools to enhance teaching and research at Fordham University. The proposal has been discussed and endorsed by the AI Vision Committee.
+
+Introduction
+
+Generative artificial intelligence focuses on creating systems capable of generating content, including text, images, music, and computer programs. These systems use statistical models trained on large volumes of text and image samples to generate outputs that mimic human creativity in response to natural language inputs. Generative AI tools are widely available and accessible.
+
+The integration of generative AI in education presents both challenges and opportunities. There are concerns that students may misuse these tools for academic dishonesty. At the same time, generative AI can support critical thinking, improve writing through suggestions and revisions, assist with data analysis, and support computer programming tasks. It is essential to balance the use of AI tools with the preservation of authenticity, originality, and academic integrity.
+
+Generative AI also raises concerns related to social justice, including bias, fairness, access, and potential harm to democratic systems and the public good. The university emphasizes the importance of evaluating these risks and promoting inclusive, ethical, and responsible use of AI. As a Jesuit institution, Fordham emphasizes ethical principles, human dignity, and social responsibility in the adoption of generative AI.
+
+The proposal is organized into recommendations related to teaching, scholarship, and external engagement.
+
+Teaching
+
+Promoting Critical AI Literacy
+
+Fordham University is committed to promoting critical AI literacy among students, faculty, and staff. The following actions are recommended:
+- Provide technical support and guidance on the effective use of generative AI.
+- Provide guidelines for ethical use of generative AI in teaching and research, including updates to academic integrity policies.
+- Involve institutional review and research governance bodies to ensure responsible AI use in research.
+- Establish a centrally administered forum or unit to support collaboration on ethical and socially responsible AI use.
+- Develop a frequently asked questions resource addressing generative AI concepts, limitations, risks, attribution, bias, and ethical considerations.
+
+Guidelines on Using Generative AI Tools in Classroom Learning
+
+Sample syllabus statements are provided for different instructional approaches.
+
+No-AI approach:
+Generative AI tools are not permitted in the course. Students must rely on their own originality, creativity, and critical thinking skills to complete assignments and engage with course material.
+
+Limited-AI approach:
+Limited use of generative AI tools may be permitted for specific assignments when explicitly authorized by the instructor. Students must clearly indicate which sections were generated using AI tools, provide appropriate attribution, and identify the prompts and software versions used. Ethical standards must be upheld, including avoiding plagiarism or misleading content.
+
+Full-AI approach:
+Generative AI tools may be used to support exploration, data analysis, and creative problem solving. Students must disclose AI-generated content, provide attribution, identify prompts and software versions used, and adhere to ethical standards.
+
+Sample Assignments and Assessment Practices
+
+Suggested instructional practices include analyzing AI-generated content, revising AI drafts, comparing AI and human writing, and designing assignments that emphasize process, reflection, and originality. New assessment methods should address the limitations of AI detection tools and emphasize reasoning, accuracy, and student reflection on AI use.
+
+Ethical Use and Equal Student Access
+
+Faculty are encouraged to include explicit syllabus statements addressing acceptable AI use, align assignments with learning goals, design assessments to reduce misuse, and review program learning goals to reflect responsible AI integration. The Writing Center should support discussions on plagiarism awareness and responsible AI use.
+
+Academic Rigor and Integrity
+
+The university will review and update academic integrity statements to address generative AI. Clear communication of revised standards and expectations will be provided to students to reinforce honesty, originality, and ethical conduct.
+
+Scholarship
+
+The committee recommends establishing a research center to promote interdisciplinary AI research and its societal impacts, allocating internal funding for research on ethical and social implications of AI, and hiring additional scholars to advance AI research.
+
+External Engagement
+
+The committee recommends facilitating inter-university collaboration, engaging industry partners to understand future AI literacy needs, and supporting community engagement initiatives focused on education, ethics, and responsible use of generative AI.

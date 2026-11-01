@@ -1,0 +1,74 @@
+Regulation for the Use of Generative Artificial Intelligence (AI) Systems with Institutional Data
+
+1. Purpose
+The purpose of this document is to state the University’s requirements regarding the use of Generative AI tools with public and institutional data. This regulation provides guidelines that safeguard academic integrity, protect intellectual property, and ensure compliance with legal and regulatory standards. By setting forth this regulation, the University allows Generative AI tools to be utilized effectively without compromising the integrity of public and institutional data.
+
+2. General Statement
+East Carolina University recognizes that generative AI holds the promise of introducing advancements in the areas of research, development, and education. Generative AI is a type of artificial intelligence that produces new content—such as text, images, music, and more—by analyzing patterns in large-scale datasets and generating novel outputs based on learned relationships, rather than simply retrieving stored data. The breadth of the content that can be produced continues to grow as new data is input by users. East Carolina University encourages exploration of these products or services, but individuals must remain cognizant of data being provided to these tools, as well as abide by copyright laws, compliance regulations, Employee Code of Conduct, and Student Code of Conduct.
+
+Any faculty, staff or student found to be in violation of this regulation will be subject to the penalties outlined in the ECU Employee Code of Conduct, ECU Faculty Manual and the Student Conduct Process.
+
+3. Type of Institutional Data Approved for Use
+For Level 1 – Public Data:
+Any generative AI product or service is allowed.
+
+For Levels 2, 3, and 4 – Protected Institutional Data:
+Only generative AI products or services that are run offline and locally on ECU managed devices or are listed on the Sensitive Data Storage and Transmission website are authorized to process protected institutional data.
+
+Use of protected data with other generative AI products or services could violate state or federal statutes such as HIPAA and FERPA and/or University regulations.
+
+For details on what types of data reside in which level, please refer to the ECU Data Classification | University Data Governance | ECU web site and for a specific definition of what constitutes Institutional Data please refer to the Data Governance Regulation.
+
+A more detailed explanation of what tools can and cannot be used with what level data can be found in the found in the Using Generative AI at ECU: What You Need to Know article.
+
+ECU Classification Level: Permission
+Level 1 – Public: Use of publicly available generative AI products or services allowed.
+Level 2- Internal, Level 3- Confidential/Sensitive, Level 4 Highly Restricted: Only generative AI products or services that are run offline and locally on ECU managed devices or are listed on the Sensitive Data Storage and Transmission website are authorized to process protected institutional data. Each generative AI product or service listed on the website will clarify its compatibility with various data levels.
+
+4. Recommended Practices for Faculty, Staff, and Students
+Passphrases must never be used with generative AI products or services that are not integrated with ECU’s single sign-on service.
+
+Most generative AI products or services should be considered public facing. Never share any sensitive, personal, or institutional data other than what is outlined on the Sensitive Storage and Transmission web site.
+Review and be familiar with ECU’s data classification standards: https://datagovernance.ecu.edu/ecu-data-classification/
+Faculty, staff, and students who work with institutional data must be aware of HIPAA, FERPA, GDPR, GLBA, and other federal, state, or university regulations.
+Generative AI is emerging as a prominent driver of phishing scams. These phishing threats are now more personalized and highly effective. ITCS Information Security Best Practices must be followed and any suspicious messages reported to phish@ecu.edu.
+The approval of a tool does not override any governing data laws, regulations, obligations, or restrictions. For instance, if a data steward, Institutional Review Board, or Data Use Agreement do not permit the use of generative AI with their data, you may not use generative AI tools even if they are approved herein.
+
+5. Approved Generative AI Products or Services Vendors
+As with any technology related products or services, acquisition of generative AI products or services must comply with the Software and Data Collection Services Acquisition Regulation.
+
+Vendors of any generative AI product or service who are approved to process ECU’s Level 2, 3, or 4 data must adhere to security industry best practices to safeguard and protect any data, documents, files, and other materials received from the university during the performance of any contractual obligation from disclosure, loss, destruction, or erasure. This includes all laws, ordinances, codes, rules, regulations, and licensing requirements that are applicable to the conduct of its business, including those of federal, state, and local agencies having jurisdiction and/or authority. The adherence to security industry best practices, laws, ordinances, codes, rules, regulations, and licensing requirements to safeguard and protect any data must also apply to the generative AI models trained with university data to prevent unauthorized access.
+
+Available and approved software at the University can be found via the Licensed ECU Software Downloads, Apps, and Services website.
+
+Termination of a vendor agreement must adhere to any applicable contracts.
+
+6. Exceptions or Procurement of Generative AI Products or Services
+No exceptions to this regulation will be approved until a contract is in place with the generative AI parent company.
+Any procurement of a generative AI product or service must go through the Technology Purchase Process.
+
+7. Roles and Responsibilities
+All faculty, staff, and students are required to follow the Institutional Data and AI regulation.
+
+8. Essential Guidelines for Responsible Use
+
+Best Practices: 
+Never share sensitive or personal data with public AI tools
+Never use ECU passphrases with AI tools not integrated with ECU’s single sign-on
+Treat most AI tools as public – assume your data may be stored or used for training
+Follow Information Security Best Practices
+Report suspicious messages to phish@ecu.edu
+
+Know Your Data Classification: 
+Understand what type of data you’re working with:
+Level 1 (Public): Press releases, published research, course catalogs
+Level 2 (Internal): Employee directories, internal communications
+Level 3 (Confidential/Sensitive): Student records, personnel files, research data
+Level 4 (Highly Restricted): Social Security numbers, medical records, financial data
+
+Legal and Ethical Compliance:
+Comply with HIPAA, FERPA, GDPR, GLBA and other applicable regulations
+Respect copyright laws and intellectual property
+Review data for potential biases and avoid discriminatory content
+
+

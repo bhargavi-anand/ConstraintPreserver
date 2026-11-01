@@ -1,0 +1,10 @@
+AI Guidelines
+CSULB Guidelines on Using AI Technologies
+California State University Long Beach (CSULB) supports the responsible and ethical use of artificial intelligence (AI) technologies for enhancing teaching, learning, research, and campus services.
+
+To help the campus community experiment, select, and implement AI technologies, we offer the following guidelines:
+
+Adhere to current CSU and CSULB policies on information security and privacy to protect confidential information.  Please do not input confidential information into public generative AI tools (e.g., ChatGPT).  Information entered into public AI tools could expose sensitive information to the public.
+AI-generated information may be inaccurate or may contain copyrighted material. Review and verify your AI-generated content before publication or sharing it.
+Maintain academic integrity by adhering to CSULB Faculty Handbook and Standards for Student Conduct.  Faculty should be clear to their students about the expectations and rules of permitted use of AI technologies in students’ schoolwork.
+Be alert for AI-based phishing and scamming.  AI has made it easier to generate scam emails.  Please report suspicious email messages to alert@csulb.edu.

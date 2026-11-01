@@ -1,0 +1,30 @@
+UTDSP5017
+Generative AI Use in Academic Work
+Policy Statement
+Policy Statement
+The University of Texas at Dallas (UT Dallas) recognizes the evolving landscape of technology and its integration into the academic lives of students and faculty. One such technology is generative artificial intelligence (AI), which can create new content based on patterns and structures learned from existing data.
+
+In accordance with the UT Dallas Student Code of Conduct (UTDSP5003), students are expected to uphold honesty, integrity, and service in all that they do, including when using generative AI in academic work.
+
+This policy provides a framework for the use of generative AI in academic work (including, but not limited to, coursework, independent research, dissertations, and theses) while upholding the principles of academic and personal honesty and integrity. Faculty have the freedom and responsibility to determine how generative AI can be used in academic work under faculty supervision. The policy seeks to be consistent with university goals to promote a learning environment that encourages ethical decision-making, academic and personal integrity, creativity, and innovation.
+
+Student Responsibilities and The Role of The Faculty Member
+Students should receive guidance from faculty members about the appropriate use of generative AI. Faculty have the discretion to permit, prohibit, or partially allow the use of generative AI. Faculty must explain and communicate appropriate generative AI use to the student before academic work begins for a given semester. When permitting or making a partial allowance, the faculty member should provide usage details, including the citation style. In this way, faculty provide clear directions and guidance, which promote a culture of academic integrity and excellence.
+
+Students should understand that academic work produced by generative AI does not replace the student’s understanding and interpretation of the course material. However, workforce-ready students may need generative AI skills and must learn appropriate workplace and academic uses appropriate to their discipline.
+
+Permitted, partially permitted, and prohibited generative AI use should be communicated, and faculty should include detailed statements in assignment descriptions and course syllabi.
+
+Permitted Use
+When the faculty member permits generative AI use, students are expected to use generative AI ethically and responsibly. Students should document and attribute the use of generative AI as appropriate to the academic style (APA, MLA, Chicago, etc.) or a professional style specified by the faculty member. Students must follow written guidelines from faculty on citation styles. Students must validate or verify the output from generative AI.
+
+Partial Use
+When generative AI use is allowed for some but not all academic work, students are expected to follow written guidelines provided by the faculty member. Students should document and attribute the use of generative AI as appropriate to the academic style (APA, MLA, Chicago, etc.). Faculty should detail usage guidelines in assignment prompts. These guidelines detail the ways generative AI can be used in academic work.
+
+Prohibited Use
+When the faculty member prohibits use of specific generative AI tools, use is unauthorized and thus is a violation of UTDSP5003. Students should present their work without the use of generative AI, including but not limited to use for ideating, outlining, writing, or studying, and creating text, tables, code, analysis, video, or images. Given the integration of generative AI tools into commonly used tools, students should receive written guidance from faculty on which applications of generative AI are not permitted.
+
+Academic Integrity
+All students, faculty, and staff are expected to adhere to UT Dallas principles of academic integrity. Generative AI tools may not be used for any activity that would be considered illegal or fraudulent, that violates state or federal law, or conflicts with other UT Dallas or UT System policies.
+
+All students, faculty, and staff are expected to adhere to university policies on Information Security and Acceptable Use and the Family Educational Rights and Privacy Act (FERPA) when using generative AI. Any misuse of generative AI that results in academic dishonesty or jeopardizes the security of protected university or student data will be subject to disciplinary action as outlined in the Student Code of Conduct and other applicable university rules.

@@ -1,0 +1,66 @@
+AI Guidelines
+Guidelines
+
+ARTIFICIAL INTELLIGENCE
+Purpose
+Generative artificial intelligence (AI) describes algorithms that can be used to create new content, including audio, code, images, text, simulations, and videos. The rise in capabilities and ease of access of ChatGPT and other AI services provides exciting potential as a tool for research, programming, data processing and other applications. However, when using publicly available AI services, as with any technology, Clemson University employees, students and affiliates are obligated to protect and preserve the data we use at Clemson University every day.
+
+This page is provided as a resource on University policies and responsibilities for University employees, students and affiliates as they explore these new technologies and their capabilities.  This page will be regularly updated as additional guidance and regulations are developed.
+
+ 
+
+AI Risks
+Entered data is retained and used to train models which can lead to an exposure of personal information or a data breach.
+Generative AI tools may produce erroneous responses that seem credible, sometimes referred to as “hallucinations”.
+Generative AI systems could be trained on copyrighted, proprietary, or sensitive data, without the owner’s or subject’s knowledge or consent.
+ 
+
+AI Best Practices
+Enter only public data into an AI system unless you are certain it is a closed system that is approved for University use.
+Opt out of sharing data for AI learning whenever possible. Approved technology solutions may integrate new AI tools and features without your consent. If you become aware of these integrations, contact CCIT at ithelp@clemson.edu.
+Verify any results through authoritative sources.
+Consider legal, regulatory, ethical obligations and Clemson’s data classifications when using AI.
+Be transparent in disclosing and citing the use of AI tools.
+Be aware of the use of AI in virtual meetings or chats in which you engage, so as to avoid sharing personal or institutional information with outside parties.
+ 
+
+AI Note Takers
+Your Clemson Zoom account (AI Companion) is approved for Public, Internal Use, Confidential and Restricted data, such as PHI and FERPA. However, third-party apps are NOT covered and should NEVER be used with sensitive data.
+If you have installed a third-party app or bot and intend to join a Zoom meeting where sensitive data will be discussed, remove the app from your account prior to joining.
+To prevent bots from joining your meeting:
+Enable the Zoom Waiting Room feature for all meetings you host. Enabling the Waiting Room allows you to view each participant who attempts to join the meeting and only admit those who should be there. Bots will join the Waiting Room just as any other participant, and you can choose to remove them. The bot will present similar to “Mary’s Otter.ai Bot” or “John’s Firefly.ai Bot” in the waiting room.
+If your meeting is exclusively or mostly Clemson users, it’s recommended that you require participants to authenticate in order to join. Because the third-party bots cannot authenticate through a Clemson Zoom account, they will be blocked from joining.
+When attending a Zoom meeting:
+Upon entering a Zoom meeting, ask the host if the meeting is being recorded or if live transcription is enabled. If the subject of the meeting is sensitive or includes other than Public information, request that the meeting not be recorded or leave the meeting.
+ 
+
+Related University Policies and Guidance
+Clemson University has multiple policies that help protect University data. University employees, students and affiliates must not enter Internal Use, Confidential, or Restricted  institutional data into publicly available generative AI tools.  This includes details like student information, personnel records, confidential University information from contracts or grants, and any proprietary or non-public intellectual property. Make sure that the information you submit is Public and doesn’t contain any personally identifiable or sensitive data.
+
+Below are some of the relevant policies and standards that can help ensure that privacy and security are maintained, and guide decision making.
+
+Key points relevant to AI
+
+Acceptable Use of IT Resources Policy 
+Use of IT Resources must comply with University policies and legal obligations (including licenses and contracts), and all federal and state laws. Specific prohibitions include illegal uploading of copyright materials.
+Mandates reporting of policy violations.
+
+Data Classification Policy
+Provides descriptions of data classification categories.
+Sets requirement to safeguard data in accordance with the Minimum IT Security Standards based on data classification category.
+
+IT Vendor Management Policy	
+All IT solutions (including generative AI tools and services), whether obtained through procurement, by gift, through research, donation, open source, or other means, must be approved by the IT Vendor Management Program Team before the new IT solution can be used.
+
+FERPA	
+Provides prohibitions around the disclosure of student education records.
+
+Academic Catalog	
+Plagiarism, which includes the intentional or unintentional copying of language, structure, or ideas of another and attributing the work to one’s own efforts. To avoid a charge of self-plagiarism, a student must gain written permission from their instructor to re-use work turned in either for another class or in a different term. Graded works generated by unauthorized artificial intelligence (not authorized by the instructor/syllabus) or ghostwritten (either paid or free) are expressly forbidden.
+
+Research Misconduct Policy	
+Plagiarism is the appropriation of another person’s ideas, processes, results, or words without giving appropriate credit.
+
+Information Security Policy	
+The University’s IT Resources are managed in accordance with applicable policies, procedures, standards, and guidelines. The University’s IT Resources include all Computing Devices and Information Systems that access, store, or process Information within the University Computer Network or in a vendor hosted cloud environment.
+The University’s Information is classified, stored, protected, and transmitted in accordance with applicable policies, procedures, standards, and guidelines. This includes all Information pertaining to student records, administration, research projects, and federal or state Information pertaining to the University.

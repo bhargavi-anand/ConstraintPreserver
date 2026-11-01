@@ -1,0 +1,346 @@
+
+AI Technologies in Education at the University of Florida
+
+
+
+Authors:
+Mark McCallister Joleen Cannon Ryan Yang
+Leslie Mojeiko Tom Kelleher Hans van Oostrom Eleni Bozia
+Taylor Calibo
+Raja Raymond Issa Raquel Dias
+Karen Whalen Taylor Rose Angela Kohnen Alina Zare
+Jason Mastrogiovanni David Reed
+ 
+Table of Contents
+Introduction	3
+Guiding Principles for the use of AI technologies	3
+Common Vocabulary and Technological Background	4
+Safety and Security	6
+User Responsibilities	6
+University Support	6
+Relevant Regulations and Policies at UF	7
+Guidance for Instructors	8
+Teaching at an AI University	8
+Best Practices for Integrating AI into Teaching Practice	9
+Best Practices for Assessment Design and Grading	11
+Considerations for Graduate Education	12
+AI Course Designations	13
+University Resources and Support	13
+Guidance for Students	15
+Understanding AI at the University of Florida	15
+Opportunities Provided by AI	15
+Limitations of AI	16
+Your Responsibilities	16
+Best Practices for Integrating AI into Learning	17
+Guidance for Researchers	19
+Definitions	19
+Research on AI	19
+Using AI in Research	20
+Human Subject Research	20
+Intellectual Property	20
+Collaboration and Partnerships	21
+Education and Training	21
+Institutional Resources	21
+Reporting Requirements	21
+Monitoring and Evaluation	22
+Guidance for HR Professionals	23
+AI Tools	26
+ 
+Introduction
+We are poised at the threshold of a revolution in higher education, where the boundaries of learning are being redefined by the power of Artificial Intelligence (AI). Embracing the opportunities presented by AI, we encourage educators and students alike to venture forth into uncharted territories, exploring the vast potential of AI to enhance teaching, learning, and discovery. At University of Florida, by fostering a culture of AI literacy, critical thinking, and responsible innovation, we can unlock new avenues of collaboration, creativity, and problem-solving, ultimately preparing our students to thrive in an AI-driven world while upholding the highest ethical standards. As we navigate the intersection of technology and pedagogy, let us embark on this exciting journey with a spirit of curiosity, collaboration, and a commitment to harnessing the transformative power of AI in education.
+Guiding Principles for the use of AI technologies
+At University of Florida:
+•	AI is for Everyone
+•	AI should be used in ways that respect human values, rights, and dignity, and that promote social, economic, and environmental benefits for all.
+•	AI should be transparent, explainable, and accountable, and individuals should be informed and empowered to understand, challenge, and remedy AI-based outcomes.
+•	AI should be reliable, safe, and secure, and its accuracy and effectiveness should be evaluated and verified for the intended use.
+•	AI should be inclusive and accessible, and its development and implementation should consider diverse perspectives and experiences.
+•	AI should be used in ways that uphold academic freedom, integrity, and excellence, and that foster interdisciplinary collaboration and innovation.
+•	AI should be used in ways that adhere to the principles of data privacy, applicable laws and regulations, and that protect personal data and intellectual property rights.
+•	AI should be used in ways that avoid and mitigate bias and discrimination, and that proactively identify and avoid causing any harm.
+•	AI should be used in ways that are transparent and ethical, and that never deceive or spread misinformation.
+•	AI usage should be subject to continuous assessment and improvement, and responsive to the rapid advancements and challenges of AI technology.
+ 
+Common Vocabulary and Technological Background
+Artificial Intelligence, or AI, has been an area of active research and development as far back as 1956. With AI technology, computers can simulate human intelligence in generating data such as language and solving problems such as mathematics or writing computer code.
+Generative AI exploded into broad awareness in November of 2022 when the company OpenAI released the ChatGPT product to the public on the internet. Based on the GPT-3 model OpenAI released two years before, many were made newly aware of how far the technology had progressed and what its new capabilities were.
+A few key terms are regularly used and are useful to know in current conversations about AI. These include:
+1)	Machine Learning: Machine Learning is a type of artificial intelligence, which uses an algorithm and data to “learn” something. By learning, we mean the ability to be exposed to an input and output and be able to make a guess at the appropriate output when exposed to something new, based on what was “learned.”
+2)	Algorithm: An algorithm is simply a procedure. A very simple example might be an algorithm called “Add 2” which simply adds two to any number it is given.
+3)	Data: Data is whatever information is fed to an algorithm. If your data consists of a dataset of one number, the number 7, and you feed it to your algorithm “Add 2”, you obviously get 9. Your algorithm could be much more complicated than “Add 2”, and your dataset could be billions or trillions of characters instead of one.
+4)	Model: A model is a combination of an algorithm, and a dataset.
+5)	LLM: The development of the Large Language Model (LLM) was the game-changer. The LLM goes well past the simple example of a model above, utilizing a specific type of machine learning to take massive quantities of text, often harvested from the breadth of the internet itself. The LLM can be “tuned” in a variety of ways, but it is the fundamental basis that allows the computer to converse in natural human languages.
+6)	Generative AI: Generative AI is a broad term for AI models that produce some sort of content or media. This may include human language (written or electronically spoken), visual media such as images or animations, aural content such as music, or specific types or combinations of any of the above such as computer code or movies or other immersive content.
+ 
+7)	GPT: The Generative Pre-Trained Transformer is a particular type of LLM, upon which ChatGPT and other tools are built. Although part of the name of OpenAI’s ChatGPT product, a GPT is a type of LLM, not a specific product.
+8)	Token: Tokens are chunks of language that an LLM utilizes as part of its model, or when ingesting text from a natural language interaction with a user. Tokens are often used to limit the use of a model, or to charge for its use, as the amount of computing power utilized maps to the number of tokens used in a fairly linear way.
+9)	Training: Training (that’s the “P” in Pre-Trained) is the process of cleaning and organizing data, tokenizing that data, and preparing the LLM to output useful responses based on its design intent. Training frequently comes up in discussion about ethics and intellectual property around generative AI models, because once a model is trained on data, there is no longer a direct link from the model’s “knowledge” back to the data that it was trained with.
+
+
+These are just some of the basics of generative AI that may help with understanding some of the content in this document. For a more in-depth knowledge, we encourage you to take one of the University of Florida’s many courses, trainings, and workshops on AI, or utilize other commercial training sources contracted by UF for technology training, such as LinkedIn Learning.
+ 
+Safety and Security
+The University of Florida promotes the innovative and responsible use of AI applications to enhance academic and operational activities. Adherence to these security guidelines and policies ensures a protected and ethically sound environment for all users.
+By using AI applications within the University, you agree to comply with these guidelines and uphold the integrity and security standards set forth by the institution.
+User Responsibilities
+Compliance with University Policies: Users must adhere to all existing University policies, including but not limited to, those related to data security, privacy, intellectual property, academic integrity, and the university’s Acceptable Use Policy.
+Copyright and Intellectual Property: Use of copyrighted materials with AI should comply with all existing copyright laws and intellectual property policies and guidelines. AI systems that reuse, redistribute and retain copyrighted materials should be avoided. UF AI services such as NaviGator AI and UF GPT: Microsoft Copilot are recommended for university business as they do not use user inputs to retrain the models. Users must respect intellectual property rights. Any work or output produced by AI applications should correctly acknowledge sources and contributions, following the University’s policies on academic integrity outlined in the Student Honor Code and Student Conduct Code.
+Data Protection: Users are responsible for ensuring that any data input into AI applications is handled in compliance with the UF’s Data Classification Policies. Sensitive and restricted information must be anonymized or appropriately secured to protect personal and institutional privacy following UF Data Security Guidance.
+Ethical Use: AI applications must be used ethically, respecting the rights and dignity of all individuals, ensuring AI is employed in a manner that is fair, transparent, and accountable. Usage should align to UF’s Regulation 1.0104, which further references the State of Florida’s Code of Ethics for Public Officers and Employees, Chapter 112, Florida Statutes, as well as other applicable University of Florida Regulations, Guidelines, Policies and Procedures.
+Risk Management: Users should only install or use AI applications that are approved by the University’s Integrated Risk Assessment process. It is essential to keep these applications updated and report any security vulnerabilities immediately.
+University Support
+Technical Support: UFIT is available to assist with questions or issues related to the safe and compliant use of AI applications. Users are encouraged to seek support when needed.
+Reporting Incidents: Users must report any security incidents, breaches, or unethical behavior relating to AI application use to the UF Compliance Hotline.
+ 
+Relevant Regulations and Policies at UF
+Administrators at UF evaluated current regulations and policies (https://generalcounsel.ufl.edu/regulations-and-policies/) and chose not to change or amend them in reference to AI or generative AI. In each case it was determined that the regulations and policies were sufficiently robust that such additions were not necessary. Here is a list of UF regulations and policies that might be important in regard to the use of AI tools.
+
+
+Intellectual Property Research Conduct Research Integrity Student Honor Code Policies on IT and Security
+Policies on Restricted Data Policy on Ethics
+Policy on Works and Inventions
+ 
+Guidance for Instructors
+Teaching at an AI University
+At the University of Florida, integrating AI throughout the curriculum strategically enhances teaching and learning while preparing students for an AI-ready workforce across disciplines. Instructors play a crucial role in fostering AI literacy, enabling students to understand, apply, create and evaluate AI technologies appropriately and ethically.
+AI for teaching and learning presents opportunities and challenges that should be considered:
+Opportunities
+•	Increase efficiency in course preparation: AI can assist instructors with course preparation including structuring lesson plans, aligning student learning objectives with materials, and creating custom content.
+•	Generate diverse content: AI can create case studies from diverse viewpoints, generate custom datasets for assignments, develop roleplaying scenarios, and more.
+•	Personalize learning: AI can help instructors provide supplemental learning through prompts for student self-quizzing, study guides, tutoring, and more.
+•	Prepare students: AI can simulate real-world scenarios, provide instant feedback, and give learners opportunities to critically evaluate experiences.
+•	Support different abilities: AI has the power to assist students with different abilities and non-native learners who may need assistance with interpretation, structure, or alternative formats.
+•	Increase access and assistance: AI can extend learning with 24/7 access for students who may not be able to contact their instructors. For instance, AI-powered tutoring can offer personalized support to students outside traditional hours, ensuring access regardless of geographical location or time constraints.
+Challenges
+•	Ensure AI literacy and readiness: As with all digital literacy, students, faculty, and staff will need to develop AI literacy skills. This includes appropriate usage of AI tools and critical evaluation of AI output.
+•	Anticipate biases and limitations: AI can replicate existing stereotypes and biases present in society, making it necessary to prepare students for possible biases they may encounter with the use of AI. Additionally, AI’s accuracy cannot be guaranteed.
+ 
+•	Acknowledge issues of authorship and ownership: Reflecting on ethical considerations for generative AI use within your discipline is crucial. The corpora collected to create Large Language Models may have been gathered without consent from writers, artists, and content creators. On the other hand, the output is not copyrightable. Deciding how AI will be cited and acknowledged in your course is important.
+•	Evaluate privacy and security: Protecting student privacy is an important consideration as you select AI tools. You should examine the information students must provide when registering and the data the system collects about the users.
+•	Consider equity and access: It is also important to ensure affordable and equitable access to the selection of AI tools.
+•	Prevent academic integrity concerns: Providing clear expectations to guide student work in your course is essential. Generative AI is built to replicate human language; therefore, AI detection software cannot be relied on to detect AI-generated content. Additionally, to date, AI detection software has been shown to be unreliable and biased against non-native English writers.
+As AI continues to permeate every aspect of our lives, it becomes more critical for faculty, staff, and students to develop AI literacy so that they can effectively weigh the exciting opportunities and complex challenges presented. The next section, Best Practices for Integrating AI into Teaching Practice, will provide considerations and best practices for implementing AI in your classroom.
+Best Practices for Integrating AI into Teaching Practice
+As with any new technology or teaching strategy, incorporating AI into your classroom will also come with important considerations and best practices for course design, facilitation, and grading. The following principles and strategies will help guide you to select the appropriate tools and methods for implementation.
+Include syllabus guidelines
+Syllabus guidelines may vary by college, department, and/or course. Consider your plan for integrating AI into assessments and include clear statements in your syllabus and assignment instructions that align with your approach.
+Three levels of AI integration
+The following considerations are not formal statements or policies, but general approaches that may help address AI in your course.
+ 
+•	AI-Permitted: Generative AI tools may be required in this course. Generative AI use is promoted in some assignments and will be clarified in assignment instructions. Any work that is done using generative AI must be cited in your submission.
+•	Some AI: Generative AI tools may be used to enhance some assignments in this course. Assignment instructions will differentiate between distinct human and AI tasks. Any work that is done using generative AI must be cited in your submission.
+•	No AI: The learning that takes place in this course requires your unique perspective and human experience. Use of AI would make it harder to evaluate your work. It is not permitted to use any generative AI tools in this course, and the use of AI will be treated as an academic integrity issue.
+Select appropriate AI tools
+•	AI tools commonly used in the classroom span across several categories, ranging from assistive (e.g., autocorrect and autofill, and text-to-speech) to large language models (LLMs) that allow generative and conversational AI.
+•	Consider these best practices as you explore AI Tools:
+o	Sign up for the tool(s) and familiarize yourself with their main functions. For instance, if you are planning to ask students to share a conversation they had in AI, test if this capability is enabled.
+o	If you plan to use AI in an assignment, test prompts and assignment instructions in the tool you selected before sharing it with students. Some subject matters that are more niche may present inaccuracies or limitations.
+o	Refer to Fast Path Solutions for updates on data usage and compliance.
+Develop AI Literacy
+•	Navigate students through the basic use of AI tools by including the following:
+o	Instructions on how to create an account or access an existing account of the tool(s) used in the class.
+o	Introduce the AI tool through a low-stakes or ungraded assignment, such as this AI Introductory Discussion.
+•	Promote opportunities for students to critically evaluate issues related to privacy, ethics, and biases in AI. Consider the following:
+o	Ensure students understand safety and security considerations and/or use a protected account, such as their UF login with NaviGator AI or Microsoft Copilot. Refer to Fast Path Solutions for updates on data usage and compliance.
+ 
+o	Ask students to evaluate the output from AI for potential biases or inaccuracies or purposely design assessments to incorporate practice for evaluation, such as this AI Literacy assignment.
+Ensure Alignment with Learning Objectives
+In backward design, writing student learning objectives (SLOs) prior to designing assessments helps ensure instructors are aligning and measuring student performance based on outcomes for the course and/or program. Refer to CITT Course Mapping Resource Guide for assistance on writing SLOs to meet various learning levels and domains, and aligning SLOs to program outcomes, assessments, and content.
+When AI is introduced in an assignment or course, instructors may need to differentiate between AI capabilities and human skills, as noted in Bloom’s Taxonomy Revisited. This should be considered in the assessment design and explicitly written in the assignment instructions.
+Introduce AI and define expectations
+Explicitly state when and to what degree students will be using AI tools in your syllabus, Start Here module, and/or assignment instructions. Follow this transparent assignment template for all assignments to ensure clarity.
+
+
+Best Practices for Assessment Design and Grading
+Build authentic assessments that support meaningful engagement with real-world scenarios.
+Building authentic assessments helps students apply their knowledge and experience to real-world situations and problems. Examples of authentic assessments include personal reflections, analysis and problem-solving in case studies, role playing, debates, simulations, and more. These assessments are often challenging to prepare, facilitate, and grade, but AI can help make them more feasible by using it as a tool for conversations or to generate content for diverse cases, problems, or datasets. You can explore a variety of authentic assessments that leverage AI in the Elevated Recipes (Authentic + Artificial) section of the AI Prompt Cookbook.
+Emphasize transparency in purpose and expectations for assessments.
+Transparency in Learning and Teaching (TILT) provides a framework that emphasizes transparency and clarity in purpose, tasks, and criteria for success. Use this transparent assignment template based on the TILT model that also includes ways to clarify expectations for AI usage for each assignment.
+ 
+Scaffold assessments for frequent, low-stakes opportunities for feedback.
+Breaking assessments into multiple stages, or scaffolding, provides students with multiple opportunities to receive feedback and guidance. This is also a great strategy to reduce the pressures students may feel with higher-stakes assessments, potentially reducing academic integrity concerns. Scaffolding can also help clarify at what stage(s) of the assessments AI is appropriate to use.
+Follow Universal Design for Learning (UDL) principles to optimize the relevance, value, and authenticity of assessments.
+UDL principles recommend multiple means of engagement, representation, and expression in the teaching and learning experience. By providing multiple ways for students to engage with course materials and multiple submission options (e.g., video, text, and auditory), students can show more creativity and autonomy in their submissions. Giving students the option to choose a creative submission type (e.g., Infographic, and video) could help reduce the use of AI where it is not needed.
+Considerations for Graduate Education
+The four key principles common throughout this report should be applied in graduate instruction, including comprehensive and qualifying exams, capstone projects, theses, dissertations, and resulting publications. These are transparency, responsibility, learning and integrity.
+1.	Transparency
+Given the length of time involved in proposing, developing, writing/producing, defending, and publishing graduate work, instructors should communicate with students early and often about expectations for use of generative AI in papers, projects and major exams. Tips and tactics for instruction mentioned above, such as scaffolding, TILT frameworks, and backward design, apply well in mentoring graduate students in projects that span multiple semesters, years, and even career stages. Transparency is also critical in the relationship between graduate students and audiences for their work. Use of AI must be transparent to committee members and eventual editors and readers of resulting publications. Graduate student mentors should share, discuss, and teach academic and professional guidelines for reporting and use of AI in their domains. These will vary across disciplines and sub-fields (e.g. APA, IEEE, and MLA).
+2.	Responsibility
+Clarify to graduate students that they are responsible for AI-generated content they submit, present, or publish. The fallibilities of AI such as lack of proper attribution, factual errors, inconsistencies, bias, privacy concerns, and IP issues become the
+ 
+responsibility of the students. Students should think critically before using AI. See next item: Learning.
+3.	Learning
+Understanding and applying academic and professional standards for AI use, checking work, evaluating sources, and communicating clearly – these are high-level learning outcomes. Embrace them.
+4.	Integrity
+The Orange Book (UF Student Honor Code and Conduct Code) still applies. As a purely practical matter, when thinking about unauthorized assistance from others we now recognize that the “others” are as likely to be machines as humans. “Using any materials or resources, through any medium, which the faculty has not given express permission to use and that may confer an academic benefit to a student” is still prohibited. This, however, only underscores the importance of your role as a mentor, instructor, or thesis/dissertation advisor in teaching transparency, responsibility and learning (i.e., metacognition) in your discipline.
+AI Course Designations
+AI learning experiences at UF are categorized as four core AI literacies:
+•	Know & Understand AI: Know the basic functions of AI and how to use AI applications.
+•	Use & Apply AI: Applying AI knowledge, concepts, and applications in different scenarios.
+•	Evaluate & Create AI: Higher-order thinking skills (predict, design, etc.) with AI applications.
+•	AI Ethics: Human-centered considerations (e.g., fairness, bias, transparency, safety).
+Also, a fifth category, Enabling AI, recognizes courses that are not fully AI-focused but support knowledge and skill development that promotes better understanding of AI. The AI Curriculum Committee reviews courses and awards these designations.
+University Resources and Support
+Resources
+•	Generative AI Recipes Designed to Enhance Teaching and Learning, a UFIT CITT Cookbook
+•	Center for Teaching Excellence: Artificial Intelligence in Teaching and Learning
+ 
+•	UFIT’s Center for Instructional Technology and Training Generative AI and Teaching
+•	UFIT Tech Bytes
+Services
+•	AI2 Center
+•	UFIT’s Center for Instructional Technology and Training: Request Assistance
+ 
+Guidance for Students
+Understanding AI at the University of Florida
+At UF, our commitment to preparing you for the 21st century workforce involves working with artificial intelligence (AI) broadly across all disciplines. Our goal is to equip students with the AI capabilities necessary to thrive in a technology-driven economy. By embracing the use of responsible AI into academic and research pursuits, we strive not only to help you reach and exceed your educational objectives but also to contribute to life-changing discoveries here at UF. Our guidance is clear and anchored in strong ethical practices and will be tailored to prepare you comprehensively for a future where technology is ubiquitous. Below we present guidance on how you can make the most of AI in your academic journey:
+Opportunities Provided by AI
+•	Personalized Learning Experiences: AI-driven platforms are revolutionizing how we adapt learning materials to meet our individual learning styles and paces. By leveraging AI to analyze understanding in real-time, AI platforms offer personalized feedback beyond traditional testing environments. From self-quizzing, study guides, tutoring and supplemental learning, AI can not only support diverse educational needs but also makes learning more efficient and effective for every student.
+•	Practical Skill Development: AI plays a crucial role in skill development through simulated environments that can mirror real-world challenges. These simulations, along with instantaneous feedback provided by AI, equip you with practical skills and may improve decision-making abilities in dynamic and complex situations.
+•	Extended Accessibility: AI technologies provide continuous access to educational resources, thus accommodating diverse learning needs and schedules. This around-the-clock access allows for personalized support, overcoming time constraints and geographic limitations, ensuring that all students have equal opportunities to succeed.
+•	Enhancing Research Capabilities: AI significantly advances research capabilities by automating data analysis, optimizing experimental designs, and enabling the exploration of vast datasets that would otherwise be unmanageable manually. AI tools can predict trends, uncover patterns, and propose hypotheses allowing researchers to delve deeper into their own fields. In combination with the use of Large Language Models (LLMs) AI can help facilitate multidisciplinary collaborations by transcribing information across various domains, leading to innovative solutions in complex research challenges.
+ 
+Limitations of AI
+When incorporating AI based tools, especially generative AI, into your academic or daily activities it is imperative to understand their imitations:
+•	AI is not Sentient: Despite appearances, AI models including LLMs, do not possess the independent thought or the self-awareness of humans. These systems are trained on extensive datasets that include biases and are programed to generate the most probable responses based on data. Consequently, data that is less common or marginalized will be suppressed.
+
+•	AI can Misinform: Generative AI tools are prone to generate misleading or fabricated information also known as “hallucination.” These models do not discern truth from falsehood but rather generate responses based on the likelihood derived from their training data.
+
+•	AI is Biased: AI models inherently contain biases due to the data on which they are trained, which is historically and culturally specific. These biases can render tools unsuitable for ethical deliberation or decisions. Students must be cautious of these limitations in particular.
+Understanding these limitations is essential for responsibly integrating generative AI tools into your studies and research at the University of Florida. Always approach AI with a critical mindset and consider the broader implications of its use in your work.
+Your Responsibilities
+•	Develop AI Literacy: As the landscape of AI technology is rapidly advancing, you must prioritize the ability to acquire the necessary skills to effectively utilize AI tools, ensuring you can leverage technology, where necessary to enhance your educational outcomes. You must strive to stay updated with AI advancements and educational resources that can aid in better understanding and usage of these technologies.
+
+•	Assess AI Outputs and apply judgement: With your growing AI literacy, you must critically assess the outputs from AI tools. It is important to recognize any biases and inaccuracies in AI-generated content, which is essential for making informed decisions.
+ 
+•	Understand Biases and Acknowledge Limitations: Understanding the limitations of AI is essential for its responsible use. Recognizing that AI can replicate existing societal stereotypes and biases is crucial. Being prepared to identify and challenge these biases ensures that you engage with AI critically and thoughtfully.
+
+•	Protect your privacy: Be cautious when selecting AI tools. Ensure that your privacy is safeguarded by using secure and UF approved platforms. If you have questions about the status of any tools, visit the UF Fast Path Solutions page or contact Integrated Risk Management at irm-uf@ufl.edu.
+
+•	Prevent academic integrity concerns: When you use generative AI to assist with coursework, it is crucial to cite this in your submissions per the academic integrity guidelines. It is your responsibility to familiarize yourself with the university’s honor code and academic integrity policies to ensure your use of AI aligns with ethical standards.
+
+Best Practices for Integrating AI into Learning
+Understand Syllabus Guidelines
+Syllabus guidelines may vary by college, department, and/or course. When considering your plan for integrating AI into assignments, review your syllabus and assignment instructions carefully. These documents will outline the expectations and rules regarding the use of AI in your coursework.
+Selecting appropriate AI tools
+As the landscape and access to AI rapidly evolves, it is important to consider and select the right tools wisely, especially when venturing beyond those provided by the University of Florida. Here are some guidelines to consider when choosing AI tools for your needs:
+ 
+Privacy Concerns:
+Be cautious with the data. Often, whether public or private, the information you provide is accessible to the entity that is providing access to its model or tool. It is important to recognize this and never share sensitive or personal details like credit card numbers, ID numbers, or addresses.
+Understanding Limitations:
+It is important to consider what AI tools can and cannot do. While these tools may appear superficially to be advanced, they are fundamentally large predictive models based on extensive but limited datasets. It is important to educate yourself and others on their limitations to better understand their applications and constraints.
+Learn to use AI:
+Before using AI to enhance your work, it is important to understand the best practices and capabilities of tools. Educate yourself by consulting reliable sources and training guides.
+Use Reputable Resources:
+Make sure to use UF-provided or UF-approved AI tools.
+University Resources and Support:
+•	Generative AI Recipes Designed to Enhance Teaching and Learning, a UFIT CITT Cookbook
+•	Center for Teaching Excellence: Artificial Intelligence in Teaching and Learning
+•	UFIT’s Center for Instructional Technology and Training Generative AI and Teaching
+•	UFIT Tech Bytes
+Services
+•	AI2 Center
+•	UFIT’s Center for Instructional Technology and Training: Request Assistance
+ 
+Guidance for Researchers
+At the University of Florida, we recognize the potential of Artificial Intelligence (AI) to drive innovation and advance knowledge in various fields. However, we also acknowledge the need for responsible and ethical AI research and usage. This guideline document provides a framework for researchers to conduct research on AI or use AI in their research while ensuring compliance with institutional policies, regulations, and ethical standards.
+This guideline applies to all researchers, including faculty members, postdoctoral researchers, graduate students, and undergraduate students, who conduct research on AI or use AI in their research projects at our institution.
+
+
+Definitions
+Artificial Intelligence (AI): refers to the development or use of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception.
+Machine Learning (ML): a subset of AI involving algorithms and statistical models to enable machines to learn from data without being explicitly programmed.
+Deep Learning (DL): a subset of ML that involves the use of neural networks with multiple layers to learn complex patterns in data.
+
+
+Research on AI
+1.	Responsible Innovation: Researchers should ensure that their AI research is conducted in a responsible and transparent manner, with consideration for the potential risks and benefits of their work.
+2.	Informed Consent: Researchers should obtain informed consent from participants before collecting data or using AI systems that involve human subjects.
+3.	Data Protection: Researchers should ensure that all data collected or used in their AI research is protected in accordance with UF’s Data Classification Policy and relevant regulations, such as HIPPA, FERPA and Export Control protected-information.
+4.	Algorithmic Bias: Researchers should be aware of the potential for algorithmic bias in their AI systems and take steps to mitigate it, such as using diverse and representative data
+ 
+sets. The research methodology should include validation and verifications steps to ensure that there is not bias in input data and output from the AI technology.
+5.	Transparency and Explainability: Researchers should prioritize transparency and explainability in their AI systems, ensuring that the decision-making processes are understandable and interpretable.
+
+
+Using AI in Research
+1.	Data Quality: Researchers should ensure that the data used to train or validate AI models is accurate, relevant, and free from bias.
+2.	Model Validation: Researchers should validate their AI models using appropriate metrics and techniques, such as cross-validation and robustness testing.
+3.	Model Interpretability: Researchers should prioritize model interpretability, ensuring that the results of their AI models are understandable and interpretable.
+4.	Dependency on AI: Researchers should avoid over-reliance on AI models and consider the limitations and potential biases of these models.
+5.	Documentation: Researchers should document their AI methods and models, including data sources, hyperparameters, and model performance metrics.
+
+
+Human Subject Research
+1.	IRB Approval: Researchers must obtain UF’s Institutional Review Board (IRB) approval before conducting human subject research that involves AI.
+2.	Participant Rights: Researchers must ensure that participants' rights are protected, including the right to informed consent, confidentiality, and withdrawal from the study.
+3.	Data Confidentiality: Researchers must maintain the confidentiality of participant data, in accordance with institutional policies and relevant regulations.
+
+
+Intellectual Property
+1.	Ownership: Researchers should be aware of the intellectual property rights associated with their AI research, including ownership of AI models, algorithms, and data.
+ 
+2.	Disclosure: Researchers should disclose any potential conflicts of interest or intellectual property rights to the institution and relevant funding agencies.
+
+
+Collaboration and Partnerships
+1.	Partnerships: Researchers should consider partnerships with industry, government, or other academic institutions to leverage resources and expertise.
+2.	Collaboration  Agreements:  Researchers  should  establish  clear  collaboration agreements, including terms of ownership, intellectual property rights, and confidentiality.
+
+
+Education and Training
+1.	AI Literacy: Researchers should have a basic understanding of AI concepts, including machine learning and deep learning.
+2.	Responsible AI: Researchers should receive training on responsible AI practices, including ethics, bias, and transparency.
+3.	Domain Expertise: Researchers should have expertise in their domain of research, ensuring that their AI applications are informed by relevant knowledge and best practices.
+
+
+Institutional Resources
+1.	AI Computing Resources: At UF, we boast a highly advanced infrastructure that supports research, particularly in AI. The HiPerGator supercomputer is the most powerful in U.S. higher education for a university’s use.
+2.	AI Expertise and Research Support: UFIT Research Computing Facilitators (RCF) and Research Software Engineers (RSE) are available for consultation and collaboration. They facilitate the use of HiPerGator resources such as CPU Cores, GPU cards and data storage capacity needs for the research to ensure scalability and efficiency.
+
+
+Reporting Requirements
+1.	Research Output: Researchers should report their AI research output, including publications, presentations, and patents.
+ 
+2.	Data Sharing: Researchers should share their data and AI models, in accordance with institutional policies and relevant regulations.
+3.	IRB Reporting: Researchers must report any adverse events or unanticipated problems to the IRB, in accordance with institutional policies and regulations.
+Monitoring and Evaluation
+1.	Research Integrity: The institution will monitor and evaluate research integrity, including compliance with this guideline.
+2.	Research Output: The institution will evaluate research output, including quality, impact, and relevance.
+3.	Research Culture: The institution will foster a culture of responsible AI research, including education, training, and support.
+
+
+By following this guideline, researchers at our institution can ensure that their AI research is conducted in a responsible, transparent, and ethical manner, while advancing the frontiers of knowledge in their fields.
+ 
+Guidance for HR Professionals
+Ethical Framework:
+Develop and operationalize a clear framework for AI implementation within the organization. The framework and guidelines should encompass principles of fairness, transparency, accountability, integrity, privacy, confidentiality, and education.
+Additionally, the framework and guidelines should align with legal and policy requirements and address enforcement processes. The framework should provide clear guidance and expectations for use of AI in the workforce including, but not limited to, establishing a Generative AI Chatbot Usage Policy and an AI Data Protection Policy.
+AI Literacy Training:
+Provide comprehensive and accessible training programs to employees to enhance their understanding of and skills in AI technologies, tools and resources. Training and education should encompass aspects of AI such as capabilities, potential impacts, ethical and professional considerations, legal guidelines, limitations, and risks.
+Additional AI Trainings should be provided to specialized HR employees to aid in navigation and knowledge of university guidelines pertaining to employees, enforcement of university HR guidelines for employees, and opportunities related to aspects of HR recruitment, hiring, evaluation, and employee relations using AI.
+Responsible Use of AI in HR:
+Develop guidelines for responsible use of AI in HR processes such as recruitment, performance evaluation, talent management, and employee relations. Ensure such guidelines are designed, deployed and enforced responsibly to mitigate bias, inconsistency, and unfairness in the workplace.
+Transparency and Legitimacy:
+Ensure transparency and clear rationale supporting legitimacy and authority for any AI driven decisions that affect employees. Provide clear explanations and details on how any AI algorithms work and how they impact or influence any HR related decisions. HR should provide employees with how and why AI is utilized in any HR processes or decision-making.
+Data Privacy and Security:
+Prioritize data privacy and security in AI implementation, specifically when handling sensitive employee data. Particular consideration should be highlighted for data privacy, confidentiality and security for student employees specific to aspects of FERPA or any other laws or policies specific to students. Implement robust data protection measures to
+ 
+safeguard against unauthorized access, distribution, misuse or breaches. Training and education should be used to inform all employees of appropriate and legal actions regarding AI and data protection. Detection and enforcement tools should be implemented to ensure appropriate enforcement and support subsequent consequences for policy violations.
+Bias Detection and Mitigation:
+Create and implement mechanisms to detect and mitigate biases in AI algorithms used in HR processes. Routinely review and assess AI systems to determine bias and take corrective measures to ensure fairness and equity in decision making. HR processes could encompass position advertising, job application reviews, writing position descriptions, benchmarking and salary analysis, applicant interviews and searches, employee evaluations, and determination of raises and promotions.
+Human Oversight and Intervention:
+Maintain human (non-AI) oversight and intervention in AI-driven and AI-supported HR processes. Ensure that final decisions regarding employee matters are made by qualified HR professionals. AI should be utilized as a tool to augment and support the capabilities of employees on campus and should not be a replacement for human judgement.
+Continuous Monitoring, Assessment and Evaluation:
+Continuously monitor, evaluate and assess performance and impacts of AI systems in HR processes. Solicit and review feedback from employees, HR professionals, and other stakeholders to identify areas for improvement. Work to find solutions to address any concerns or issues. Develop guidelines to ensure continuous improvement in HR processes.
+Compliance with Regulations, Laws and Policies:
+Implement education training for all employees regarding relevant laws, regulations, and policies regarding use of AI in HR. Areas of compliance may include data protection, privacy, confidentiality and public records.
+Employee Communication:
+Inform and educate employees throughout implementation of AI in HR processes. Provide regular updates, training sessions and channels for feedback to foster a culture of collaboration, trust, and transparency. Ensure all employees have access to information regarding AI implementation, trainings, and professional development.
+ 
+Accountability and Responsibility:
+Establish clearly defined roles and responsibilities for all employees and stakeholders involved in AI in HR. Hold individuals and teams accountable for upholding ethical standards and complying with established guidelines, policies, procedures, regulations and laws.
+
+
+Regular Review and Revision:
+Periodically review and revise HR guidelines and processes utilizing AI (or with the potential to utilize AI) to keep up with the rapidly evolving technological advancements, legal changes, and organizational challenges and priorities. Strive to improve processes and practices to align with ethical and responsible use of AI in HR and the workforce in general.

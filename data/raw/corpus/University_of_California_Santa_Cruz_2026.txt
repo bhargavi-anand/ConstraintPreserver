@@ -1,0 +1,35 @@
+Guiding Principles – Generative Artificial Intelligence at UC Santa Cruz
+
+Guiding Principles
+
+UC Santa Cruz adopts the University of California Responsible AI Principles to guide the use of artificial intelligence across teaching and learning, research and development, and planning and administration. Artificial intelligence should be used as a tool that supports the university mission while safeguarding academic integrity, protecting sensitive data, respecting civil and human rights, and promoting transparency and accountability.
+
+Applying the UC AI Principles
+
+Artificial intelligence use at UC Santa Cruz should be evaluated based on appropriateness, transparency, accuracy, fairness, privacy, human values, shared benefit, and accountability. Decisions about adopting or deploying AI systems should consider potential benefits, risks, and impacts on individuals and communities.
+
+Guiding Questions: Applying the UC AI Principles
+
+Appropriateness
+AI use should be evaluated to determine whether it is suitable for the intended purpose. In teaching and learning, AI should support educational goals and equitable access. In research and development, AI use should be appropriate given known limitations, reproducibility concerns, and alternative methods. In planning and administration, AI-supported decisions should align with institutional values and be justifiable.
+
+Transparency
+Individuals should be informed when AI-enabled tools are used. AI-influenced or AI-generated outputs should be disclosed where relevant. Processes should exist for individuals to understand, question, and seek remedies for AI-supported decisions that affect them.
+
+Accuracy, Reliability, and Safety
+AI systems should be assessed for accuracy, reliability, and safety prior to and during use. Known limitations, including the risk of fabricated or incorrect outputs, should be considered. AI tools should be monitored, and contingency plans should exist if systems fail or produce unreliable results.
+
+Fairness and Non-Discrimination
+AI use should be evaluated for potential bias or discriminatory impacts. Steps should be taken to identify, mitigate, and address harms, particularly to historically marginalized or vulnerable groups.
+
+Privacy and Security
+AI use should maximize privacy and data security. Sensitive, confidential, or regulated data should not be used in AI systems unless appropriate safeguards and approvals are in place. AI use should comply with applicable laws, policies, and data protection requirements, including FERPA where applicable.
+
+Human Values
+AI systems should respect human dignity, agency, and rights. Individuals should retain meaningful opportunities for human judgment and oversight, and non-AI alternatives should be considered where appropriate.
+
+Shared Benefit, Prosperity, and Sustainability
+AI use should promote inclusive benefits and consider long-term social and environmental impacts, including energy and resource use.
+
+Accountability
+Clear responsibility and oversight should be established for AI-supported activities and decisions. Processes should exist to address errors, misuse, and policy violations.

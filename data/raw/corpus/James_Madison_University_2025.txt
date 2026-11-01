@@ -1,0 +1,101 @@
+Standard for Acceptable Use of Artificial Intelligence
+with University Data
+August 2025
+Purpose:
+This standard provides requirements for all JMU users (faculty, staff, & students) on the acceptable and
+ethical use of AI. This standard applies to: both existing and new uses of AI; stand-alone, embedded, and
+generative AI within other systems or applications; AI developed both by the University or by third parties on
+behalf of the University; relevant data inputs used to train AI and outputs used in support of decision making;
+and agencies' procurement of AI applications.
+Definitions:
+
+Artificial Intelligence (AI): The simulation of human intelligence processes by machines, especially computer
+systems, such that it can adapt and learn on its own using machine learning algorithms that can analyze large
+volumes of training data to identify correlations, patterns, and other metadata that can be used to develop a
+model that can make predictions or recommendations based on future data inputs.
+
+Executive Order 30 on Artificial Intelligence (“EO 30”): In January 2024, Virginia Governor Glenn Youngkin
+signed Executive Order 30 on Artificial Intelligence that established safety standards to ensure the
+responsible, ethical, and transparent use of AI by state agencies.
+Executive Order 46 Banning DeepSeek (“EO 46”): In February 2025, Virginia Governor Glenn Youngkin signed
+Executive Order 46 banning the use of DeepSeek chatbot, or any other product developed by DeepSeek, on
+any Commonwealth of Virginia issued devices or through Commonwealth owned, operated, or maintained
+wireless networks.
+Generative Artificial Intelligence (“Generative AI” or “GenAI”): A type of artificial intelligence that can learn
+from and mimic large amounts of data to generate new content, such as text images, and audio, in response
+to inputs or prompts provided by its user.
+University Data: Data collected, maintained or used by university personnel, contractors, or partners as part
+of their job responsibilities, for operation of the University, or to fulfill its mission. University Data may reside
+in different automated systems and in different physical locations, but are to be considered part of a single,
+shared resource. This resource consists of information represented in a variety of data elements, types, and
+forms maintained by individuals, administrative/academic units or business partners to provide functionality
+to the University. All such data owned and managed by or on behalf of the University are considered
+University Data unless explicitly noted otherwise in writing.
+
+Standard:
+JMU-Licensed AI Tools
+The University’s licensed GenAI tool, Microsoft Copilot Chat (“Copilot Chat”) is the only GenAI tool currently
+approved for use by the entire JMU community. Once logged into JMU-licensed Copilot Chat, users have
+data protections to ensure their access is not monitored and their data is not being used to train the GenAI
+model. Protected data (including personally identifiable information) as defined in the Data Stewardship
+Standard may be used in Microsoft Copilot Chat as necessary. The use of Highly Confidential Data in the
+JMU-licensed Copilot Chat is strictly prohibited.
+Requests for the use of AI tools, other than Microsoft Copilot Chat, must be submitted to IT for review and
+approval through a Technology Solution Request.
+Prohibited AI Tools
+
+In accordance with EO 46, JMU faculty, staff, employees, affiliates, and contractors are prohibited from using
+DeepSeek AI Chatbot, or other tools developed by DeepSeek, on any Commonwealth of Virginia issued
+devices or through Commonwealth of Virginia owned, operated, or maintained wireless networks.
+Responsible Use of AI
+James Madison University supports responsible use and experimentation with AI tools; however, there are
+important considerations to keep in mind when using these tools. All uses of AI tools involving University
+Data must adhere to EO 30 and the requirements below.
+Users of AI technology must:
+• Adhere to all laws and applicable University policies and standards.
+• Adhere to University guidance on AI in Education.
+• Obtain IT review and approval for the use of AI tools other than Microsoft Copilot Chat.
+• Use AI tools that have been appropriately contracted and licensed with the necessary data
+protections.
+• Do not share Highly Confidential Data (Class 1) or personally identifiable information (Class 2) unless
+explicitly approved in writing by IT Policy and Compliance. This includes, but is not limited to,
+student/faculty/staff IDs, grades, financial information, intellectual property, or other sensitive
+information that should not be publicly disclosed. Refer to the Data Stewardship Standard for more
+information.
+• Limit University Data in AI systems to only that which is necessary to complete the intended goal or
+objective.
+• Retain University Data in AI systems only for the length of time required to complete the intended
+goal or objective, implementing a timeframe for data retention when feasible.
+• Avoid sharing information that could compromise the privacy or security of anyone associated with
+the University.
+• Avoid sharing information that could identify individual students or their data.
+• Be cautious when seeking or providing information that could have legal, ethical, or reputational
+implications. 
+• Ensure all AI outputs are validated by a human(s) for bias and unintended consequences.
+• Allow users the ability to consent to the use of their data by AI systems when possible.
+• Be transparent when generative AI or other AI related capabilities are utilized in any process or to
+produce any decision using the following mandatory disclosures:
+o The following disclosure, or a similar statement, shall be used on any decision or output of an
+AI system: “DISCLAIMER: This decision or output was generated by artificial intelligence.”
+o The following disclaimer, or a similar statement, shall be included when AI is used as part of a
+larger process, but is not used in generating the final decision or output: “DISCLAIMER: This
+decision or output was created with assistance from artificial intelligence.”
+o AI system making external decisions regarding citizens of the Commonwealth shall: 1) disclose
+how AI is used to arrive at a decision; 2) disclose the extent human involvement played a role
+in validating and overseeing those decisions; and 3) clearly list options for individuals to appeal
+those decisions (if appealing is an option).
+
+Understand the Risks of Using AI
+The potential benefits and risks of AI should be carefully evaluated to determine whether AI should be
+applied or prohibited. Risks of using AI include:
+• Not all AI generated content is correct or appropriate and must be reviewed by a human for
+accuracy.
+• AI applications and/or the intended use case may not align with the principles and standards of the
+University and must be reviewed by IT Policy & Compliance prior to use.
+• AI models may be trained using underrepresented datasets creating biases in the data. These
+potential biases can result in biased or discriminatory responses.
+• Third parties may perform unauthorized data collection and use data inappropriately.
+• AI systems are a target for cyberattacks due to their handling of large amounts of data, which can
+lead to data breaches and the exposure of sensitive information.
+• AI can be used to create realistic but fake content (deepfakes) which can be used to spread
+misinformation.

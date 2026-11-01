@@ -1,0 +1,45 @@
+Academic Integrity and Syllabus Support in the Age of Generative AI
+
+Considerations for AI Policy Creation
+
+Permitted Use Cases
+Clearly define what AI tools can be used for in your course (e.g., brainstorming, idea generation, or drafting) and where they are prohibited (e.g., completing graded assignments without supervision).
+
+Example Policy Statement: "Students may use AI tools like ChatGPT for initial idea generation and draft creation, but final submissions must reflect the student's original thoughts and revisions."
+
+Prohibited Use Cases
+Establish boundaries for AI use to prevent academic misconduct, such as using AI to generate full essays or solutions to homework problems.
+
+Example Policy Statement: "Using AI tools to generate any work is considered plagiarism and will result in disciplinary action."
+
+Ethical AI Use
+Include guidelines on ethical AI usage, including proper attribution when AI-generated content is used in assignments.
+
+Example Policy Statement: "Any AI-generated content used in assignments must be properly attributed. Failure to disclose AI assistance may result in plagiarism charges."
+
+Privacy and Data Security Considerations
+
+When using AI tools, it’s essential to consider privacy and data security. Do not share work containing student identifiers with any third-party services—no student names or other unique identifiers like NetID or N-numbers. Sharing such identifiers with services like ChatGPT or Google Gemini violates the Federal Educational Records Privacy Act (FERPA), which mandates careful handling of student records and restricts their disclosure to third parties. Sharing data that identifies students with tools that NYU has not licensed will never be FERPA-compliant, as FERPA requires the institution to have a specific sort of business relationship
+
+Addressing Academic Integrity Concerns
+With the rise of AI tools like ChatGPT and other generative AI applications, concerns about academic integrity have become increasingly relevant. As AI becomes more integrated into the educational experience here at NYU Steinhardt, both faculty and students must navigate the fine line between appropriate use and academic dishonesty. Clear guidelines are necessary to help students understand when and how AI can be used responsibly.
+
+If you suspect a violation, follow NYU Steinhardt’s policy on reporting an academic integrity violation.
+
+Key strategies to address academic integrity concerns include:
+
+Establishing Clear AI Use Policies: Instructors must create explicit policies outlining when AI tools can be used and what constitutes misuse. For example, using AI for initial drafts may be allowed, but passing off fully AI-generated work as one's own without modification or attribution is not.
+Promoting Critical Thinking: Instead of banning AI, educators should focus on teaching students to use AI as a learning tool while encouraging them to critically evaluate AI-generated content. As AI is reshaping how work is done across industries, it’s essential for educators to adapt and incorporate these changes into their teaching practices, helping students navigate and responsibly engage with AI technologies.
+Ethical AI Use: Educators should emphasize ethical practices, such as proper attribution for AI assistance and transparency about the use of AI in assignments.
+Define Plagiarism with AI: Clarify what constitutes plagiarism when AI tools are involved, such as submitting AI-generated work as your own or failing to attribute AI contributions.
+Example
+"Submitting AI-generated content without proper attribution is considered academic dishonesty and will be subject to disciplinary action."
+
+Assessments and AI in Academic Integrity
+Integrating AI considerations into assessments is crucial for maintaining academic integrity and aligning AI use with course objectives. Here are key elements to consider:
+
+Assessment Design: Design assignments that encourage original thought and critical analysis, minimizing opportunities for academic misconduct. For instance, open-ended questions, reflective responses, and analysis-based projects can make it harder for students to rely solely on AI-generated content.
+Clear Guidelines for AI in Assessments: Specify when and how students can use AI assessment tools. For example, “AI tools can be used for initial research and brainstorming, but the final submission should be your original work.” If AI is prohibited for certain tasks (e.g., producing written essays or solving complex problems), clearly outline this.
+
+Reflective Assessment on AI Use: Include assignments where students reflect on their use of AI in completing tasks. This can help students critically assess AI’s impact on their learning and ensure that AI is a supplement, not a replacement for independent thought.
+Incorporating these practices into your assessments fosters responsible AI use, supports academic integrity, and reinforces the value of original work.

@@ -1,0 +1,18 @@
+﻿AI Guidance (Office of Research Integrity)
+The University of Massachusetts Lowell recognizes the evolving landscape of Artificial Intelligence (AI) and Machine Learning (ML). With the emergence of AI, researchers have a unique opportunity to use AI to advance knowledge, research, and scholarly work.
+However, best practices on the use of AI in research are not yet well formed, nor is there consensus on appropriate use. Given this uncertainty, it's essential to use AI responsibly, to be aware of federal policies and guidance that apply to AI tools, and to understand AI’s limitations.
+These limitations include but are not limited to bias/discrimination, plagiarism, data privacy/legal issues, data misinformation, and consent — which are all subject to different meanings in different contexts.
+Providing an overview of these concepts will be crucial to ensuring ethical and responsible development of research using AI based technologies.
+Bias and Discrimination
+Researchers need to be aware that AI tools can inherit biases. This bias can perpetuate stereotypes and discrimination in research outcomes. It is important to validate content using reliable resources.
+Plagiarism
+Content generated from AI often paraphrases from other sources. This might raise concerns regarding plagiarism and intellectual property rights. Many federal agencies have tools to detect AI-generated content. Be aware of these tools and their potential impact on your research and research writings.
+Data Privacy and Legal Issues
+UMass Lowell prohibits the use of AI tools with university/internal, restricted and critical data types. Once data is placed into AI tools, it becomes available to the public and open-source. This would likely have legal consequences should a data breach occur.
+Data Misinformation
+AI tools can generate data that is misinformed or inaccurate.  It is extremely important to cross-reference generated content with reliable sources.
+Consent
+Collect and use data responsibly, ensuring that it is obtained ethically and legally, with appropriate consent and privacy protections for individuals involved.
+By acknowledging these limitations, researchers will be able to establish and perform their research in a manner which promotes integrity and ethical conduct toward AI usage.
+Guidance for Human Subjects Research
+The Secretary’s Advisory Committee on Human Research Protections (SACHRP) provides expert advice and recommendations to the Secretary of Health and Human Services on issues pertaining to the protection of human subjects in research.

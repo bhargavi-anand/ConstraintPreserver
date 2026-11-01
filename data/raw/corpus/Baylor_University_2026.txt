@@ -1,0 +1,27 @@
+Baylor University Guidance on Generative Artificial Intelligence
+
+Baylor embraces Generative Artificial Intelligence as an effective tool to support the institution's education, research, and operation.
+
+As an R1 Christian university, Baylor affirms that human conscience and intelligence are endowed by our Creator and cannot be replicated or replaced by artificial intelligence. As responsible stewards of resources, the university is committed to leveraging AI effectively to enhance higher education while abiding by the following guidelines.
+
+Existing university policies will apply to the use of AI to the greatest extent possible.
+
+As AI-generated insights are increasingly used in making employment, financial, and mission-critical decisions, humans must retain the final decision-making authority.
+
+Any new generative AI platforms and chatbots, including those developed by faculty, staff, and students, must undergo review and approval by BaylorITS and the Office of the Provost before adoption.
+
+Use of AI tools in academic programs should be transparent.
+
+Confidential data should be restricted for non-public AI tools in compliance with data security standards.
+
+Users of AI-generated results bear full responsibility for ensuring compliance with all applicable laws and regulations. Actions resulting from AI tool usage are the sole responsibility of the user.
+
+AI policy violations will be addressed by the appropriate academic dean’s office and the Office of the Provost. Misuse of AI by students should be reported to the Honor Council, and violations will be governed by the university’s honor code.
+
+Course instructors should specify the permitted use of AI tools and the responsibilities of students to document what tools and data were used in any course assignment.
+
+All AI-generated results must undergo human review to ensure accuracy before being used.
+
+Generative Artificial Intelligence has the potential to accelerate research. Current AI tools can summarize research content, analyze data, identify patterns in data, generate hypotheses, conduct literature reviews, or operate as research assistants.
+
+These capabilities will expand and contract as technologies evolve. In order to respond to the challenges presented by AI, the research community must remain nimble and adjust AI utilization methods as updates and announcements are distributed.

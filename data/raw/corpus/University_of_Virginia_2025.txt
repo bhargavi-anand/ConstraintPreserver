@@ -1,0 +1,67 @@
+Generative AI
+Generative AI Use Guidelines
+
+Responsible Use of Generative AI Tools at UVA
+Responsible Use Guidelines
+1. Understand liability issues. If you have individually signed up for an AI account, you are personally responsible for what happens with that account. UVA’s licensed Generative AI tools provide data protection that does not exist when using individually licensed tools. Do not use University data, except for data classified as “Public”, with AI tools that have not been appropriately contracted and licensed with the necessary data protections as these data could be exposed to others and/or used to train AI models.
+
+2. Use UVA-licensed AI tools whenever possible. UVA’s licensed Generative AI tools (Copilot Chat and M365 Copilot) include contractual data protection of university information.
+
+With appropriately licensed tools, all prompt data remains in a UVA-specific tenant and are not shared with others or used for training of AI models.
+
+With appropriately licensed tools, “Sensitive” data may be used in chat prompts. “Highly Sensitive” data, as explicitly defined in the University Data Protection Standards, cannot be included in chat prompts. 
+
+3. Adhere to all existing University policies. These include:
+IRM-002 – Acceptable Use of the University’s Information Technology Resources
+IRM-004 - Information Security of University Technology Resources
+IRM-012 - Privacy and Confidentiality of University Information
+IRM-017 - Records Management
+HRM-009 - Preventing and Addressing Discrimination and Harassment
+HRM-041 - Policy on Sexual and Gender-Based Harassment and Other Forms of Interpersonal Violence
+
+4. Know that not all answers are accurate or appropriate. All AI generated content should be reviewed by a knowledgeable person before using or publishing. “Hallucinations” sometimes occur, resulting in misleading or entirely false information.
+
+5. Consider the appropriateness of using AI generated content. Ensure that AI applications align with the principles of the university. If you, or the University, would suffer reputational harm if it became known that you used AI generated content for an assignment, task, official communication, etc. then you shouldn’t use AI. The potential benefits and risks of AI should be carefully evaluated to determine whether AI should be applied or prohibited.
+
+6. Be mindful of data bias potential. AI models are trained on large datasets that may contain biases present in the data. These biases can result in biased or discriminatory responses.
+
+7. Be transparent. Individuals should be informed when AI-enabled tools are being used and/or when content has been AI generated.
+
+8. Be knowledgeable in prompt engineering. There is an art to constructing prompts that produce relevant responses. Prompts that generate desired results after only 1 or 2 iterations are more efficient and save resources – both time and money.
+
+Terms of Use
+Terms of Use for Generative AI (GenAI) Tools at UVA
+
+1. Purpose. By using GenAI Tools at UVA, you agree to the following Terms of Use (“Terms”). These Terms govern the appropriate use of Generative AI (“GenAI”) Tools at UVA, including UVA Copilot, UVA Edge Copilot, and UVA Chat+ (collectively “GenAI Tools”). The Terms are designed to ensure that GenAI Tools are used appropriately to enhance productivity, efficiency, and decision-making while complying with applicable law and University policies and procedures, including those respecting privacy, confidentiality, and data security.
+
+2. Scope. The Terms apply to all employees (faculty and staff), students, contractors, and third-party vendors who are granted the right to interact with, develop, or implement UVA’s GenAI Tools (“AI Users”). It covers all GenAI Tools at UVA.
+
+3. Training. AI Users should consult with relevant UVA-provided resources concerning their use of GenAI Tools in Teaching and Learning. Those resources including:
+
+Honor Committee – GenAI Update for Faculty and TAs
+Center for Teaching Excellence - GenAI in Teaching and Learning Resources 
+Office of the Provost – GenAI Teaching and Learning Task Force Report
+Office of the Provost – Guidance for Faculty and Students
+4. Permitted and Prohibited Uses. Each AI Users is personally responsible for what happens with the AI User’s assigned account.
+
+(a) When to Use. AI Users should only use GenAI Tools in circumstances when GenAI Tools may enhance or assist in performing academic or job-related tasks, such as by enhancing productivity, learning, efficiency, and decision-making. Notwithstanding any other policy permitting incidental use of University IT resources, usage of GenAI Tools outside these circumstances (including use for commercial or personal non-academic purposes) is prohibited.
+
+(b) Prohibited Tools. Under Executive Order 46 (2025), no employee, agent or contractor of the University may download or use the DeepSeek AI application on any University-issued, owned or leased device (including mobile phones, desktop computers, laptop computers, tablets, or other devices capable of connecting to the Internet), regardless of which network is being used at the time. Moreover, no person (regardless of affiliation to the University) may download or use the DeepSeek AI application while connected to any wired or wireless Internet network owned, operated, or maintained by the University, regardless of who owns the device being used at the time.
+
+(c) Where to Use. These Terms apply when AI Users use GenAI Tools to perform, or assist in the performance of, any work-related or academic activities without regard to the location of the AI Users at the time they use GenAI Tools, or whether the GenAI Users operate GenAI Tools on University equipment and systems, on the AI Users' personal devices, or on third-party electronic devices.
+
+(d)  Legal Compliance. No AI User may use GenAI Tools for personnel decision-making purposes without the express written consent of the Vice President and Chief Human Resources Officer (or an appropriately-authorized designee). AI Users must at all times comply with HRM-009: Preventing and Addressing Discrimination and Harassment, HRM-041: Policy on Sexual and Gender-Based Harassment and Other Forms of Interpersonal Violence, and applicable law.
+
+(e) Data Protection and Privacy. GenAI Tools are designed to provide data protection that may not exist when using individually licensed or open-source tools. When using GenAI Tools, AI Users must comply with IRM-002 – Acceptable Use of the University’s Information Technology Resources; IRM-003: Data Protection of University Information; IRM-004: Information Security of University Technology Resources; and IRM-012 - Privacy and Confidentiality of University Information. When using GenAI Tools, University Data classified under University Data Protection Standards (UDPS 3.0) as “Public,” “Internal Use, or Sensitive” may be used in GenAI Tools chat prompts, University Data classified as “Highly Sensitive” may not. Do not use University Data, except for data classified as “Public,” with any other AI tools (such as ChatGPT) that have not been appropriately contracted and licensed with the necessary data protections as these data could be exposed to others and/or used to train AI models.
+
+(f)  Intellectual Property. AI Users are prohibited from infringing upon the intellectual property of the University or third parties in their use of GenAI Tools. AI Users should be mindful of inputting information owned by or licensed from third parties, as the chat output may be subject to restrictions on the use of the information contained therein. Furthermore, the publication or distribution of the output of a GenAI Tool could result in the violation of the intellectual property rights of third parties. When publishing or distributing content generated by GenAI Tools (in whole or in part), AI Users must make known – through a disclaimer or otherwise – that the content has been generated by AI.
+
+(g) Records Management. Not all GenAI Tools store data and some store data for limited durations. AI Users employed or contracted by the University should be mindful of complying with IRM-017: Records Management and University Record Retention Schedules when using GenAI Tools.
+
+5. No Warranty/Sensible Use. GenAI Tools may produce erroneous or nonsensical information or results that are not real, do not match any data the algorithm has been trained on, or do not follow any other discernible pattern. In addition, the results may reflect biased or incomplete data sets on which they were trained. GenAI Tools should not be used blindly for decision making and/or the creation of content and should never be relied upon for important inquiries. GenAI Tools output is received as is, without any warranty, including any warranty concerning accuracy, correctness, fitness for purpose, or reliability. AI Users are expected to recognize the limitations of the GenAI Tools they are using, avoid over-reliance on such tools, carefully review output for errors, and remain vigilant to identify potentially erroneous, incomplete, or otherwise problematic output.
+
+6. Reporting Procedures. AI Users should contact their supervisor or Employee Relations (UVA HR) if they become aware of an actual or possible violation of this policy. AI Users should contact appropriate University officials using the Report an Information Security Incident web page if they become aware of an actual or possible GenAI Tools system failure or circumstances where a GenAI Tool is generating output which is: i) erroneous, ii) incomplete, iii) misleading, iv) offensive, v) harassing, vi) discriminatory, vii) which causes an employee to have other concern(s), or viii) which violates any University policy. Reports made under this section will be investigated, and GenAI Users must cooperate with any such investigation. The University may, in its sole discretion, decide to suspend use of the relevant GenAI Tool during any such investigation. To the extent corrective measures are required following the investigation, AI Users must cooperate in the implementation of those measures.
+
+7. Violations. Use of GenAI Tools in violation of these Terms is prohibited. Violations of these Terms may result in the limitation or revocation of access to University IT resources. In addition, failure to comply with requirements of the Terms or appliable University policy and/or standards may result in disciplinary action up to and including termination or expulsion in accordance with relevant University policies, and may also violate federal, state, or local laws.
+
+8. Amendment of these Terms. AI technology and the laws and regulations governing AI are rapidly evolving and these Terms may be amended from time to time to reflect the evolving landscape. AI Users should frequently check these Terms to ensure ongoing compliance.

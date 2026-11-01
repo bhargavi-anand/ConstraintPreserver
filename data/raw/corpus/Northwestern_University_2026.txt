@@ -1,0 +1,103 @@
+﻿Use of Generative Artificial Intelligence in Courses
+Instructor Options
+As with other course features, instructors have the freedom to integrate generative artificial intelligence (GAI) to support their teaching goals. With the recent increase in GAI’s popularity, instructors should carefully consider how (if at all) they will permit the use of GAI in their courses. All instructors should communicate any expectations or requirements clearly with students to avoid confusion. It may help to think in terms of three main options that apply to an entire course:
+* Closed: The use of GAI is prohibited.
+* Conditional: The use of GAI is permitted when explicitly authorized by the instructor.
+* Open: The use of GAI is encouraged. Students must adhere to the instructor’s expectations.
+
+
+Considering the Use of GAI in Your Courses
+We recommend the following steps as you consider the use of GAI in the Northwestern classroom:
+First, consider the technology itself and the larger learning objectives of your class:
+* Will it contribute to your students’ learning?
+* Does it have a useful role to play?
+* How do the skills that you are helping students gain relate to GAI?
+Once you have identified the ways in which the use of GAI or the absence of GAI may support your learning goals for the class, think about a blanket policy for the class: Will it be closed to student use of GAI, allow use of GAI with certain conditions, or will the class be open to use of GAI as the students see fit? The framework below may help you as you make these decisions:
+
+
+ Considerations when deciding whether your course will be open or closed to use of GAI. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Framework inspired by Forbes, M. & Brandauer J. "What’s my stance on genAI in this class?" Gettysburg College Johnson Center for Teaching and Learning. Retrieved 8/20/2023 from https://genai.sites.gettysburg.edu/positions-and-policies/)
+Next, you might use the ideas below to start a robust discussion about the role of GAI in your class with your students. You should be transparent, explaining the reasoning behind your policy as it relates to the purpose and goals of the course. Flexibility might also be key, as this is a newer area for students and instructors alike.
+
+Finally, as you formulate your own philosophy about the use of GAI in your classes, you should think about specific assignments and whether your blanket policy fits each of them. You should offer clear examples of when GAI can and cannot be used, explain how to cite the use of GAI tools, and discuss the consequences of not citing or inappropriate use of these tools.
+Considering GAI Tools
+We encourage the community to choose generative AI tools that are:
+* Supported by the university
+* Accessible
+* Accurate
+* Transparent about their uses of data
+* Practitioners of good data security
+* Retain data a short amount of time
+* Ethical in terms of access to student and instructor data, including refraining from using these data to train their models.
+Template Statements for Syllabi
+Whatever approach instructors take to GAI, they should document their expectations on syllabi. Doing so is of particular importance as students may encounter vastly different expectations across their courses. 
+To represent each of the three main options for GAI, instructors might consider statements like these, which are derived from Kellogg School of Management materials:
+* Closed: You are prohibited from using Generative Artificial Intelligence (GAI) to produce any materials or content related to this course. Any use of GAI will be viewed as a potential academic integrity violation.
+* Conditional: In this course, you are allowed to use Generative Artificial Intelligence (GAI) on assignments only for the purposes specified in assignment prompts. Any use of GAI should be accompanied by a disclosure at the end of an assignment explaining (1) what you used GAI for; (2) the specific tool(s) you used; and (3) what prompts you used to get the results. Any use of GAI beyond where permitted will be viewed as a potential academic integrity violation.
+* Open: In this course, you are allowed to use Generative Artificial Intelligence (GAI) in any manner. Any use of GAI should be accompanied by a disclosure at the end of an assignment explaining (1) what you used GAI for; (2) the specific tool(s) you used; and (3) what prompts you used to get the results.
+Northwestern's Cook Family Writing Program has compiled more information about and examples of syllabus statements in a Canvas module with GAI resources.
+On the Office of the Registrar's syllabus statement page, there is an optional GAI statement listed under the academic integrity statement, as well as a recommended syllabus statement for courses in which GAI use is permitted.
+Considerations Before Prohibiting Use of GAI
+While instructors are free to prohibit any use of GAI in their courses, they should consider the following implications:
+* GAI is integrated deeply into many tools and will become increasingly difficult to opt out of.
+* Students will likely be expected to use GAI in future pursuits (e.g., graduate and professional studies, careers, etc.). Learning effective and responsible ways to use GAI will help prepare them to succeed.
+* Overly relying on handwritten or oral exams may impact accessibility​.​
+* Some students may particularly benefit from using GAI tools. For example, students for whom English is not their first language may rely on GAI to enhance their grammar and fluency in academic communications.
+
+
+​Considerations Before Requiring Use of GAI
+Instructors who are interested in experimenting with GAI as a teaching tool should anticipate how they will address potential barriers to equity and success, especially if the use of GAI is required:
+* Some GAI tools are moving to a paid subscription model or offer a more effective and powerful version as a paid subscription, potentially increasing the cost of enrolling in a course that requires GAI tools or allowing for inequitable access to the best GAI tools.​​
+* Instructors who incorporate GAI tools into their courses should intentionally develop and follow processes that ensure critical evaluation of those tools' outputs by themselves and their students.
+
+
+Talking with Students about GAI
+The volume and diversity of news about GAI means that students are likely entering courses with a range of awareness about what it is, let alone its utility and appropriateness for coursework. How instructors engage students about GAI in their courses will depend on the subject and format of those courses. In any dialogue about GAI, students should reflect on their purpose in being at Northwestern and intrinsic motivation for learning. They should consider how using GAI in ways instructors do not intend may circumvent learning that is essential for success at Northwestern and beyond.
+Topics to Address
+In planning what to discuss with students, instructors should address how these broad interrelated topics apply to their courses:
+* Technology: Discuss with students the technology itself, including GAI’s strengths, limitations, and ethical concerns.
+* Transparency: Explain course expectations and requirements around GAI, ideally as they relate to the course’s learning outcomes.
+* Usage: Offer clear examples of when and how GAI can, cannot, or must be used. If GAI is banned, explain the reasons, ideally as they relate to the course’s learning outcomes.
+* Citation: If GAI is allowed and/or required, explain how to cite the use of these tools in the course.
+* Consequences: Discuss the consequences of unauthorized use of GAI tools or a failure to acknowledge permitted use.
+
+
+ Talking About AI 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strategies for Discussing Uses of GAI with Your Students
+Open a conversation about the use of GAI with your students. Students may or may not be familiar with the tools, how to use them, how to cite them, or their promise and limitations. A series of activities with your students might include:
+* Poll or discussion questions for your students:
+   * What are some of the ways you've explored GAI?
+   * If you could use GAI for one assignment, which one would you choose and why do you think it is a good idea?
+   * Do you think there should be boundaries for this class on the use of GAI? If so, what should they be?
+* Policy review activity:
+   * Review/discuss specific examples of appropriate or inappropriate use of GAI
+   * Conduct a syllabus survey reviewing important class assignments and policies, including the use of GAI tools
+* Discuss recent articles about GAI and connections to your course:
+   * Wired explanations of where and when users may encounter the work of GAI in the publication. Could the students write a similar explanation for their work in your class?
+   * Ethan Mollick's piece on “automating creativity.” How do students describe their own individual creativity? In what ways do they think GAI may enhance that creativity? And how might introducing their creativity to GAI advance the creativity of those tools?
+The students at the University of Sydney co-created a document with general principles for the use of GAI at their institution, which includes a set of scenarios that may help you and your students determine the acceptability of the use of GAI in your course.
+
+Above all, the point of these discussions with your students is to build their investment in their own learning through transparency and trust. View the advice from Elizabeth Lenaghan, a Professor in the Writing Program, about discussing the use of GAI with your students.
+Academic Integrity and GAI
+Instructors permitting the use of GAI tools should clearly communicate their expectations for attribution and specific citation formats from the guide(s) they prefer. Failure to properly attribute GAI tools may violate the University’s academic integrity policy:
+* Cheating: “Allowing another person or resource (including, but not limited to, generative artificial intelligence) to do one's work and submitting that work under one's own name without proper attribution.”
+* Plagiarism: “Plagiarism includes, but is not limited to, the unauthorized use of generative artificial intelligence to create content that is submitted as one's own.”

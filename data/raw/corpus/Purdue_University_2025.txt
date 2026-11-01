@@ -1,0 +1,140 @@
+
+Generative AI at Purdue University
+Explore best practices for leveraging AI while safeguarding university assets and upholding Purdue’s commitment to technology advancement and innovation.
+
+ABOUT GENAI
+What is Generative AI?
+Generative AI refers to artificial intelligence systems that can generate new content — like text, images, music, videos, and even code — based on the data they’ve been trained on.
+
+TYPES OF GENERATIVE AI
+Large Language Models (LLMs)
+LLMs are a specific type of generative AI that focus on understanding and generating human-like text. They are trained on huge amounts of text data (books, articles, websites) and learn patterns, grammar, and logic. Once trained, they can write emails, summarize text, answer questions, code, or even have conversations.
+
+Generative Media Models
+Generative media AI models are artificial intelligence systems designed to create or synthesize non-text media content such as images, audio, video, and 3D assets. These models rely on deep learning techniques—like Generative Adversarial Networks (GANs), diffusion models and transformer based models—to generate new, realistic content from prompts or input parameters.
+
+Instead of just analyzing or classifying information, GenAI can create something entirely new. While AI can enhance productivity, responsible and ethical use is essential to maintain academic integrity, data security, and institutional standards.
+
+BEST PRACTICES
+What are the best practices in generative AI use?
+If your organization wants to implement generative AI solutions, consider the following best practices to enhance your efforts.
+
+Use AI as a collaborative tool, not a replacement
+AI should enhance human capabilities, not replace them. It can help streamline tasks, generate insights, and automate workflows. However, human oversight is essential for ethical, creative, and critical thinking. AI should be utilized as a collaborator.
+
+Practice integrity, transparency, and data security
+AI-generated content should be disclosed to maintain integrity and avoid misrepresentation. Protecting data privacy is crucial, requiring strong security measures and compliance with Purdue University policies.
+
+Optimize AI to boost accuracy and product
+AI improves efficiency but requires fact-checking to ensure accuracy. Cross-referencing sources prevents misinformation. Refining prompts helps generate precise, relevant responses, maximizing productivity while maintaining quality.
+
+Stay informed with current AI developments
+AI evolves rapidly, making continuous learning essential. Staying updated on advancements, best practices, and ethical considerations ensures responsible and effective use of AI.
+
+Explore your role
+
+Faculty Guidelines
+How to uphold ethical GenAI standards in your classroom
+
+Yes
+Enhance teaching and learning while upholding academic integrity
+
+Yes
+Include AI Policy statement in all course syllabi
+
+Yes
+Be transparent about AI use and encourage responsible usage
+
+No
+Avoid AI-detection software as the sole method to verify integrity
+
+No
+Refrain from primarily using AI tools for grading or exam creation without verification
+
+Staff Guidelines
+Ways to incorporate GenAI into your workflow
+
+Yes
+Leverage AI to improve workflows and support informed decision-making
+
+Yes
+Prioritize data privacy, security, and compliance with policies
+
+Yes
+Verify AI-generated content for accuracy and reliability
+
+Yes
+Be transparent and responsible when using AI tools
+
+No
+Avoid inputting sensitive data, proprietary code, or confidential files into AI systems
+
+No
+Do not depend entirely on AI—apply human judgment and oversight
+
+
+
+Guidance on the Use of AI in Teaching and Learning
+
+The goal of this page is to provide reasonably thorough, but also accessible and brief, guidance to support the AI approaches and practices of instructors, as well as how they communicate their expectations to students. The guidelines represent evidence-based practices that align with Purdue’s values and policies. We encourage students and faculty together to innovate learning through AI, and we are eager to work with and support student innovation in AI.
+
+The guidance for instructors will be updated each semester and is expected to evolve as we gain experience, advance the technology and implement innovations. In addition, based on your input, we will develop equivalent guidance specifically for students.
+
+Now is a time of rapid innovation and change. Good instructor-student communication is at the heart of all great teaching. Instructors should strive for maximum transparency and clarity in their communications to students about the use of AI in their course.
+
+Purdue’s student conduct regulations state the following regarding academic integrity:
+
+“Students are expected to adhere to the guidelines provided by instructors for academic work so that no student gains an unfair advantage. Using or attempting to use unauthorized materials, information, study aids, notes, or any other device in any academic exercise will not be tolerated. Unauthorized materials may include anything which or anyone who gives a student assistance that has not been approved by the instructor in advance.”
+The instructor, therefore, should determine and inform students when the use of AI is authorized or unauthorized. Authorization is determined at the course level by the instructor.
+
+On the course syllabus, instructors should include specific guidance on:
+
+Allowable use of AI tools by students for assessed work in the course. Example: use of AI while completing a homework assignment.
+Appropriate use of AI tools by students during the learning process for non-assessed work of the course. Example: use of AI to summarize an assigned reading.
+The ways in which the instructional team may attempt to detect the use of AI on assessed and non-assessed work. For example: Non-assessed work could include the early assignments in a scaffolded project with several components. (see below)
+The potential consequences faced by students who violate the AI use policies in the course.
+
+Instructional Team Roles and Responsibilities, Grading
+
+The use of AI tools may change the workflow for the instructional team by shifting the kind of work they do, as well as who might be accountable for completing certain kinds of work. Typical principles of teaching and learning still apply:
+
+The instructor of record is responsible and accountable for all grades on all assessments in the course.
+All assigned grades must be explainable and defendable based upon evidence submitted by the student for the assessment.
+Some grading responsibilities may be delegated by the instructor of record to other members of the instructional team (ex: teaching assistants) based upon their professional judgment, course enrollment, and/or the complexity of the assessment. The instructor of record retains the responsibility for oversight of other graders, training them appropriately, and ensuring their work is both consistent and of a high standard.
+In the presence of AI tools used in grading student work, the instructor of record and their instructional teams should:
+
+Create and apply a process by which any AI-based tools used for grading student work produce explainable and defendable grades. This process should:
+Ensure that a human remains in the loop to the maximum extent possible.
+Integrate a quality assurance procedure to ensure grading automation features (ex: Gradescope’s grouping tool) work accurately and as intended.
+Avoid “blackbox” grading methods/tools that cannot be validated or explained.
+Consider the appropriateness of using AI detection tools (see below).
+
+Use of AI Detection
+
+Current AI detection tools have very high false-positive rates, rendering them almost useless in practice. At the present, instructors should treat any results generated via AI detection tools, including those in TurnItIn, with extreme distrust and carefully review suspected cases with due diligence and according to a procedure clearly explained to students on the syllabus.
+
+On the course syllabus, instructors should:
+
+Clearly describe the specific ways in which they will (or will not) attempt to detect the unauthorized use of AI.
+The procedures they will follow if an unauthorized use of AI is suspected. It is especially important, given the high false positive rates of current AI detection tools, that a positive result from one of these tools is not the sole determining factor of an academic integrity violation and subsequent consequences.
+The potential consequences faced by students who are determined to have used AI tools in an unauthorized way, including any impacts on grades and possible referral to the Office of Student Rights and Responsibilities.
+
+Copyright Issues
+
+Some AI based tools encourage users to upload copyrighted material as training data for specific AI models, particularly those used to create content for ‘personalized learning.’
+
+On the course syllabus, instructors should:
+
+Make clear to students that sharing of copyrighted material with third-party AI tools is prohibited.
+Remind students that while faculty and instructors do not own copyright to facts or ideas in their discipline, they do own copyright to their expression, explanation, and presentation of those facts and ideas in course notes, PowerPoint slides, etc. including assessments constructed for the course. As such, those instructor-generated materials should never be uploaded to any third-party site (whether AI oriented or not).
+
+FERPA and Other Privacy Issues
+
+Some AI based tools, including tools that promise AI-detection capabilities, use user-supplied data to further train their models. Third-party AI tools have widely-varying approaches to privacy, security, encryption, and so forth, and instructors must–as always–comply with FERPA requirements for student information and privacy. 
+
+On the syllabus, instructors should:
+
+Clearly communicate with students how their data or interactions with AI tools may be used or shared before an instructor puts any of the student’s work into an AI tool, including AI detectors
+Commit to never sharing personally identifiable information about students with any third-party AI tool
+Explain that they will obtain students’ consent to share data on their interactions with AI when appropriate. Example: a research study on student use of AI tools
+The university is working toward expanding our technology-based teaching and learning environments where instructors and students can confidently work with copyrighted instructional materials and FERPA-covered student content to build, deploy, and use AI tools for educational purposes. Please plan to bring your ideas and teaching technology environment needs to the Spring 2024 town hall.

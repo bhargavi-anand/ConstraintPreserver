@@ -1,0 +1,26 @@
+Generative AI in Teaching and Learning: Policies
+
+The following list represents a basic primer for the acceptable use of generative AI tools at UT-Austin (updated November 2023).
+
+Academic Honesty
+
+The use of generative AI tools to create responses to course assignments in a way that is unacceptable to the course instructor may be considered a case of academic dishonesty by the university. 
+
+“It is strongly recommended that you outline any individual expectations for assignments completion, including parameters around group work, authorized resources, citation requirements, etc. in the assignment directions. Clear and detailed expectations not only reduce the likelihood of a possible violation, but they also aid the Student Conduct team in holding students accountable that fail to adhere to the assignment directions.”
+
+Pedagogical/Course Requirements
+
+As much as is possible, faculty and instructors need to signal their intention to use generative AI tools as "course materials," especially in cases where any kind of financial obligations are incumbent upon the student, and carefully weigh the costs and benefits of using these tools. Please stay up to date on policies around this evolving area.
+
+"All required course materials – textbooks, course packets, access codes, iClickers, school supply items, etc. – must be submitted to the Co-op. If an item is unavailable at the Co-op, it will still be listed. For courses without any required materials, course material information still needs to be reported by flagging “No Text Required.” Courses that include and distribute textual materials that are included in the program costs (such as Option II and III programs) must also provide this information. … Even though these materials do not need to be purchased by either the Co-op or by students, state legislation requires that we communicate all required course materials to students. Pursuant to this legislation, students must be able to view courses that require only OER. To make this possible, instructors must report all course materials adoptions, regardless of cost."
+
+Information Technology and Data Policies
+
+As a kind of information technology, the university has defined acceptable use of generative AI tools.
+
+“ChatGPT or similar AI Tools must not be used to generate output that would be considered non-public. Examples include but are not limited to generating proprietary or unpublished research; legal analysis or advice; recruitment, personnel or disciplinary decision making; completion of academic work in a manner not allowed by the instructor; creation of non-public instructional materials; and grading.”
+
+Completion of academic work in a manner not allowed by the instructor: Faculty and instructors at UT have the ability to determine what ‘completion’ of student academic work entails (understanding that, in light of academic honesty, these tools do not complete that work in toto).
+Creation of non-public instructional materials: Generative AI tools cannot be used to create materials that would be considered the intellectual property of the faculty or instructor.
+Grading: Generative AI tools cannot be used to directly assess the quality of student work, especially as it directly impacts course or assignment grades.
+

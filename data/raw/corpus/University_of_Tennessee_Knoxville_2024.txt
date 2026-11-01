@@ -1,0 +1,62 @@
+Using Generative AI
+
+Ethical and Evaluative Use
+Using generative AI in ethical ways
+Generative AI are tools that can assist us in our daily lives, at work or studying. Like any tool, ethical, evaluative and appropriate use is key. Review each topic to explore ethical considerations connected to generative AI.
+
+Creatorship
+
+University experiences develop your knowledge and skills so when you finish a degree, you’re well equipped for employment or further study. Using generative AI to create content that you have not extended on, modified or engaged with meaningfully means you are presenting work that is not your own and no development has been made with your knowledge and skills.
+
+
+Accessibility
+
+While most generative AI tools are currently free, more and more are applying a cost to access tools. This creates barriers for those who are unable to afford access.
+
+Privacy
+
+Like other digital tools, generative AI tools collect and stores data about users. Signing up to use generative AI tools allows it to collect data on you. These user data would be used to make changes to tools to keep you engaged.
+
+User data also has the potential to be sold or given to third parties for marketing or surveillance purposes.
+
+Bias
+
+Generative AI can potentially create biased content, based on:
+
+People embedding their biases when they create them.
+Biases in the datasets used to train them.
+Generative AI creating its own biases from how it interprets the data it has been trained on.
+
+Academic integrity
+
+All staff and students at the University of Tennessee should act with honesty, trust, fairness, respect and responsibility in their activities.
+
+Getting a generative AI to create or re-write your assessment and then submitting that work as your own, is cheating. It is the same as asking another human to do your work for you.
+
+For more information, visit the the student conduct and community standards page.
+
+Accuracy
+
+Generative AI won't necessarily state that it is unable to provide a correct answer. Instead, it might generates a false answer that appears to be correct, this which is known as a “hallucination”.
+
+It is often unknown where the data used to train generative AI has come from. Generative AI can't tell a user what data it drew from to generate content. So, content from generative AI couldn't be used as a credible and reliable source in an assessment.
+
+Critically thinking about AI generated content
+Imagine you're taking a test that requires you to solve mathematical questions. A calculator is a tool that would be appropriate to use, as it helps to apply mathematical equations more efficiently to answer test questions. But would it be appropriate to use a calculator when writing an essay on the French Revolution?
+
+When people are using generative AI tools to create content, there needs to be a purpose behind using these tools. Such as generating questions to investigate a particular topic.
+
+Then critical thinking and evaluation needs to be applied to the content that is produced. Such as:
+
+Questioning the content that has been generated.
+How are you going to verify the information that generative AI has created? 
+Using an Evaluation Method, such as a Dependability Checklist or SIFT method.
+Applying what has been generated to inspire your own pursuit of knowledge and creativity.
+Approaching coursework: appropriateness, attribution and acknowledgement
+Always check with your professors and instructors about whether it's appropriate to use generative AI in your coursework.
+
+Attribution and acknowledgement are critical to ethical use of generative AI in your coursework. If you're using a tool that generates some elements of your work, the person that grades it needs to know what's yours and what comes from somewhere else.
+
+Read through the Office of the Provost's guide on using AI in coursework.
+Check out this referencing guide from Deakin University for detailed instructions on how to reference generative AI.
+Cite legal referencing you can follow these instructions on Citing generative AI content (ChatGPT).

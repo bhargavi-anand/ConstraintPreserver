@@ -1,0 +1,32 @@
+June 5, 2024
+Guidance on the use of AI at Rutgers
+By Rutgers IT Staff|  Announcements, Office of the CIO
+
+The following email announcement was sent to Rutgers faculty and staff on June 5, 2024.
+
+Dear Members of the Rutgers Community:
+
+By now, you have likely heard about or used artificial intelligence (AI) tools like ChatGPT and other technology with AI capabilities. As AI technology advances, it is being integrated into search engines, writing tools, graphic design software, and more. While uses for AI continue to expand and offer new and exciting opportunities, universities are grappling with challenges on the appropriate use of AI in academics and research.
+
+As the AI landscape continues to evolve, guidance on the use of AI at Rutgers is critically important. While the explosive growth of AI technology is new, the current policies and practices available at the University Policy Library can help to guide us in its use. I have also asked my team to form an AI working group, with broad representation from across Rutgers, to provide further guidance on the use of AI.
+
+To support the university as the AI working group begins its important work, I am excited to share this new online resource for AI at Rutgers and provide the following initial guidance on the use of AI at the university.
+
+Information Security and Data Privacy
+Confidential information, Protected Health Information (PHI), and any other proprietary Rutgers information is not appropriate for use in publicly available AI applications and systems. These tools may not have adequate controls to prevent such information from being exposed to unauthorized parties, among other concerns. For additional guidance, please consult the Information Classification Policy 70.1.2 and other Information Technology policies.
+
+Academic Integrity
+AI provides both remarkable opportunities and numerous challenges for teaching and learning. Instructors are urged to discuss the use of generative AI technologies with their students and make clear any expectations about its use. As noted in Rutgers Academic Integrity Policy 10.2.13, the principles of academic integrity require that students make sure that all submitted coursework be “the student’s own and created without the aid of impermissible technologies, materials, or collaborations.”
+
+Purchasing AI Technology
+If you are considering the purchase of an AI application for use at Rutgers, you must follow the same processes and risk assessments as for other software purchases.
+
+AI Tools for the Rutgers Community
+A number of technology services and tools provided by Rutgers, such as LinkedIn Learning and Zoom, have integrated AI features that have been vetted through the appropriate processes and risk assessments. Additional AI capabilities are regularly being added to other offerings. For the latest information, please visit our new hub for AI resources at Rutgers.
+
+While the Office of Information Technology works with our partners across Rutgers and other universities to develop comprehensive guidance, this information represents the foundation for the use of AI at Rutgers. If you have questions or concerns, please feel free to reach out to cio@rutgers.edu.
+
+Michele Norin
+Senior Vice President and Chief Information Officer
+
+

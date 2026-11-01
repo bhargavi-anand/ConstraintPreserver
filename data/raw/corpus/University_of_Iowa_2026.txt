@@ -1,0 +1,114 @@
+
+AI Guidelines and Use Cases
+Recent developments in the field of artificial intelligence (AI) have generated much discussion on the role of AI within higher education. Many questions have been raised about risks related to security, privacy, and ethical considerations. The following guidance is intended to help our campus understand and evaluate the opportunities and risks. Because this field is quickly evolving, this guidance will need to adapt and evolve so it will be important to stay up to date on those changes.
+
+General Guidelines
+This general guidance should be considered with any use of AI
+
+It is important to review output from any AI system. This “human in the loop” will help avoid many of the risks and drawbacks of using AI. Humans, working with AI, can be powerful if the strengths of each are leveraged.
+
+AI systems are known to demonstrate biases, and these can vary from system to system based on their training sets. It is critically important to monitor the output of AI systems for bias.
+It is also important to acknowledge the use of AI generated content or analysis.
+Not all AI systems offer the same level of data privacy and protection. If there is any doubt, do not use any nonpublic data with AI systems. This is especially true for any personally identifiable information. The university does have some agreements for the use of nonpublic information as listed on the Using AI Securely page.
+Be careful about the type of information and data provided to AI systems as prompts or for analysis. This is especially true for any personally identifiable information. Some of these systems do not provide adequate privacy protection for nonpublic data or intellectual property (Institutional Data Policy)
+University policies governing workplace behavior continue to apply when a university employee uses AI in their university work. The employee generating output from AI is responsible for the appropriate use of that output.
+
+Use cases
+It is essential to recognize the potential benefits and challenges presented by the use of AI systems to perform professional tasks. The section that follows categorizes the associated risks with specific use cases:
+
+Low-level risk: suggests that as long as the use of AI in this context meets the general guidelines and is compliant with university policies, it is unlikely to cause significant issues and can be considered safe for most applications.
+
+Moderate-level risk: where the use of AI may present challenges or require careful management to mitigate potential problems. Many of these are situationally dependent and may be considered an acceptable or unacceptable use depending on the details. Data and intellectual property protection are especially important to consider in these cases, along with general guidelines and university policies.
+
+High-level risk: marks use cases that could lead to serious legal, compliance, or ethical complications or require substantial oversight and precautions.
+
+General Use Cases
+Can I use AI to refine something I’ve written?
+(Low Risk) – In general, this is an effective and safe use of generative AI tools. It is important to review the revision to make sure AI did not change the meaning of what you were trying to say, and to follow the general guidelines and applicable policies. When entering text for this purpose, remove any identifying information that would not otherwise be publicly available.
+Can I use AI to help brainstorm a list of ideas?
+(Low Risk) – In general, this is a productive use of generative AI tools. Just make sure to follow the general guidelines and applicable policies.
+Can I use AI to summarize a document?
+(Low Risk)- Depending on the situation's specific details and the document's privacy requirements, this can be a beneficial use case for AI. This can be helpful when used to gain a general introduction to a text or subject area. Please be mindful that AI-generated summaries may not be comprehensive or fully accurate. Therefore, university users are strongly encouraged to refer to the primary documents before making any critical decisions related to the university.
+Can I use AI to write an event announcement and develop event plans?
+(Low Risk) – In general, this is a great use of generative AI tools. Just be sure that all details for your event are accurate in the final output.
+Can I use AI for generated images?
+(Medium Risk) – AI tools can be useful for generating images, but it's important to ensure that all use aligns with the university’s policy on IT Appropriate Use: Acceptable Use of Information Technology Resources (Policy Manual II-19).
+Review Usage Rights – Each AI image generation tool has its own terms and ownership agreements. These should be reviewed to confirm that the university has the appropriate rights to use the generated images as intended.
+Tools like Copilot and ChatGPT (with image generation) offer broad usage rights and are preferred for university work. You should ensure you are using your university account for Copilot and ChatGPT with these tools when using them for university related work.
+Be especially cautious with free or lesser-known tools, as their usage rights may have unclear terms or restricted usage rights. Always review their terms before use and contact the AI Support Team if you need help interpreting them.
+Ownership of AI-generated content created by UI employees as a part of their employment obligations is assigned to the University of Iowa, or to the faculty individually as a scholarly exception under the UI Copyright policy.
+Attribution  –  How and when to cite use of generative AI tools may not always be clear. Consider consulting University Libraries and/or your supervisor.
+Can I use AI to analyze data?
+(Low Risk), (Medium Risk), (High Risk) – This depends on data classification and the privacy protection offered by the system being used to analyze the data. (see Data Use on the AI Tools web page) As a general rule, restricted/critical data should not be entered into an AI tool unless you are certain that it will not be saved by the tool. Even when the AI system offers privacy protection, all identifying information should be removed from datasets before it is uploaded into any AI data analysis tool.
+Can I use AI to analyze or combine survey responses?
+(Low Risk), (Medium Risk), (High Risk) – This depends on data classification and the privacy protection offered by the system being used to analyze the data. As a general rule, restricted/critical data should not be entered into an AI tool unless you are certain that it will not be saved by the tool.
+
+Teaching and Learning Use Cases
+Can I use AI to Generate Practice Quizzes?
+(Medium Risk) – In general, generative AI can quickly create questions, including distractors and feedback to students on many topics and levels, however each question will need to be checked for accuracy.
+Can I use AI to Edit/generate feedback on my own writing?
+(Low Risk) – If there are no external constraints (i.e. the writing is not for an assignment where it is forbidden), generative AI platforms are good at quickly giving writers feedback. The more instructions given to the AI on what kind of feedback is necessary, the better the output will be. See Rob Lennon’s post for specific prompt ideas.
+Can I use AI to generate feedback for a student on an assignment?
+(Medium Risk) – AI feedback is not the same as teacher feedback, but it can be fast and helpful. Do not upload student’s content to AI platforms without their consent. Keep a “human in the loop” to review the accuracy of the AI feedback prior to publishing it to students. Also, consider having your students use generative AI tools themselves to create feedback to improve their work and make it better using the prompts shared by Ethan and Lilach Mollick in this article.
+Can I use AI to translate class materials into another language for students?
+(Low Risk) – Yes, you can use AI to translate class materials into another language for students. There are many AI translation tools available online that can help you with this task. Here is a translator from Microsoft. If possible, periodically check with fluent speakers to see if these translations are accurate.
+Can I use AI to help advise a student on their future plans?
+(High Risk) and (Low Risk) – While using a generative AI platform as a thought partner to brainstorm and explore other possibilities (internships, jobs, etc.) students may not have thought about before, you should not share a student’s personally identifiable information or the individual degree audit data with an AI platform.
+Can I use AI to create vocabulary lists?
+(Low Risk) – You can create personalized vocabulary lists for students of different reading levels and interests. Visit the site AI for Education for an example prompt to do this task.
+Can I use AI to test my understanding of a topic?
+(Low Risk) – Using a generative AI platform as an instructional aid is an excellent use of this technology. See the prompts and assignments that instructors can incorporate into their teaching recorded by Ethan and Lilach Mollick in “New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments.” Available at SSRN or DOI.
+Can I use AI to generate scenarios for students?
+(Low Risk) – You can use generative AI platforms to create scenarios for students to practice their writing, reading comprehension, critical thinking, or problem-solving skills.
+Can I use AI to clarify concepts or simplify topics?
+(Low Risk) – Yes, generative AI has strengths in summarizing and extracting the main points of a document to present to readers in a simpler way. See this LinkedIn post that shares a detailed prompt to accomplish this.
+Can I use AI to create simulations for students to experience other times and places in history?
+(Medium Risk) – While UC Santa Cruz historian Benjamin Breen has successfully created simulations for his students in the ancient cities of Ur and Pompeii, the students “know from the outset that what they are getting is a perspective on the past, filled with distortions. … The reason it works as a teaching tool, rather than simply as a form of entertainment, is that large language models are surprisingly good at generating plausible historical settings and characters on the basis of short snippets from primary source texts.” If you use AI generated simulations with students, be sure to explain that the accuracy of AI output should always be fact-checked with other sources.
+Can an AI act as an on-demand tutor?
+(Medium Risk) – Yes, personalized instruction is one of the potential uses of generative AI. See this post from Steven Kelly, of the Minnesota State Colleges and Universities, where he prompts ChatGPT to act as a Socratic coach. However, it is important to always exercise critical thinking and disciplinary expertise when considering AI-generated information. Analyse and contextualize AI's outputs, and cross-verify any information AI gives you.
+Can I use AI for content creation? (e.g. draft presentations and teaching materials)
+(Medium Risk) – AI can be a useful tool in generating content. However, it is important to verify, fact check, asses for bias, any material generated or revised using AI. Material should not be used if it has not been reviewed by a human.
+
+Research Use Cases
+Can I use AI to review grant proposals?
+(High Risk) – This is not an appropriate use of AI and some agencies have strictly forbidden it (NIH Notice).
+Can I use AI to perform a literature review?
+(Medium Risk) – There are AI tools that can be helpful in a literature review (see the AI tools web page). As with any AI system, the results should be verified.
+Can I use AI to analyze research data?
+(Low Risk), (Medium Risk), (High Risk) – This depends on data classification (see policy information) and the privacy protection offered by the system being used to analyze the data.
+Can I use AI to generate research ideas?
+(Low Risk), (Medium Risk) – Most of the time this is an effective use of AI, but consideration must always be given to the type of information and if the privacy requirements of the information match those of the AI systems.
+
+Administrative Use Cases
+Can I use AI to evaluate competitive bid responses?
+(High Risk) – This is not an appropriate use of AI. AI can introduce bias and be factually incorrect so it should not be used to review vendor proposals in the competitive bid process. Additionally, there may be proprietary/protected information in RFP responses that should not be entered into AI systems.
+Can I use AI for market research?
+(Medium Risk) – This is not recommended as it doesn’t play to the strength of current AI systems. Any market research performed by AI should be rigorously fact checked. AI might be used as a complimentary set of information but should be verified by human analysis.
+Can I use AI to write a performance appraisal? How can I use AI in performance management?
+(Medium Risk) – AI can be helpful in the writing process, but in this case, all of the ideas and concepts should come from the supervisor who is responsible for the performance appraisal. AI can be used to help summarize multiple sources of input and data; this helps formulate thoughts without duplications. AI can, with the proper prompts, aid in providing language that is more constructive or that provides clearer guidance. It can also help with creating personalized development plans based on content in the narrative of the performance review. Using key points from bulleted lists or notes, AI can streamline for clear, concise feedback, action items, and goals. Again, this is based on the supervisor’s findings and evaluation, and should NOT be generated by AI. When using AI to assist with writing a performance review, it is essential to use your university-provided Microsoft Copilot Chat account to ensure that any data entered remains private and secure. If you choose to use other AI tools, do not input any confidential, organizational, or personally identifiable information into those platforms. Be aware of the potential for AI to produce content that may introduce bias or produce inaccurate or false information. It is critical to keep the human in the loop and all material should be reviewed and verified by the supervisor authoring the review. While this guidance is focused on supervisor use of AI in evaluating others, staff who choose to use AI to support their own self-reviews should do so only as a drafting or reflection aid and remain fully responsible for the accuracy and substance of their submission.
+Can I use AI to review job applicants' resumes?
+(High Risk) – AI systems are known to demonstrate bias, so reviewing job applicants' resumes is not an appropriate use of AI. This process should be done by the recruiter. AI might inadvertently discriminate based on protected characteristics given the AI tool’s source data. The Equal Employment Opportunity Commission expects employers that use AI to take reasonable measures to test the algorithm's functionality in real-world scenarios to ensure the results are not biased.
+Can I use AI to practice my Interviewing skills?
+(Low Risk) – This can be a good use of AI. Here are some sources for advice on how to use AI as a tool to help you prepare for interviewing.
+Can I use AI to write a position description or advertisement?
+(Medium Risk) – AI can be used to help draft language for your job description or to make it more concise. However, the job descriptions should be in accordance with the University of Iowa’s job description requirements.
+Can I use AI to write a letter of reference?
+(Medium Risk) – As with anything AI, double and triple-checking facts is critical. The initial draft of a reference letter can be generated by AI for efficiency; however, it is very important when completing the letter to check for language that could introduce bias or false information. Avoid vague language and ensure the letter is geared specifically toward the person the reference is for. AI can certainly assist in cleaning an already drafted reference letter. If you have a letter already drafted, using AI can help clear up language and make the points in the letter more concise.
+Can I use AI to write a cover letter?
+(Medium Risk) – As with anything AI, double and triple check facts. The initial draft can be generated by AI to help save time; however, it is important when completing the letter to check for language that could introduce bias or false information. AI can certainly assist in editing a draft cover letter. Using AI can help clear up language and make the points in the letter more concise.
+Can I use AI to evaluate applications for admissions?
+(High Risk) – AI systems are known to demonstrate bias, so reviewing student admission applications is not an appropriate use of AI.
+Can I use AI to generate policies or office procedures?
+(Medium Risk) – While generative AI can be a good place to start with generating outlines and starting text for policies and procedures, all output should be closely reviewed by a subject matter expert before being officially enacted.
+Can I use AI to summarize meetings?
+(High Risk) - There are many complications with recording and summarizing meetings. Specific guidance will be developed and shared in the future.
+
+Technical Use Cases
+Can I use AI to write code?
+(Medium Risk) – some standard portions of routine code blocks can be written with AI as there are not unique techniques in these smaller code blocks, but it should not be used to write entire programs. As always, use caution when including these programming blocks and test thoroughly.
+Where is it appropriate to use AI in the software development process?
+(Medium Risk) – The increased "intellisense" functionality of tools like GitHub Copilot can enable the AI to generate the “routine” or boilerplate code blocks for basic functions more quickly as it predicts what you need to accomplish in code. While AI automates certain tasks, it cannot replace human creativity, intuition, or problem-solving abilities. Always use caution when including these programming blocks and test thoroughly.
+Can I use AI as a Stack Overflow alternative?
+(Medium Risk) – This can be an effective way to more efficiently large amounts of Stack Overflow posts but be careful when writing your prompt to generate the desired search results and always verify code before putting it to use on university systems.
+Can I use AI to do automated testing?
+(Low Risk) – AI-driven testing tools can execute test cases, identify defects, and validate software functionality. They can accelerate testing cycles and improve software reliability. Human involvement and review are critical to review the testing parameters.

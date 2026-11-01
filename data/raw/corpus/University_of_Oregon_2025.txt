@@ -1,0 +1,7 @@
+AI & Academic Integrity
+The University of Oregon is home to a vibrant and diverse intellectual community. Creating a strong culture of academic integrity at UO is a collective, university-wide project--one we are most likely to succeed in when we have a shared understanding of policies and resources. To this end:
+
+UO updated the "Ducks Have Integrity" module that all incoming students take to include AI and to bolster students' confidence in asking instructors about appropriate use.
+UO updated the Student Conduct Code's definition of "plagiarism" to specify that plagiarism "may include artificial intelligence (AI) content generators and generative AI tools" when use is not cited.
+Our Academic Integrity at UO resources help define and provide suggestions on how to support academic integrity at UO.
+UO does not currently support AI detection tools. Student Conduct states that "online AI detection tools like Turnitin.com or GPTZero may not be effective and can result in false positives. If you choose to utilize these tools, please note that [...] we would not consider the percentages provided by these tools as dispositive on their own"

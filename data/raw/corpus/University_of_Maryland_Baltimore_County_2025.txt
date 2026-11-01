@@ -1,0 +1,60 @@
+AI Governance Policy
+Guiding Principles
+In general, any use of AI must comply with UMB Core Values. The Core Values of Respect and Integrity, Well-being and Sustainability, Equity and Justice, and Innovation and Discovery guide our academic programs, operating philosophy, and commitment to our constituents, while supporting our dedication to global enhancement and social progress. More specific principles appear below.
+Ethical Use: All AI applications must uphold ethical standards, ensuring fairness, accountability, transparency, and the protection of human rights.
+Compliance: AI-related activities must comply with applicable federal and state laws, including Maryland State privacy laws and regulations, and UMB’s existing policies on data security, privacy, and academic integrity.
+Inclusivity: The development and deployment of AI should prioritize inclusivity and accessibility, addressing potential biases and ensuring equitable outcomes for diverse communities.
+Sustainability: AI initiatives should align with environmental sustainability principles and leverage resources responsibly.
+Innovation and Collaboration: AI can revolutionize healthcare, transform data analysis, and enhance education. UMB encourages collaboration and innovation in AI to advance its mission areas of education, research, clinical care, and public service.
+Validity and Reliability: AI systems can change over time. There should be mechanisms in place to ensure that these systems are working as intended, together with accurate outputs and robust performance.
+Objectives
+This Policy and the AI governance framework focuses on the following:
+AI Governance Guidance:
+AI Guidelines provide clear guidance for the development, deployment, monitoring, and evaluation of AI technologies at UMB.
+A central AI Ideation Steering Committee will identify, review and approve significant AI initiatives and ensure compliance with this policy.
+The AI Ideation Steering Committee will, in accordance with Md. Code, State Fin. & Proc § 3.5-804(a). also ensure that the framework is functionally compatible with the guidelines set out in the latest version of the State’s Guidance for the Responsible Use of Commercial Generative Artificial Intelligence Tools.
+Strategic AI Investments:
+Identify priority areas where AI can deliver substantial gains in UMB’s mission-critical areas, such as healthcare delivery, academic innovation, research efficiency, student services, administrative optimization, and community engagement.
+Develop and allocate a dedicated AI innovation fund to support these priorities.
+Grassroots-Friendly AI Ecosystem:
+Create a grassroots-friendly ecosystem that empowers faculty, staff, and students to responsibly adopt and utilize AI.
+Develop a comprehensive AI training program to build institutional capacity and raise AI literacy.
+Offer grants and incentives for grassroots projects demonstrating innovative and responsible uses of AI.
+Transparency and Accountability:
+Develop mechanisms to monitor the ethical use of AI, including regular audits and assessments of AI tools and their impact on stakeholders.
+Create transparent reporting channels for addressing grievances and challenges related to AI use.
+AI Research and Development:
+Encourage interdisciplinary research to explore innovative AI applications and address societal challenges.
+Foster partnerships with industry, government, and academic institutions to advance AI scholarship and practical applications.
+Scope and Exceptions
+This policy applies to all UMB faculty, staff, students, and affiliates who develop, utilize, or are impacted by AI technologies in research, teaching, operations, and service. It also extends to partnerships and collaborations involving AI within and beyond UMB.
+In accordance with State law, “artificial intelligence” (AI) is defined as a machine-based system that:
+can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments;
+uses machine and human-based inputs to perceive real and virtual environments and abstracts those perceptions into models through analysis in an automated manner; and
+uses model inference to formulate options for information or action.
+Md. Code Ann., State Fin. & Proc. § 3.5-801(c). 
+"Generative artificial intelligence” (GenAI) is a subset of AI that uses machine learning models to create new content, such as audio, code, images, text, and video, based on patterns learned from existing data.  These models can generate original and relevant outputs in response to user prompts.  GenAI provides many value-added benefits, including:
+Content Creation: GenAI can create various types of content, including text, images, music, and videos. GenAI can be used for writing articles, generating artwork, composing music, and creating realistic animations, which can save time and enhance creativity.
+Personalization: GenAI can tailor content and recommendations to individual preferences. For example, personalized learning experiences, customized marketing messages, and individualized health advice can make interactions more relevant and engaging.
+Problem Solving and Innovation: GenAI can assist in solving complex problems by generating new ideas and solutions through scientific research, product design, and even in developing new algorithms and models, pushing the boundaries of innovation.
+Roles and Responsibilities
+Implementation
+Oversight Committee: The AI Ideation Steering Committee oversees the implementation of this policy, provides strategic direction, and ensures alignment with UMB’s mission and values.
+Resource Allocation: Adequate resources, including funding, training, and technical infrastructure, are allocated to support AI initiatives.
+Policy Review: This policy is reviewed annually to ensure relevance and alignment with evolving AI technologies, laws, and institutional priorities.
+GenAI Tools: Are treated as any other IT system or platform used to conduct UMB business, with robust safeguards to ensure privacy, security, ethical and responsible use. These tools undergo rigorous evaluation to ensure they are safer and more secure than publicly available alternatives, which may lack adequate safeguards for sensitive information, intellectual property, or user privacy. By utilizing UMB-approved GenAI tools, individuals can minimize risks while supporting the responsible and effective integration of these technologies.
+Compliance
+All faculty, staff, and students are expected to act in good faith to uphold the principles and objectives of this policy and comply with the requirements below.  Each School may adopt more detailed or rigorous requirements consistent with this policy, including:
+
+Acquisition and/or Purchase of AI Technology Tools: Acquisition of new AI technology requires Strategic Sourcing and Acquisition Services (SSAS) and Center for Information Technology Services (CITS) approval, for both procurement and free tools.
+Do not use your UMB account to use generative AI for personal use.
+Do not download generative AI tools onto your UMB device if the AI tool is not approved by CITS.
+UMB sensitive data should only be uploaded into approved secure UMB sponsored generative AI systems.
+Academic Integrity: Students, faculty, and staff are subject to the highest standards of academic integrity as outlined in the University and individual school policies on academic integrity, including when using AI.
+Authorship: Creative content originating from non-human origin (e.g., AI ) should be clearly attributed to the AI program used.
+Copyright and Related Intellectual Property: Ownership of copyright is dependent upon several different factors. In general, creator(s) retain all rights to copyrightable works, subject to certain conditions.
+Data and Prompts Management: Pursuant to UMB’s Privacy Policy, UMB reserves the right to investigate actual or suspected misconduct or incidents with AI that pose risks to the UMB community or third parties. Any investigation will be conducted in compliance with UMB’s privacy policies, ensuring that the review process itself does not violate individual privacy.
+Research: Use of GenAI in the peer review or grant proposal process or must be consistent with the publisher’s or funding agency’s policy statements and otherwise validated, appropriately attributed, and disclosed. If improper falsification, fabrication, plagiarism, or other misconduct is suspected, follow the procedures for reporting.
+Report Misuse: Like any other IT system or platform UMB provides, individuals should report any potential compliance or ethical concerns related to using GenAI tools to CITS, school/department leadership, or directly to EthicsPoint.
+ Policy Violations
+Suspected violations of this policy will result in a review by UMB in accordance with relevant university policies and procedures.  UMB employees or students who are found to have violated this policy may be subject to disciplinary action in accordance with relevant policies and procedures.

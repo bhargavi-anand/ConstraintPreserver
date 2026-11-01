@@ -1,0 +1,31 @@
+Artificial Intelligence (AI) Policy 
+Preamble 
+As a Jesuit and Mercy institution, the College of Business Administration hopes to provide guidelines on the ethical and effective incorporation of Artificial Intelligence (AI) tools in educational practices within our College. This policy aims to uphold academic integrity, encourage pedagogical innovation, and respect faculty academic freedom. It covers all forms of AI applications used in academic activities, including but not limited to, machine learning, natural language processing, and AI content generation tools. The policy applies to all students taking CBA courses.
+
+Faculty
+ The faculty section of this policy is intended as a guideline and not a prescriptive mandate. Faculty members have the discretion to adopt, adapt, or refrain from using AI tools based on their professional judgment and the educational needs of their students.
+ 1. Faculty members are encouraged to explore and integrate AI tools where appropriate in their teaching and learning processes. This includes leveraging AI for personalized learning paths, simulation environments, analytical tools, and other educational enhancements.
+ 2. Faculty are free to use AI tools as part of their instructional methods, experiment with new pedagogical approaches involving AI, and conduct research into AI applications in business education without prejudice to their academic autonomy.
+ 3. Faculty are encouraged to include a section on AI tool usage within their course outlines. This section could detail permitted tools, methods of integration, and the extent of AI’s use in course assignments and evaluations. This section could also prohibit the use of AI in the course
+
+Guideline for when AI is permitted by Faculty :
+When allowed by instructors, students will be instructed on how to use and properly cite contents that are from AI. At the minimum, the citation must include the platform used and the “search prompt”. Failure to properly and completely cite AI-generated responses will be tantamount to a violation of the CBA Student Academic Integrity Policy. 
+
+This is an example of AI citation drawn from the APA website: 
+When prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘leftbrained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023). 
+Reference
+ OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat 
+
+Guideline for when AI is NOT permitted or use of AI not communicated by Faculty 
+If the course policy expressly prohibits the use of AI, then the use of AI will be considered a violation of CBA Student Academic Integrity Policy. If a student has a question on the course policy on AI stated in the assignment instructions and/or in the syllabus, students must communicate with their instructor to clarify before using AI in their coursework.
+
+The University of Detroit Mercy (UDM) generally prohibits the use of generative AI to produce content without explicit instructor permission, treating unauthorized use as an academic integrity violation. Policies vary by instructor, emphasizing that students must understand specific course rules regarding AI tools. The institution, guided by the Center for Excellence in Teaching and Learning (CETL), encourages responsible, ethical AI integration while protecting academic integrity. 
+
+Key Aspects of UDM's AI Approach:
+•	Academic Integrity Policy: Utilizing AI to generate content and presenting it as original work is prohibited, unless permitted by the instructor.
+•	Course-Specific Rules: Students are advised that expectations for responsible AI use differ across classes and professors.
+•	Citation Requirements: If AI usage is allowed, it must be properly cited according to guidelines, such as MLA, which requires acknowledging the tool used.
+•	Pedagogical Views: CETL CETL – Detroit Mercy provides resources that range from cautious limitation to embracing AI as a teaching tool.
+•	Ethical Concerns: The focus remains on maintaining a level playing field, avoiding biases, and ensuring AI does not hinder the development of critical thinking and student skills.
+•	New Developments: The University of Detroit Mercy is actively developing a center to use AI for social good, such as in agriculture and health sciences, indicating a focus on using the technology ethically. 
+Students are encouraged to check specific course syllabi and consult the writing center for guidance on navigating different instructor expectations. 

@@ -1,0 +1,63 @@
+U-M Generative AI Guidance for Staff
+
+U-M Generative AI Training Events
+Extensive Generative AI training is available at U-M at varying levels. Register for the ITS/TCC Generative AI workshop series or watch the series on demand. For additional events, visit the GenAI events page. Resources and training are also available for prompt literacy.
+ 
+
+University of Michigan’s GenAI offerings
+With the rise of numerous GenAI-based tools, it is important to know how to choose a tool that works best for you. Tools provided by the University of Michigan, such as U-M GPT, ensure the security and privacy of information, and are free for staff. Data you share while using these tools will not be used for training these models, and hence are not at risk of being leaked. Look for the umich.edu domain in the page link to verify that you are using a U-M website. For a list of AI tools offered by U-M, as well as AI tools external to U-M, refer to AI tools.
+
+Choosing a GenAI Tool to Use at Work
+The GenAI space is rapidly growing and expanding, with new tools and capabilities being revealed every few days. Hence, understanding what to look for in these tools is key. When considering tools outside of what the University offers, be aware of the following when choosing a tool for your needs:
+
+Privacy risks:
+Understand that in most cases, the data you share is not private and will be accessible by external parties hosting the GenAI-based tools. Do not share information that is considered private, or sensitive, such as credit card information, personal details such as ID numbers or addresses, and so on.
+Misleading costs:
+Be aware that some tools will be ‘free-to-start’, or provide a more premium option with better functionality. Be wary of tools that require a credit card to sign up for it to start a free trial, as they may employ tactics that make it harder to then cancel the subscription.
+Learn to use:
+Educate yourself on the ways to use these tools better, through resources such as:
+GenAI Training Resources from U-M
+Best AI productivity tools (2025): 18 tools to help you work smarter, not harder
+Review the “1,000+ ChatGPT Prompts” collection by Superhuman AI
+for a comprehensive overview of applied prompting strategies designed to enhance productivity and critical engagement with generative AI tools.
+The 100 Best ChatGPT Prompts to Power Your Workflow
+Understand limitations:
+Understand what GenAI-based tools can or cannot do. GenAI might appear to have the ability like a conscious being in a conversation or application, but they are simply very large predictive models that infer from a massive dataset. Learn about what these models are limited at doing as well:
+13 ChatGPT Limitations That You Need To Know | Amber
+The Benefits and Limitations of Generative AI: Harvard Experts Answer Your Questions
+Risks and Limitations of ChatGPT | Codecademy
+Use reputable resources:
+Should you use tools that are outside of U-M’s offerings, ensure that are legitimate resources. 
+And as a good rule of thumb, always know the safe computing practices. Safe Computing is a U-M resource for more information about protecting yourself and your data online.
+
+Considering the Ethics of Using GenAI
+Following are some things to consider as you use GenAI-based tools, and how it may affect your usage of them in your day-to-day life:
+
+GenAI is not sentient:   
+GenAI models or Large Language models (LLMs) might appear to possess sentience or self-awareness as a human would, but are simply systems trained on large and biased datasets. LLMs are designed to output the most likely, or most common results possible based on their data, and will invariably tend to suppress less common or marginalized information.
+GenAI is biased:   
+GenAI models carry implicit biases in them that make them unsuitable for use in cases of ethical deliberation and decision, and should not be used in those circumstances. Furthermore, this data is from the past, which results in a loss of context for current social changes.
+GenAI can mislead:   
+GenAI in its current stage will tend to ‘hallucinate’ or make up random data that is not true. Models have no real sense of what is true or false. These models are built to output what is most likely in a verbose manner, even if there might not be enough real information to back it up.
+GenAI prefers English:   
+LLM models are currently heavily biased toward Standard American English. This means that writing styles and dialects adopted by other cultures and ethnic groups such in cases of African American or Indigenous English are at risk of being penalized for a privileged White-dominated form of writing instead.
+The EDUCAUSE AI Ethical Guidelines (June 2025) outline key considerations for ensuring transparency, fairness, and accountability in the use of AI across higher education.
+
+With that in mind, here are some basic guidelines that can help you in how you use GenAI during your day-to-day work at U-M:
+
+Use U-M’s offerings that ensure your data privacy and security.
+GenAI-based tools are just that, tools that you wield. Your prompts can determine the quality of information that you get and should assist you in your tasks. They do not and should not replace your ability for critical thinking and problem-solving as an individual.
+Sources
+ EDUCAUSE AI Ethical Guidelines (June 2025) outlines key considerations for ensuring transparency, fairness, and accountability in the use of AI across higher education.
+Guidelines for the Ethical Use of Generative AI (i.e. ChatGPT) on Campus from Santa Clara University’s Markkula Center for Applied Ethics
+Guidance for the Use of Generative AI from UCLA
+Some statistics using data from What Are the 200 Most Spoken Languages? and Census Bureau Tables, there are 1.5 billion English speakers for 7.8 billion people on this planet, and out of that, only 245 million of said English speakers live in a USA household with English as their primary language. That’s around 16% of all English speakers and 3% of all people.
+Questions to Ask Yourself
+As GenAI poses to be a revolutionary tool that can change higher education and beyond, it is important for you to understand why and how you intend to use these new, powerful tools. These are a few questions to consider and note that the answers to these questions will vary for each person.
+
+Is using a GenAI-based tool helping me learn more and think better?
+Is using a GenAI-based tool enabling or hindering my ability to do my job effectively?
+Is the content I generate accurate and verifiable? Is it free of biases that might harm other groups of society?
+How will I treat content that might have been generated using a GenAI-based tool?
+How can my actions in using a GenAI-based tool lead to the greater good of society?
+Understand that your usage of GenAI-based tools can give you the means to better not just yourself, but also society as a whole, and there is an ethical responsibility towards doing so.

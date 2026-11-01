@@ -1,0 +1,119 @@
+AI Policy
+
+I. Introduction
+This Policy addresses the ethical, responsible, and secure use of Artificial Intelligence (AI) tools within the academic and operational contexts of Georgia State University (GSU). GSU should uphold the highest standards of academic integrity, foster honest scholarship, and guide the GSU community in the ethical use of emerging technologies. This document is developed in alignment with the University System of Georgia policies and guidance. In the event of any conflict, USG policy controls.
+
+II. Purpose and Rationale
+The primary purpose of this Policy is to provide a framework for the responsible and ethical integration of AI technologies. This Policy aims to ensure consistent standards and best practices while allowing for institutional flexibility to meet specific needs.
+
+III. Policy Statement
+Detailed procedures and guidance will be issued pursuant to this Policy (see “Responsible Parties,” below).
+
+A. Guiding Principles for AI Adoption and Use
+GSU’s adoption of AI tools, including Generative AI (GenAI), should progress responsibly, contemplating ethics, accountability, transparency, and the protection of individuals during design and operational phases. Key principles from the University System of Georgia for the use of AI are:
+Protection: Protecting and preserving the safety of humans.
+Compliance: Complying with law and similar regulations.
+Focus: Using AI for the planned purpose.
+Purposed: Advancing USG’s (and GSU’s) mission, values and business objectives.
+Performance: Periodically reviewing results with stakeholders to ensure AI is successfully meeting objectives.
+Vigilance: Employing due care when using AI to safeguard against abuse. 
+Inventoried: Maintaining a current inventory of all AI components and tools that detail their type, purpose and organization benefit.
+Human-Informed: Because AI tools often mimic human behavior, speech, and mannerisms, AI interacting directly with humans should disclose that its outputs or responses are machine-generated. In circumstances where AI is used such use shall be appropriately disclosed and transparent.
+
+B. Ethical Considerations and Bias
+AI-generated outputs are subject to a special set of ethical considerations to prevent bias and ensure accuracy. Steps should be taken to account for bias and ensure accuracy for different types of AI-generated output.
+
+C. Data Protection and Security
+In most cases, publicly available information can be used in AI tools. Generally, data that is classified as sensitive or confidential, as defined in the Data Classification Policy, should not be used in or provided to AI tools. In certain cases, however, this information may be used, subject to applicable procedures, guidance and/or University AI Committee review.  
+
+D. Contracting / Procurement / External Collaborations
+AI Tool procurement should generally follow the same contract and procurement procedures as any other software procurement, including review of USG and GSU cybersecurity requirements, though additional documentation may be required. Users should be aware that external collaborators’ use of AI may put University data at risk.
+
+E. Acceptable Use
+If faculty and staff use AI tools, it is recommended they select from the IIT list of approved options (“Resources”). If faculty or staff prefer a tool not on the list, it is recommended that they review the procedures and guidance documents in the Resources section and/or submit a request for review to the University AI Committee, especially if student information is to be used in an AI tool (see “Additional Consultation”). The Georgia Technology Authority and USG publish a list of prohibited tools, software and services in state-owned, leased or otherwise controlled systems or equipment. 
+
+Generally, AI use in academic and professional work should be properly disclosed. Research uses of AI are subject to existing data protection rules, IRB approval processes, and other applicable University research policies, procedures, and contracts.
+
+Class use of AI tools shall be at the discretion of the instructor and should be consistent with GSU guidance, including syllabus production guidelines that address AI, and the student code of conduct.
+
+F. Misuse
+AI misuse, whether intentional or unintentional, can put the GSU community at risk. Users are encouraged to remain vigilant against unintentional misuse by understanding how AI can lead to incorrect conclusions, Hallucinations, or other problematic results. Unintentional misuse includes actions such as data exposure, misleading or incorrect conclusions, inappropriate results, overdependency on AI, bias, and drift. Examples of intentional misuse include fraud, invasion of privacy, malicious use, propagating misinformation, and discrimination. Intentional misuse may result in disciplinary action. These and other examples are defined in the USG AI Guidelines, IT Handbook Companion Guide.
+
+G. Additional Consultation
+In certain AI uses, University AI Committee review may be appropriate. These instances may include:
+
+1. New Uses / Types of AI: Novel uses of AI require consideration of the ethics and risks involved.
+2. Automated Decision-Making: Using AI for automated decision-making requires extreme caution and should not be used without consulting with the University AI Committee, as such use could put the University and individuals at regulatory and ethical risk.
+Examples include, but are not limited to:
+Legal analysis or advice
+Recruitment, personnel, disciplinary, or other administrative decisions
+Security tools using facial recognition
+Grading or assessment of student work
+3. Use of sensitive/confidential data, as defined in the Data Classification Policy, in AI tools.
+
+IV. Applicability
+This Policy applies to all Georgia State University faculty, staff, and students.
+
+V. Definitions
+Artificial Intelligence (AI): A technology family that enables computers to perform a variety of advanced functions, including processing visual cues, understanding and translating spoken and written language, analyzing data, and making recommendations from heuristic analyses.
+Generative Artificial Intelligence (GenAI): A form of AI capable of generating text, images, videos or other data using generative models, often in response to prompts.
+AI Literacy: Encompasses both understanding AI technology and possessing the skills to successfully utilize it, including critical thinking to harness AI technology, assess AI output, and intelligently use provided output.
+Hallucinations: Conditions when a generative AI model process identifies patterns or objects that are nonexistent, creating nonsensical or inaccurate outputs.
+
+Guidance on Generative AI and Data Integrity, Privacy, and Security
+The growing availability of tools that use Generative Artificial Intelligence (AI) is providing many new opportunities for instruction, learning, research, and productivity. Increasingly generative AI tools such as ChatGPT, Claude, Gemini, DALL-E and many others are being used to produce textual, visual and audio content, organize information, and analyze data. Many of these emerging AI tools have stand-alone interfaces for entering information, but others integrate into tools that are already in use, such as virtual assistants that help answer inquiries or note-taking assistants that record online meetings using extensions to meeting platforms.
+As these new capabilities become available, just like with any technology tool, it is critical to understand how to preserve data integrity and prevent potential misuse of information when deciding how and when to use AI. This guidance is being provided to the university community as a resource for examining important aspects of data protection and regulatory responsibilities before engaging with a new AI or other tool in the course of work at the university. It will be updated as the AI landscape continues to evolve and new information becomes available.
+
+AI Third-Party Tools
+Third-party tools can collect and store data in ways that are vulnerable to risk and that do not meet regulatory requirements. For example, many openly available tools that use generative AI train their models with the information users enter, which could make the supplied information accessible to others using the same tools. While free and low-cost tools are often easily accessible, they can have significant “hidden costs” when their terms of use do not limit how information entered into them can be shared or re-used, define who controls decisions about information, or meet stringent standards for storing sensitive and confidential information, potentially allowing that information to be stolen or improperly used.
+When determining whether to use a new tool, data handling must meet integrity and protection standards (Data Classification Policy). Any tool that will be used for a process that includes university data that could be Sensitive or Confidential (per the university Data Classification Policy) should not be used without undergoing contract review to examine data processing, privacy, and security prior to use (Business Procedures Manual 3.4.4 – Supplier Contacts).
+
+Responsibilities and Restrictions
+The university must meet important legal responsibilities and restrictions on how information is protected. These obligations extend to those who work for the university. Breaches of these protections can have serious consequences including significant harm to individuals affected by misuse of information, reputational harm to the university and legal liability. Examples of such protected, regulated, confidential and sensitive data are below.
+
+Personally Identifiable Information (PII) / Sensitive or Confidential Information
+Georgia State University faculty, staff, and students may not submit any data that directly identifies an individual or is classified by the university as Sensitive or Confidential into an AI tool not supported by Georgia State. Additionally, any data set including information that can indirectly identify an individual (for example, combination of major, GPA, and academic term) may not be submitted to an AI tool not supported by Georgia State. See Georgia State’s Data Classification Standard for more information on PII and data classification. This standard is based on the University System of Georgia’s Business Procedures Manual 12.4.2.
+
+Regulated Data
+The following data also has defined safeguards against disclosure and must meet regulation requirements.
+Educational Records Protected Under the Family Educational Rights and Privacy Act (FERPA)
+GLBA (Gramm-Leach-Bliley Act) Data
+European Union General Data Protection Regulation (EU GDPR) - Privacy Protected Data
+Export Control Regulated Data
+HIPPA (Health Insurance Portability and Accountability Act) Data
+
+Research Data
+Sharing identifiable research data with a third-party AI platform poses confidentiality risks to human research subjects. This could include activities from uploading recordings of focus groups to generate transcripts to uploading data to perform analyses. Researchers' plans for collecting, storing, and sharing human research data must be disclosed in Institutional Review Board (IRB) applications and approved in advance. Use university-approved platforms whose privacy and confidentiality policies have already been reviewed; this is a requirement for externally funded research. Please contact the IRB with questions about protecting human research subjects.
+
+Intellectual Property
+Sharing research files or data with a third-party AI platform may impact Georgia State or faculty's ability to protect intellectual property rights in research processes and results. Please contact the Office of Technology Transfer & Commercialization with questions about protecting intellectual property.
+
+Additional Factors
+Before engaging with an AI third-party tool, consider these additional factors.
+Information Accuracy and Integrity: The university must maintain and retain certain official records accurately and according to established processes. AI platforms can alter, extrapolate, and paraphrase information in ways that may not maintain data or records integrity.
+Meta Data: There can be a difference between copying and pasting specific data into a generative-AI system and uploading a file. File uploads often carry with them unseen meta data, hidden tabs, fields, etc. which would be accessible to the AI platform being used.
+Open Records: Documents created using AI may be Open Records under Georgia law. See here for more information on Open Records.
+Record Retention: Documents created using AI may be subject to record retention requirements. See here for more information on Record Retention.
+
+Transcription, Recording & Note-Taking Services
+Transcription, recording and note-taking services can be convenient. However, university personnel should carefully weigh the pros and cons of recording or transcribing a meeting. Class recordings should only be made using university-supported tools. For administrative meetings, USG policy on Unapproved Hardware/Software/Applications states third-party notetakers are prohibited from participating in organization meetings recording and transcriptions. Additionally, university faculty and staff should consider the legal responsibilities, potential risks, and other factors below before using a university-supported transcription, recording or note-taking service option. 
+
+Responsibilities and Risks to Consider:
+- Meeting transcriptions or recordings may contain FERPA-protected or sensitive information.
+University employees have a responsibility to protect identifiable student information under federal law (FERPA). If identifiable student information is discussed in a meeting and that information is transcribed or recorded, that information may become part of a student’s “education record.” As part of an education record, the information could be requested by the student and need to be protected from access by third parties. Additionally, other sensitive information, such as employee information, may be recorded or transcribed and need to be classified/protected under the Data Classification or Data Governance Policies and Procedures.
+- Meeting transcriptions or recordings may be Open Records under Georgia law.
+The Georgia Open Records Act requires that most university documents are open to the public. By using an AI transcription service or making a recording, you are creating a record that could be requested. If a record were requested, the Office of Legal Affairs would contact you to provide the record and ask you to assist in identifying any necessary redactions under privacy laws. Even if a third party (such as a university contractor) uses a transcription or recording feature in a meeting with university faculty or staff, that transcription or recording may be requested under the Open Records Act, and you may be asked to obtain it if there is a record request.
+- Meeting transcriptions or recordings may need to be maintained under USG Retention Schedules.
+Depending on the subject of the meeting, University System of Georgia Record Retention Schedules may apply to transcriptions or recordings. You would be responsible for maintaining that record in accordance with those requirements.
+- Meeting transcriptions or recordings are not official minutes and may include errors that could be confusing or misinterpreted.
+Although AI technology is rapidly evolving, we have all seen examples in which transcription services get it wrong. By creating a document (that may need to be public or preserved), such errors could cause you or others whose statements were incorrectly transcribed to have to explain or identify statements that appear to have been made at the meeting, even if they were not.
+- Meeting transcriptions or recordings can inhibit attendees from active participation.
+Some meetings may involve sensitive or challenging issues, and meeting participants may be reluctant to ask important questions if they are self-conscious about being recorded/transcribed.
+
+Recognizing University-Supported vs Third-Party Tools
+In general, university-supported tools will prompt you to sign in with your CampusID and password or you will receive an invitation or license key/code from an area of the university to link an account with a university-supported license.
+If you encounter a service that is publicly available without login on the Internet, you should not enter university information that is classified as sensitive or confidential. If you are prompted to create your own personal account or accept new service terms to use a tool, it may signal the tool is third-party and you should confirm the tool is university-supported before using the service for processes that could include university information that is sensitive or confidential.
+The technology.gsu.edu website is a starting point for locating many centrally supported productivity tools, but you can also check other websites with gsu.edu in the URL or consult with your department
+for additional technology tools and services that have underdone review and are university-supported. If you are not sure of whether a technology tool has been vetted by the university, you can create a support request for help getting more information.
+When deciding when and how to use new tools, university faculty and staff are to carefully consider information privacy, security, and legal and regulatory requirements.
+

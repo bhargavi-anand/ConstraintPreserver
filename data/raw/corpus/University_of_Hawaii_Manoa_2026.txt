@@ -1,0 +1,13 @@
+Guidance on AI
+
+Generative Artificial Intelligence (AI) holds promise in improving higher education, offering both opportunities and challenges for universities. AI-powered tools can provide new learning modes, personalize learning experiences, and enable students to receive tailored support and feedback. Additionally, AI can streamline administrative tasks, enhancing efficiency and potentially reducing operational costs. However, the integration of AI also raises important questions about data privacy, ethics, algorithmic bias, and the need for faculty and staff preparation. Balancing AI’s potential and addressing these challenges is important, as the advent of these tools is already reshaping aspects of higher education.
+
+AI and Academic Integrity
+The UHM student code of conduct (IV.B.1.a) addresses “Cheating, plagiarism, or other forms of academic dishonesty.” It gives the instructor authority over defining unauthorized assistance, authorized sources, and specifically prohibited behavior in classes. For this reason, instructors are strongly encouraged to:
+	1	Be specific about expectations and limitations on student use of AI in assignments,
+	2	Hold students responsible for the accuracy of facts and sources used in assignments, and to
+	3	Talk through scenarios with classes to provide clarity on expectations
+Syllabi and class discussions should make instructor expectations clear with respect to use of AI tools. UHOIC maintains sample statements for adaptation in a syllabus or specific assignments.
+
+Assignment and Assessment Redesign
+The widespread availability of AI tools creates both challenges and opportunities for instructors. Similar to the reframing required at the onset of digital calculators (at least for math and science instruction) and internet search engines, assignments and assessments may need redesign to achieve our learning objectives.

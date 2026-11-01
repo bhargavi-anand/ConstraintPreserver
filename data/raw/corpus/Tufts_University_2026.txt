@@ -1,0 +1,32 @@
+Guidelines for Use of Generative AI Tools
+We are providing initial guidelines on the use and procurement of generative artificial intelligence (AI) tools—such as OpenAI’s ChatGPT and Google Bard—that can generate content in response to prompts. We support responsible experimentation with generative AI tools, but there are important considerations to keep in mind when using these tools, including information security and data privacy, compliance, copyright, and academic integrity.
+ 
+Generative AI is a rapidly evolving technology, and we will watch developments and incorporate feedback from the community to adjust our approach as needed.
+
+Initial guidelines for use of generative AI tools
+
+AI use is subject to existing Policies and Procedures: using AI does not allow an exception to existing requirements and limitations.
+
+1.  Protect confidential data
+
+You should not enter data at Levels 2-3 (Pretty much anything that should not be on a public webpage) into unapproved generative AI tools. The approval procedure is described here.  Information shared with generative AI tools using default settings is not private and could expose proprietary or sensitive information to unauthorized parties. 
+
+2.  You are responsible for any content that you produce or publish that includes AI-generated material
+
+AI-generated content can be false, misleading, or worse—AI sometimes makes up events and facts. In addition, AI can infringe Intellectual Property rights, and your use of the results can be considered infringement—subjecting you to lawsuits and damages. On the other side of the Intellectual Property coin, AI results are not well-protected by Intellectual Property laws. All of these risks require you to read and understand the terms that come along with the AI you are using.
+
+3.  There is almost never “no contract.” 
+
+There may be no charge, but Intellectual Property law requires an End User License Agreement, and most producers will have Terms of Use. These are usually very favorable to producer and very unfavorable to you and Tufts. That said, somebody needs to read them, comprehend the risk, and make a responsible decision to accept it. If you are using this AI for a Tufts matter, you should be reaching out to TTS for a technology review (see No. 5 below).
+
+4.  Adhere to current policies on academic integrity
+
+Review your School’s student and faculty handbooks and policies. For example, misuse of ChatGPT already violates our Policies Regarding Student Behavior.  We expect that Schools will be developing and updating their policies as we better understand the implications of using generative AI tools. In the meantime, faculty should be clear with students they’re teaching and advising about their policies on permitted uses and required disclosures, if any, of generative AI in classes and on academic work. Students are also encouraged to ask their instructors for clarification about these policies as needed.
+
+5.  Connect with TTS before procuring generative AI tools
+
+The University is working to ensure that tools procured on behalf of Tufts have the appropriate privacy and security protections and provide the best use of Tufts funds.
+
+If you have procured or are considering procuring generative AI tools or have questions, please contact TTS using these instructions.  
+Vendor generative AI tools must be approved by TTS as described here.
+It is important to note that these guidelines are not new University policy; rather, they leverage existing University policies.

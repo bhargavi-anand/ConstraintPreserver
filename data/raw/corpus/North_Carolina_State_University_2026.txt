@@ -1,0 +1,15 @@
+Guiding Principles for the Use of Generative AI Tools
+Review NC State's guiding principles for generative Artificial Intelligence (AI) use.
+
+Please note that on this page, Artificial Intelligence (AI) primarily refers to the new set of AI tools built upon large language models (LLMs).
+
+NC State embraces the ethical and responsible usage of artificial intelligence (AI) to elevate our missions and goals. These guiding principles serve as a flexible framework for appropriate use regarding AI adoption and usage. These principles will be reviewed and updated as needed. 
+
+Ensure AI Tools are Approved Before Use: Several AI Tools are now available for use with green (not sensitive) and yellow (moderately sensitive) data campus-wide. Use of red (highly sensitive data) or purple (ultra-sensitive) with these approved tools requires an IT Purchase Compliance (ITPC) request. Please see Artificial Intelligence – IT Purchase Process | Vendor Risk & License Management for a list of approved AI tools. 
+Authentication: NC State credentials must be used for all approved AI tools; personal accounts are not allowed to be used with university data. Using your NC State account ensures that your data is not used to train its public AI models. Exceptions must be submitted for review as part of the ITPC process.
+Privacy/Security: When using AI tools, be sure to follow NC State’s Data Management Framework. 
+Transparency: Promote transparency around the data, methods, logic and algorithms used by AI tools to help users and stakeholders understand how AI decisions are determined.
+Attribution: Disclose the use of AI tools in any materials or assets that were produced by or significantly derived from AI-generated outputs.  For example, attribution should be used if directly copying the output of an AI tool. Attribution is not needed if the author co-generated the final product with the AI tool in a similar manner to how they would use a spell or grammar checker.
+Quality and Accuracy: Ensure any content you create using AI tools is high quality and accurate. When possible, confirm the accuracy of AI outputs using additional sources or checks. 
+Inclusivity and Bias: When using AI tools, recognize that AI is potentially biased based on the societal context in which it is trained, its source data, developers and its original intended purpose. When possible, strive to use AI tools built using inclusive data practices and algorithms that mitigate bias. 
+Accountability/Integrity: Use AI tools in a manner that would be regarded as ethical, honest and professional and meet the compliance obligations and PRRs of NC State University.

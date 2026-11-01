@@ -1,0 +1,28 @@
+Artificial Intelligence (AI) Guidelines
+
+The Office of Information Security at Gonzaga University is committed to providing guidance on the ethical and responsible use of generative Artificial Intelligence (AI). As Gonzaga University advances its integration of this technology, our guidelines will continue to evolve to ensure the protection of sensitive information for students, faculty, and staff.
+
+In alignment with our commitment to responsible stewardship, it is imperative to prioritize the safeguarding of data. We urge caution when using external AI systems, as they may not offer the same level of security and privacy as AI systems managed by the University. Please consult the table below for a list of approved sandboxed external AIs. Sandboxed means that the company/org will not use data uploaded into their AI training model. Most AI vendors sandbox customer data if the customer is using an enterprise license. Lower paid tiers and free tiers are usually NOT sandboxed.
+
+We recognize that some AI tools may offer an opt-out model to not train their models on uploaded data. The use of the AI tools with Gonzaga data must be made with an AI tool that has been fully approved through Gonzaga’s vendor integration contract review process resulting in a business data sharing agreement with that vendor and that the tool is managed by ITS.
+
+Approved AI List for use with Gonzaga University Data as defined per the IT Use Policy:
+
+The restrictions above only apply to data covered by Gonzaga's IT Use Policy.
+
+Protecting Sensitive Information
+Data containing personally identifiable information (PII), protected health information (PHI), or other sensitive details should not be uploaded or processed on platforms not approved on the previous list. These platforms may lack the robust safeguards and compliance measures provided by Gonzaga's internal systems, which are designed to protect data in accordance with federal and state regulations and business agreements between AI providers and Gonzaga.
+
+Confidentiality
+Generative AIs often integrate all input they receive, including prompts and other shared files or data, into their models. It is paramount to ensure adequate protection when sharing data with external entities, as per our commitment to responsible stewardship; certain university data must be legally safeguarded in specific ways. Many generative AI platforms have terms that may conflict with our duty to protect such sensitive information.
+
+You should only provide prompts and other data meant for public sharing. Generative AIs also collect extensive data from publicly accessible sources, with varying degrees of respect for authorial rights among providers. Reflect on the data you handle and its availability. Once data becomes public, restricting its use by generative AI can be challenging or unfeasible.
+
+Navigating Information Integrity
+Generative AI systems create text by forecasting the next probable word or punctuation using patterns from their training data. Since these AIs lack true comprehension of meaning, and function independent of user context, they can sometimes yield inaccurate information that appears credible, potentially fabricating sources or missing precise facts.
+
+Our mission calls for a mature commitment to dignity of the human person, social justice, diversity, intercultural competence, global engagement, solidarity with the poor and vulnerable, and care for the planet. It is essential to verify the accuracy of any information utilized. Scrutinize AI-generated content with diligence. Recognize that AI-produced material can surface without overt identification, necessitating meticulous verification of general information.
+
+Generative AIs mirror and can magnify biases embedded within their training datasets. This can sustain and exacerbate biases, disproportionately affecting historically marginalized communities. It is crucial to acknowledge and address these impacts to foster an inclusive environment.
+
+At Gonzaga University, we emphasize the importance of ethical leadership, critical thinking, and service to others. We encourage our community to approach AI with a discerning mindset, advocating truth, equity, and the common good in all endeavors.

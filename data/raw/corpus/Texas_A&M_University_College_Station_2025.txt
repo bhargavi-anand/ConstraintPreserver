@@ -1,0 +1,232 @@
+Use Guidelines & Ethics
+
+Purpose
+The purpose of this page is to provide recommendations and guidance on the responsible use of generative AI at Texas A & M University, ensuring its potential benefits are maximized while minimizing risks to academic integrity, privacy and other ethical use considerations.
+
+
+Ethical Considerations
+At Texas A&M University, we are dedicated to fostering innovation and excellence in advancing research, informing scholarship, and enhancing education and teaching methodologies across disciplines. Generative AI use at Texas A&M University should adhere to the same ethical principles used in other aspects of education, research, and operations, including privacy, fairness, transparency, bias, and accountability. We must ensure that we implement algorithms that incorporate fairness measures and conduct routine audits to detect and address prejudices. Everyone should ensure the AI systems are transparent and explainable to professors and students, to increase trust and responsibility.
+
+
+Data Privacy and Security
+When interacting with generative AI systems, it is crucial to recognize that these platforms may collect, store, and process personal data, potentially leading to privacy risks if not properly managed. Everyone must follow data privacy and security guidelines when using generative AI, protecting personal and institutional data.
+
+
+Author's Rights
+Creators maintain ownership of their original works and the moral and legal rights associated with them. The use of copyrighted materials to train generative AI models must respect these rights, ensuring that authors are properly credited, and their works are not exploited without permission.
+
+
+Transparency
+As a leading R1 institution, we recognize the critical importance of transparency in the development and application of generative AI systems. This includes clearly documenting the use of AI-generated content, properly attributing AI-assisted contributions in research and academic work, ensuring that the implementation of such tools aligns with the University’s policies and broader ethical standards.
+
+
+Academic Integrity
+When using generative AI, users must acknowledge the use of nontrivial AI-generated content and avoid plagiarism. This includes properly citing AI-generated content in academic work and ensuring that AI-generated content does not violate academic integrity policies. It is permissible to use AI for correcting spelling and grammar and for formatting references, but not for generating new text. The faculty should provide clear instructions about permissible AI uses in their courses. This should include specific guidance on academic integrity policies related to AI tools.
+
+
+Bias
+Biases in training data or algorithms lead to distorted and potentially harmful outcomes, impacting organizational success and societal participation. Impartiality in AI is fundamental to ensuring that all audiences, data, inputs, outputs, features, and objectives are treated with equality, fairness, and justice.
+
+
+Accountability
+Faculty, students, and staff must hold themselves accountable for the decisions and actions taken by the AI systems that they choose to use. Users are also responsible for reviewing the accuracy of any output they generate using a generative AI tool.
+
+
+Compliance and Enforcement
+Non-compliance with Texas A&M University policies may result in disciplinary action, including academic penalties or loss of access to AI tools and services. Users should report violations to the appropriate authorities at Texas A&M University.
+
+
+Teach
+Use generative AI to enhance teaching and learning experiences while maintaining academic integrity.
+
+Be transparent about the use of AI-generated content in course materials.
+
+Encourage students to use AI responsibly and ethically.
+
+Update syllabi to reflect policies on AI use in coursework.
+
+Explore whether AI tools can enhance teaching and student learning without compromising learning objectives. Consider integrating AI purposefully into teaching, such as assignments that prepare students for AI interactions in their future careers.
+
+
+Learn
+Use generative AI to support learning and research while adhering to academic integrity policies.
+
+Properly cite AI-generated content in academic work.
+
+Be aware of the limitations of AI-generated content and verify its accuracy before using it in academic or research contexts.
+
+
+Research
+Use AI tools to improve idea development, content structuring, and research design while maintaining human oversight of generated content.  
+
+Ensure that AI platforms have adequate data privacy measures and do not use inputted data to train publicly accessible models.   
+
+Consider the additional risks of AI-generated content to users or participants and include notification in informed consent documents.  
+
+Know the publisher’s requirements and limitations of AI use and disclosure before submitting content for publication.  
+
+Understand and acknowledge how the inclusion of AI could impact the explainability and validity of your experiments.  
+
+Acquire training data ethically, respecting consent and privacy regulations.
+
+
+Work
+Use generative AI to improve administrative processes and decision-making. 
+
+Ensure data privacy and security when using AI tools in daily tasks. 
+
+Stay informed about the latest AI developments and best practices.
+
+
+Training and Support
+Texas A&M University provides comprehensive resources and support for learning about and using generative AI through workshops, tutorials, and dedicated help centers. AI literacy training is actively available for faculty, staff and students. There are multiple resources provided by Texas A&M University that offer guidance on course policies, syllabus considerations, and the ethical implementation of AI tools in academic settings. Resources can be accessed through CTE (Center for Teaching Excellence), TAMIDS (Texas A&M Institute of Data Science), Division of Research, Technology Services.
+
+
+Ethical Use of Generative AI Best Practices
+
+
+Faculty at Texas A&M University
+As a faculty member at Texas A&M University, you have a responsibility to use generative AI tools ethically and responsibly in your teaching, research, and professional activities. This section provides guidelines and best practices for incorporating AI into your work while upholding the university's values and academic integrity standards. 
+
+Teaching with AI 
+When using AI in the classroom, faculty should: 
+
+Clearly communicate AI use: Inform students when AI tools are being used in the course and how they will impact learning and assessment. 
+
+Maintain academic integrity: Ensure that AI-assisted teaching does not compromise learning objectives or enable academic dishonesty. 
+
+Provide AI literacy training: Help students understand the capabilities and limitations of AI tools and how to use them responsibly. 
+
+Use AI to enhance, not replace, instruction: Leverage AI to personalize learning, provide targeted feedback, and create engaging content while maintaining the essential role of human instruction. 
+
+Research and Scholarship 
+When using AI in research and scholarly activities, faculty should: 
+
+Acknowledge AI contributions: Clearly state when AI tools have been used in the research process and describe their role in generating results or insights. 
+
+Validate AI-generated content: Verify the accuracy and reliability of AI-generated data, analyses, or conclusions before incorporating them into research outputs. 
+
+Consider ethical implications: Reflect on the potential societal impacts of AI-assisted research, such as privacy concerns, intellectual property issues, bias, or unintended consequences 
+
+Adhere to discipline-specific guidelines: Follow any AI-related guidelines or best practices established by professional organizations, publication venues, or funding agencies in your field. 
+
+Professional Development and Service 
+As AI becomes more prevalent in higher education, faculty should: 
+
+Stay informed about AI developments: Engage in professional development opportunities to learn about new AI tools, techniques, and best practices relevant to your discipline. 
+
+Contribute to AI policy discussions: Participate in university-wide conversations about AI governance, ethics, and implementation to help shape institutional policies and practices. 
+
+Model responsible AI use: Demonstrate ethical and responsible use of AI in your own work and mentor colleagues and students in best practices. 
+
+Advocate for AI literacy: Support efforts to integrate AI literacy into curricula and promote informed dialogue about the role of AI in higher education.
+
+
+Staff at Texas A&M University
+As a staff member at Texas A&M University, you play a crucial role in supporting the institution's mission and values. When using generative AI tools in your work, it is essential to do so ethically and responsibly to ensure the best outcomes for the university community. This section provides guidelines and best practices for incorporating AI into your administrative tasks and decision-making processes. 
+
+Enhancing Efficiency and Productivity 
+Staff can use AI to streamline workflows and improve efficiency in various ways: 
+
+Automating repetitive tasks: Use AI-powered tools to automate routine tasks, such as data entry, scheduling, and document processing, freeing up time for more strategic work. 
+
+Optimizing resource allocation: Leverage AI algorithms to analyze data and make informed decisions about allocating resources, such as space utilization or staffing needs. 
+
+Improving communication: Utilize AI-powered chatbots or virtual assistants to provide quick and accurate responses to common inquiries from students, faculty, or other stakeholders. 
+
+Personalizing services: Employ AI to tailor services and support to individual needs, such as recommending relevant resources or providing customized guidance. 
+
+Ensuring Data Privacy and Security 
+When using AI tools that handle sensitive data, staff must: 
+
+Adhere to data governance policies: Follow the university's data classification standards and privacy policies to ensure the appropriate handling of personal and institutional data. 
+
+Implement security controls: Work with the Division of Technology Services to implement security controls based on data classification within the AI system. 
+
+Conduct regular audits: Assess and audit AI systems regularly to identify and address potential data privacy risks, as AI technologies are constantly evolving. 
+
+Maintain transparency: Inform relevant stakeholders about the use of AI in decision-making processes and provide opportunities for feedback and oversight. 
+
+Promoting Fairness and Equity 
+Staff should strive to use AI in ways that promote fairness and equity: 
+
+Mitigate bias: Be aware of potential biases in AI algorithms and take steps to mitigate them, such as using diverse training data and conducting regular audits. 
+
+Ensure accessibility: Design AI-powered services and tools to be accessible to all users, regardless of their abilities or backgrounds. 
+
+Monitor outcomes: Regularly assess the impact of AI-driven decisions on different groups and adjust as needed to ensure equitable outcomes. 
+
+Staying Informed and Engaged 
+To use AI effectively and responsibly, staff should: 
+
+Participate in training: Attend workshops and tutorials provided by the university to learn about AI best practices and stay up-to-date on new developments. 
+
+Collaborate with experts: Partner with faculty, researchers, and IT professionals to leverage their expertise in AI and ensure the appropriate use of these technologies. 
+
+Contribute to policy discussions: Engage in university-wide conversations about AI governance and ethics to help shape institutional policies and practices. 
+
+Share best practices: Communicate successes and lessons learned with colleagues to promote the responsible use of AI across the institution. 
+
+
+Students at Texas A&M University
+As a student at Texas A&M University, you will encounter various AI tools and technologies designed to enhance the learning experience. This section provides guidelines and best practices for incorporating AI into your course tasks and learning processes. 
+
+Understand Course Policies 
+Review the syllabus: Check for AI-related policies set by your instructor. 
+
+Ask for clarification: If AI usage is unclear, consult your professor. 
+
+Follow academic integrity guidelines: Ensure compliance with Texas A&M University’s academic policies. 
+
+Use AI as a Learning Assistant, not a Replacement 
+Brainstorm and generate ideas: Use Ai for inspiration, not as a final submission. 
+
+Enhance your understanding: Leverage AI to clarify concepts, not as a replacement for studying. 
+
+Practice original thinking: Ensure that AI supports, rather than substitutes, your own work. 
+
+Verify AI-Generated Content 
+Cross-check with academic sources: Validate AI-generated facts using credible materials. 
+
+Be aware of biases and errors: AI may provide misleading or incorrect information. 
+
+Critically analyze responses: Do not accept AI outputs at face value. Be sure to evaluate their accuracy. 
+
+Cite AI Appropriately 
+Follow citations guidelines: Use the recommended format for AI-generated content. 
+
+Be transparent about AI use: Acknowledge AI assistance when used. 
+
+Check with your instructor: Ensure AI citations align with course expectations. 
+
+Develop AI Literacy 
+Learn AI capabilities and limits: Understand what AI can and cannot do. 
+
+Engage with university resources: Attend workshops or read AI-related guides. 
+
+Consider ethical implications: Think about fairness, bias, and responsible AI use. 
+
+Maintain Data Privacy 
+Use university-approved tools: Prioritize AI tools vetted by Texas A&M University. 
+
+Avoid sharing sensitive information: Do not input personal, confidential, or proprietary data. 
+
+Be mindful of data storage: Understand how AI tools store and use your information.
+
+
+Frequently Asked Questions
+
+5. Are there any privacy concerns when using generative AI in education?
+Yes, it is essential to prioritize data privacy and security when using generative AI. Sensitive information should not be entered into generative AI tools unless a risk assessment has been conducted, and the tool has been approved to handle such information. Additionally, outputs generated by AI may raise complex copyright questions, including whether the generated content infringes on existing copyrights or if it constitutes a new, protectable work. Be aware of how models gather information to generate information and content and avoid unintentional copyright violations by ddocumenting the information being used by the various AI tools.
+
+6. How should staff disclose the use of generative AI in their work?
+Staff should disclose the use of generative AI when it is used for tasks that can impact decisions or have ethical or legal implications. However, disclosure is not necessary for minor tasks or when significant edits are made to the AI-generated output.
+
+7. Can professors require students to use generative AI for assignments?
+Yes, professors can require students to use generative AI tools for assignments, but with certain restrictions based on the instructions provided in the syllabus for that particular course. Professors should encourage the use of university-approved AI tools and not require students to create accounts with non-university AI tools that require sharing personal information. 
+
+8. What uses of generative AI constitute cheating?
+Submitting work created by generative AI, substantially or in whole, as one's own without proper acknowledgment constitutes cheating and violates academic integrity policies. 
+
+9. How can faculty deter inappropriate use of generative AI in student assignments?
+Faculty can deter inappropriate use of generative AI by designing assignments that focus on the process rather than the product to ensure critical thinking skills are used. Faculty should be using examples not found in AI training data, and requiree students to present their work and discuss their methods, and incorporatee low-stakes assignments and formative feedback throughout the course to ensure proper understanding of the concepts.

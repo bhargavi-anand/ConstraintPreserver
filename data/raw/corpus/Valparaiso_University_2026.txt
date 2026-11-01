@@ -1,0 +1,44 @@
+The Honor Code
+
+What Faculty Need to Know About AI
+
+As many of you know, generative AI (Artificial Intelligence) in such forms as ChatGPT, iA Writer, and DALL-E has raised concerns about students using AI for assignments without notifying instructors. There have already been Honor Council cases in which students are alleged to have used AI for assignments without attribution.
+
+AI-Detection Tools:
+
+There are alleged AI-detection tools out there. However, as this technology is still evolving, these tools are suspected to be accurate less than 60 percent of the time, with some institutions choosing to disable the tools completely (Teaching Center doesn’t endorse any generative AI detection tools | University Times | University of Pittsburgh).
+
+Therefore we suggest that you do NOT rely on these tools to determine whether a student has used AI without attribution. As of this date (8/24/23), the Honor Council will not accept the evidence of AI-Detection tools alone, additional evidence that a student used AI in an unauthorized way is required (see below for examples).
+
+Examples of what would constitute possible evidence of the use of AI:
+- Your syllabus or assignment language about the use of AI
+- Early outlines and drafts of papers where students show you their thinking in progress
+- A handwritten in-class assignment early on as a baseline of student writing
+- An annotated bibliography where students state exactly how they have used this source in their assignment
+- The student’s highlighting in different colors the places in their paper where they used their various sources
+- “Fake” sources listed (since AI will generate fake sources)
+
+We strongly suggest that you address AI directly in your syllabi.
+
+EXAMPLE SYLLABUS STATEMENTS ON AI:
+- There are a wide range of possible responses to AI, ranging from “use prohibited” to “use freely.” Examples of syllabus language for each of these options are available here: Considerations for using and addressing advanced automated tools in coursework and assignments
+- Other sample syllabi statements for a wide range of disciplines are listed in this document: Classroom Policies for AI Generative Tools
+- In August 2023 Professor Derek Bruff presented at Valpo’s all faculty workshop on “Teaching & Learning in the Age of Generative AI.” Some of his PP slides give specific examples of syllabus language to use. See, for example, slides 43-51 in this link: Teaching & Learning in the Age of Generative AI
+
+AI AND YOUR ASSIGNMENTS:
+
+The widespread use of AI might also cause you to rethink some of your assignments, whether to discourage AI misuse or to promote new types of learning related to digital literacy in your field.
+
+If you choose to incorporate AI in any of your assignments, here are some guidelines for citing it in MLA, APA, and Chicago Style: How to Cite Artificial Intelligence
+
+Derek Bruff (cited above) has said that there is no way to make an assignment AI-proof. However, there are ways to make your assignments and exams more AI-resistant, such as :
+- Require students to cite specific content from class discussions
+- Use oral exams, including small group orals, to assess student learning
+- Require early outlines and drafts of papers where students show you their thinking in progress
+- Have one handwritten in-class assignment early on as a baseline of student writing
+- Require an annotated bibliography where students state exactly how they have used this source in their assignment
+- Ask them to highlight in different colors the places in their paper where they used their various sources
+- Use personalized or creative prompts that draw on students’ own life experiences
+- For specific assignments or exams, rather than an exhaustive list of unauthorized aid, simply state clearly what counts as authorized aid: “The only authorized aid for this exam is your brain and your pen.”
+
+We hope that this information will help you navigate these changing waters. Generative AI is likely here to stay and we need to help our students understand and use it responsibly.

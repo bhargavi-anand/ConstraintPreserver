@@ -1,0 +1,112 @@
+Default GenAI Guidelines
+In the absence of explicit directions in writing to the contrary from instructors (instructors: see above for several examples of alternative course policies), the following provisions provide
+default guidance for the use of genAI under the Academic Integrity/Misconduct Policy.
+1. Students must represent any work (e.g., ideas, text, code, images) submitted for
+evaluation as the student’s own intellectual product, created in accordance with
+established course and university policies. Unless instructors provide explicit permission
+or instruction to the contrary, students may not submit content for evaluation that was
+generated, in whole or in part, by genAI tools. Using genAI tools when unauthorized
+would be considered a potential violation of Mines’ policy on academic integrity.
+Illustrative, but not exhaustive, examples of prohibited conduct include:
+- A student types a prompt into a genAI tool and copies all or part of the generated
+content (e.g., text, code, images, solutions) into their answer on an assessment,
+essay, test, or other assignment submitted for evaluation (whether in-class or
+out-of-class).
+- A student provides a genAI tool with all or part of the prompt for an out-of-class
+assignment (e.g., essay or coding assignment) and paraphrases or otherwise
+adapts all or part of the generated content into their response without proper
+attribution of the genAI tool.
+2. Students are permitted and encouraged to explore the use of genAI tools to generate
+(and critically examine) content that is not submitted to an instructor for evaluation.
+Unless instructors provide explicit direction to the contrary, students may use genAI tools
+for learning, studying, proofreading, and brainstorming.
+Illustrative, but not exhaustive, examples of permitted conduct include:
+- A student uses genAI tools to study for exams, quizzes, and other assessments
+by providing prompts to the genAI and reviewing the output.
+- A student uses genAI tools to explore the capabilities and potential uses of genAI
+in an area of their interest.
+- A student copies the text of a writing assignment into a genAI to ask for
+proofreading, while making sure to adhere to established university policies.
+
+Academic Integrity Concerns
+Mines community members have a responsibility for establishing, maintaining, and fostering an
+understanding and appreciation for academic integrity. For all their promise, genAI tools
+misused could interfere with learning outcomes and impair the development of students’ skills in
+and outside of the classroom, as well as harm the substance of degrees awarded at Mines.
+An instructor who suspects an academic integrity violation based on genAI tools should follow
+the Mines Academic Integrity/Misconduct Policy, following guidance from the Office of
+Community Standards. This website is designed to provide both students and faculty policy and
+procedure access to best understand rights and responsibilities of all involved parties when
+academic misconduct is suspected. The Office of Community Standards staff can also be points
+of contact for questions regarding policy implementation as it relates to genAI tools.
+At times, faculty may be interested in using AI-detection resources provided by Mines (e.g.
+Turnitin) to assess academic integrity in student work. These tools may not be available for
+faculty to rely on institutionally, and should not be the only tool used to make decisions on
+academic integrity. The Office of Community Standards staff can provide additional
+considerations to support faculty in making decisions which honor the rights and responsibilities
+of faculty and students in the academic integrity/misconduct process.
+Each academic department is encouraged to prepare for the increased use of genAI tools within
+their departments in some of the following ways: to discuss academic integrity expectations
+within each department, to (re)design assignments to focus on process over output, to create
+clear expectations of genAI use on specific course tasks, and to develop ways to build trust
+between students and faculty. All of these examples are proactive ways to reduce academic
+misconduct in coursework. The Office of Community Standards and the Trefny Center have
+worked together to provide a resource to help instructors proactively disincentivize academic
+misconduct.
+
+Designing Assignments
+The continued development of ChatGPT and genAI offers us an opportunity to revisit course
+assignments and assessments to ensure that they spark curiosity, foster intrinsic motivation,
+and promote high-level critical and ethical thinking as described in the TEACHing with genAI
+section above. We encourage instructors to design assignments that center the learning
+process as much as (if not more than) output through evaluative critique, self-reflection, and
+opportunities for revision. Here are a few ideas for exercises and prompts that explicitly
+encourage students to critically engage with genAI:
+- Ask students to describe how they utilized genAI for any given assignment and
+reflect on their process—what they learned, the challenges and frustrations they faced,
+what they did to overcome those challenges, their takeaways from the experience, etc.
+- Ask students to practice formulating effective prompts.
+- Ask students to critically evaluate AI-generated outputs with respect to accuracy,
+persuasiveness, bias, equity, quality, and so forth.
+- Ask students to investigate, fact-check, criticize, or edit AI-generated content.
+- Ask students to practice metacognition and reflect on where genAI complements,
+supplants, or fails to replace their own contributions. This can be done by asking
+students to compare their own work with AI-generated work and to identify their own
+strengths, tendencies, and perspectives.
+In addition to designing assignments that ask students to critically engage with genAI, there are a number of design strategies instructors can use to disincentivize cheating, center the human
+in assignments, build trust with students, and foster intrinsic motivation:
+- Set clear expectations (in writing) and communicate the relevance of any given
+assignment or activity.
+- Offer opportunities for low-stakes, collaborative practice. Give students a chance to
+identify mistakes, make corrections and revisions, discuss strategies with their peers,
+and re-present their thinking in low-stakes contexts.
+- Incorporate unpenalized opportunities for students to revise and resubmit their
+work. Consider grading policies that reward student perseverance and growth.
+- Encourage multimodal communication and creativity (voice memos, podcasts,
+videos, brochures, infographics, websites, classroom presentations, etc).
+- Ask students to connect course content, classroom conversations, and their own
+lived experience. Not only will this create tasks that are more difficult for genAI, but it
+can help foster intrinsic motivation through personal connections with course content.
+- Ask students to set personal learning goals and reflect on their progress
+throughout the semester. Cultivating a “growth mindset” will help students to see the
+value of their learning process and take ownership over their work.
+The Trefny Center has provided useful guidance for instructors to implement effective
+teaching practices with genAI. The Office of the Provost encourages instructors to consult this
+resource.
+
+Final Thoughts
+We encourage the campus community to adopt an open-minded and future-oriented approach
+to working with genAI tools. Our Mines@150 call-to-action reminds us that we are surrounded
+by dynamic and disruptive change that we will navigate together as a community. T o do so, we
+should work against complacency–believing that the status quo will be successful in the
+future–and orient toward relevance. Furthermore, to stay competitive as an institution, we need
+to acknowledge the changing needs that shape education.
+The Office of the Provost encourages instructors to confer with the Trefny Center if they have
+questions about best practices for course design, pedagogy, assessment, and with the Office of
+Community Standards for questions about academic integrity. The Arthur Lakes Library
+maintains a list of citation practices for genAI tools that you can use in your course.
+These guidelines, which will necessarily evolve as genAI continues to evolve, emerged out of
+conversations that brought together faculty, staff, and student voices in the summer of 2023 on
+the Colorado School of Mines campus. Principles that guided this drafting process included
+being future-oriented, reducing harm, focusing on student learning, avoiding punitive culture,
+and providing a holistic approach that supports the core values and mission of the university. If you have suggestions, questions, or insights to add, please share them using this form.

@@ -1,0 +1,26 @@
+Generative AI Guidelines for BU Faculty & Staff
+Generative AI (GenAI) tools are now widely available, and students, faculty, and staff are using them for a range of academic and administrative activities. In response, AIDA leadership has outlined the following institutional guidance for faculty and staff to promote responsible and effective use of GenAI in teaching, research, and academic operations.
+
+Our key recommendations are:
+
+Critical Embrace
+We recommend a permissive but informed approach to GenAI use. Highly restrictive policies may be ineffective due to the widespread accessibility and utility of GenAI tools. Faculty and staff are encouraged to:
+Acknowledge both the benefits and limitations of GenAI.
+Discuss ethical considerations and environmental impacts openly.
+Model thoughtful use that supports—not substitutes—human expertise.
+Adoption of Clear Policies
+Principal investigators (PIs), supervisors, and instructors should:
+Establish and communicate GenAI usage policies clearly.
+Include these policies in course syllabi, as well as lab guidelines and staff onboarding documents when applicable.
+Take time to explain the rationale behind the adopted policy to research groups, staff, advisees, and students.
+Clear policies are especially important in the classroom setting. More detailed recommendations for this use case are provided in Generative AI Guidelines for Classroom Use.
+Human Oversight and Transparency
+All academic and administrative users of GenAI tools should:
+Retain human oversight of AI-assisted outputs.
+Evaluate and verify the validity of generated content.
+Disclose when GenAI tools are used in the creation of materials, documents, or publications.
+Privacy and Security
+Avoid inputting or sharing private or sensitive information through commercial GenAI tools, as this could violate privacy laws or university policy. For institutional use, TerrierGPT is recommended because it protects university data and complies with internal privacy policies. However, TerrierGPT is not approved for restricted use data (e.g., HIPAA-regulated information).
+We encourage faculty and staff to refer to the report of the BU AI Taskforce for Teaching & Research for a more thorough discussion of these recommendations.
+
+We invite your feedback. Please reach out with your input and insights.

@@ -1,0 +1,29 @@
+Guidance for Use of Generative Artificial Intelligence (AI) in Research
+
+The use of generative AI tools, such as ChatGPT, in research projects has prompted inquiries related to research and other scholarly practices. To address these and other concerns, the University Research Council, consisting of representatives from each academic unit, has provided the following guidance to all members of the USD research community.
+
+Prior to initiating any research project involving generative AI, it is strongly recommended that you discuss the appropriateness of using the technology with your co-investigators, collaborators, and field experts. If you decide to use generative AI in your research, the University Research Council recommends consideration of the following:
+
+1. Generative AI tools do not comply with regulations and laws designed to ensure the confidentiality of private information, such as the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Family Educational Rights and Privacy Act (FERPA). As such, do not place federal, state, or USD confidential data, which includes student information, into an externally sourced generative AI tool, unless there are legal and technical guarantees that assure the confidentiality of the data.
+- Note that once the data is transferred into AI tools accessible outside your local network, it may become available to the public and open source.
+2. AI-generated content is sourced from publicly available sources, which can lead to concerns regarding plagiarism and intellectual property rights. Depending on the dataset used by the tool, results may include unauthorized derivatives of others’ copyrighted material and researchers could be at risk for publishing others’ work as their own.
+3. Content generated from AI tools may be inaccurate or biased. Generative AI has a tendency to “hallucinate” by creating sources that do not exist or facts that are not true or verifiable. It is important to cross-validate content provided using other reliable resources.
+4. Related, AI-generated output is created from previously existing data and will reflect the biases and other limitations of that data, including biases associated with race, ethnicity, socioeconomics, disability, language, and other axes of marginalization and/or privilege. These biases should thoroughly be investigated and acknowledged.
+5. Many federal agencies possess tools to detect AI-generated content. It is important to be aware of these tools and consider their potential impact on your research.
+6. Many publishers, including Elsevier, require authors to meet criteria including accountability, responsibility and providing approval of the work to be published. The probability of generative AI systems, like ChatGPT, to fulfill the requirements of authorship is low. For example, Elsevier’s authorship policy asserts that generative AI and AI-assisted technologies cannot be recognized as an author on a published work.
+7. When utilizing generative AI to aid in authorship, it is important to acknowledge and attribute the contribution of the generative AI tools in a manner that aligns with academic norms in your respective field. To learn more about properly citing ChatGPT and similar tools, refer to the following resource:
+a. ChatGPT: APA (American Psychological Association)
+b. The Chicago Manual of Style
+c. MLA Style Center
+d. Scribbr
+8. Do not rely solely on generative AI for decision-making purposes. Utilize its findings to inform your research, while taking into consideration other factors and evidence when making decisions.
+9. Be cognizant of virtual meetings where AI meeting tools may be used. Meetings that involve discussions of sensitive topics (e.g., personnel matters, financial information, intellectual property, proprietary information, etc.) should not utilize AI-automated meeting tools for recording and capturing discussions or measuring attendee engagement, unless there are legal and technical assurances the data will be kept confidential. If unsure, inquire with the meeting host about the use of these tools and opt out of participation in the meeting if the host insists on using these tools.
+10. When collaborating with vendors or subcontractors, it is important to inquire about their practices of using generative AI. Any resulting agreement should include additional terms and conditions to ensure responsible and ethical utilization of generative AI tools by all organizations involved.
+11. The norms for the appropriate use of generative AI are constantly evolving, and vary enormously depending on application, context, and discipline. Individuals participating in the proposal, evaluation, execution, or distribution of research are accountable for acquainting themselves with the policies and standards that regulate the utilization of generative AI in their studies. They hold the ultimate responsibility for the quality and dissemination of their work, including properly attributing ideas and credit, ensuring the accuracy of facts, relying on authentic sources, and appropriately disclosing the use of AI in research.
+12. Those in supervisory roles for research activities should ensure that all members of the team comprehend both opportunities and responsibilities associated with the use of generative AI. These responsibilities apply to all members of the research community, including faculty, students, staff, postdoctoral research scholars, and other research trainees.
+
+By following these guidelines, researchers can harness the advantages of generative AI in their research safely, responsibly, and ethically.
+
+Resources:
+https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+https://www.nsf.gov/cise/ai.jsp

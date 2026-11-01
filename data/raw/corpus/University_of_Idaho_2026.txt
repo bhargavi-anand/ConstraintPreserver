@@ -1,0 +1,25 @@
+Guidance for Artificial Intelligence
+
+Safely Using Artificial Intelligence 
+Artificial Intelligence is a rapidly evolving field with numerous considerations depending on who is using it, and how it is being used. OIT strives for enabling novel and creative use of AI, while also ensuring adequate data protection and compliance. This knowledge base article is intended to be interim security guidance while our university continues to define and implement our AI strategy. 
+
+Data Classification
+University policy (APM 30.11) classifies data based on the risk, as "Low," "Moderate," or "High" to assist the university to remain compliant and to focus security controls on the data that presents the most significant risk. Data uploaded to or downloaded from AI, including prompts, are subject to APM 30.11
+
+The AI platforms or services below have been approved for the data classifications indicated. Individual departments, projects, or research areas may have specific, additional restrictions beyond the OIT defaults.
+
+Non-Approved AI Services
+DeepSeek AI services have been restricted across university networks to ensure compliance with Department of Energy (DOE) and other expected research and security requirements. 
+
+Any AI services from banned vendors. 
+
+If you have questions about AI usage options, data classifications, or responsible use of AI, please submit a request to the OIT Security Office or consult the U of I AI website: https://ai.uidaho.edu/
+
+All other AI services
+Any unapproved, non-banned AI provider may be used if:
+
+Our usage of it would not violate any terms of service, copyright, or license requirements
+Our usage of it is low risk data that is not specific to the University of Idaho
+Terms of Service and AI output is adequately reviewed prior to usage
+Other applications may be approved which contain AI tools or components not specifically listed above.
+

@@ -1,0 +1,69 @@
+﻿Guidelines for Artificial Intelligence (AI)
+Chapman University’s guidelines aim to harness the exciting potential of artificial intelligence (AI) while remaining mindful of its limitations. These guidelines emphasize the importance of accuracy, intellectual property, security, privacy, and ethical considerations.
+Please visit the AI hub website, as it offers recent updates and links to specific resources described in these guidelines.
+Choosing AI tools
+
+When exploring AI tools, it’s crucial to make informed choices regarding which tools to use, particularly concerning the privacy and protection of personal and institutional data. Free or individually purchased AI tools may lack adequate data protection and should not be used for sharing or processing sensitive academic or administrative information. Consult the Approved AI Software page for a list of currently approved software and services.
+
+All software, whether free or purchased, must be reviewed for Security and Accessibility before being utilized. Visit the Technology Project Management page for more information.
+
+Many free and paid software products, including ChatGPT, utilize a click-through agreement. Individuals who accept click-through agreements may face personal consequences, including responsibility for compliance with terms and conditions.
+
+Accountability
+
+You are responsible for the work you produce, regardless of the tools employed. When utilizing generative AI tools, always verify the information for accuracy and potential biases. Be cautious to avoid copyright infringement, as generative AI can sometimes produce misleading, outdated, or incorrect results.
+
+Confidentiality and Privacy
+
+The University has a data risk classification matrix that it uses to classify data. Only tools approved for “High” risk category may be utilized with confidential or proprietary information.  Artificial intelligence technology that does not interact with an external third party system (e.g. fully self hosted) is not subject to these guidelines.  In all instances, we recommend working with the Information Security department when working with potentially sensitive or confidential information.
+
+Do not input any confidential or proprietary information into tools not on the approved AI software list.  A full list of prohibited content is found in the Appendix A of these guidelines.
+
+Teaching & Learning Use
+
+Chapman University encourages faculty and instructors to be transparent around the use of Artificial Intelligence. Review the Considerations for Syllabus Policy for recommendations on how to incorporate the technology in your class.
+
+Research Use
+
+The widespread availability of generative AI tools presents new opportunities for enhancing creativity and efficiency. However, as with any emerging technology, their responsible and ethical deployment in research and society remains dependent on human oversight. Additional details related to usage related to proposal writing, data analysis, and other considerations can be found in the Guidelines for Research, Scholarship and Creative Activities.
+
+Administrative Use
+
+The use of Artificial Intelligence for general productivity is currently the most popular use case.   The implementation of AI in institutional processes and administrative systems must contain human oversight and undergo rigorous testing. Chapman encourages partnering with the Information Systems & Technology department for new initiatives.
+These guidelines serve as a framework for the responsible use of AI, ensuring that our community of educators, researchers, and staff can navigate this evolving landscape effectively and safely.
+Appendix A –  High risk information
+1. Personal, confidential, proprietary, or sensitive information should not be published or uploaded into an AI tool other than those supporting “High” risk information.
+
+
+Examples include but are not limited to:
+ 
+Student records subject to FERPA 
+Admissions records 
+Social security numbers 
+Credit or Debit card information 
+Driver license numbers or State Identification Card number 
+Medical or Patient-related data, including medical history, diagnosis, mental or physical condition, or treatment 
+Health Insurance information, including policy number, subscriber number, application information, claims history, and appeals records 
+Research participant data unless there is a consent to use it publicly 
+Bank account numbers or information 
+University budget and business records 
+Employee personal records, including recruitment and search records, Employee evaluation, and disciplinary records 
+Legal analysis or advice 
+University Telephone directories 
+Any information within the scope of a Nondisclosure Agreement or nondisclosure terms of contracts 
+Intellectual property owned by or licensed from a third party without express written permission 
+Donor information 
+Passport and Visa numbers 
+Copyrighted material unless you are the author and it does not require permission from your publisher
+2. Content that may contain personal, confidential, proprietary or sensitive information should only be uploaded after verification that it does not include information that may not be uploaded.
+
+
+Examples include:
+ 
+Course content material
+Unpublished academic research or discoveries
+Meeting notes
+Presentation notes
+Research data
+Email
+Proprietary or Unpublished Research data or writing or uploading information on discoveries may compromise your ability to seek a patent or copyright in the future

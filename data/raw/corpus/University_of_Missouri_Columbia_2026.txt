@@ -1,0 +1,59 @@
+Artificial Intelligence (AI) tools will transform how work gets done. Tools such as ChatGPT, Bard,
+GitHub, Copilot, and Gemini will all have a profound impact on administrative, academic, and
+research work going forward. Many have asked (or have been asked) if there are policies,
+procedures, or tools available for use. Although we do not yet have approved tools or a formal
+governance structure in place, the Provost’s Office is fully engaged with IT and campus
+leadership to establish these, and in advising how AI can and should be used across campus.
+
+AI is not without risks
+Since these tools are powered by large amounts of data, it is critical to use them in a
+responsible manner. It’s important to have a strong understanding of their boundaries,
+limitations, and risks to ensure that minimizing the risk of security or privacy breaches while
+maximizing the benefits of using this powerful technology. In the coming months, we will
+continue to collaborate with Information Technology and other campus groups on the use of AI
+and the specific tools that are currently available. Together, we will be publishing guidelines,
+policies, and procedures regarding the appropriate use of AI.
+
+At this time, the University supports responsible experimentation with and use of Generative
+AI (GAI) tools, such as ChatGPT and Google Bard, but there are important considerations to
+keep in mind when using these tools, including information security, data privacy,
+compliance, intellectual property/copyright implications, academic integrity, and bias.
+
+What can you use GAI tools for?
+
+GAI tools can be used for any needs incorporating public or generic data (DCL 1, Please refer
+to the University’s Data Classification System.). Examples include:
+• Writing software code that uses common routines.
+• Research on nonsensitive topics.
+• Queries (without confidential information) to better understand our customers,
+partners, vendors, etc.
+• Writing generic documentation such as job descriptions, strategic plans, or other
+administrative documents.
+
+What should you avoid when using GAI tools?
+• Do not enter personal, health, student, or financial information in AI tools (These data
+are considered DCL 2, 3, and 4 by the University’s Data Classification System.). The
+technology and vendors may not protect the data or the privacy rights of
+individuals. Data entered into these tools may be shared with unauthorized third
+parties.
+• Do not reuse your password associated with your University account to sign up for AI
+accounts.
+• Do not share sensitive research information, intellectual property, or trade secrets with
+AI tools. The University may lose its rights to that information, which may be disclosed
+to unauthorized third parties.
+
+Other considerations when using GAI:
+• GAI may produce inaccurate or incorrect resorts. Review/verify any outputs from these
+tools to minimize risk to you and to the University.
+• GAI may produce biased, discriminatory, or otherwise inappropriate results. These
+outputs may be in conflict with University policies, and may potentially violate
+applicable law.
+• GAI tools consume data inputs. Once entered, these data may be utilized to train their
+large language models, thereby exposing the data to the public or third parties. Only
+input public, de-identified, and approved data into GAI tools
+• Missouri Online provides a list of AI tools
+• University IT policy, BPM 12004, provides assistance to faculty and staff to ensure AI
+software tools meet our regulatory, privacy, legal, data and risk concerns.
+Please note that given the rapid pace of advancements and instructional applications in
+generative AI, these guidelines will continue to evolve. The Provost’s Office and the Division of
+IT will provide updates as they become available.

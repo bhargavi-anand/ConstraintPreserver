@@ -1,0 +1,67 @@
+﻿Core Principles regarding the Use of AI
+Integrity
+* Use AI tools to support learning, not to circumvent academic responsibilities.
+* Distinguish your own original work by properly acknowledging all AI-generated content.
+Transparency
+* Be clear and honest about when and how AI tools have been used in your work.
+* Disclose AI assistance in line with institutional guidelines.
+Accountability
+* Take responsibility for verifying the accuracy and reliability of AI-generated information.
+* Recognize that you are ultimately responsible for the quality and originality of your
+submissions.
+Fairness
+   * Avoid using AI tools to gain unfair advantage over peers or undermine their opportunity to learn.
+   * Use AI to support, not replace, active participation in collaborative learning.
+Respect for Privacy
+   * Ensure that information input into AI tools does not violate privacy or confidentiality.
+   * Respect the intellectual property of peers and their privacy when using AI for collaborative tasks.
+right col
+left col
+Considerations for Learning Communities
+The following are examples of ethical and unethical practices in classrooms, based on shared learning community values.  Each classroom sets its own responsible use norms, guided by ethical principles and learning outcomes.
+Instructor Guidelines
+   * Faculty across all academic disciplines are learning how AI can be used to enhance learning and how it might impede learning. Read the syllabus for each course to understand the guidelines each instructor has set for AI usage. If you have any questions about guidelines or requirements, consult the instructor before using AI in the course..
+Learning and Understanding
+   * Ethical Use: Use ChatGPT  if and as allowed by the instructor  to clarify concepts, summarize material, and explore ideas.
+   * Unethical Use: Relying solely on ChatGPT to complete assignments without learning the
+material.
+Writing Assistance
+      * Ethical Use: Use ChatGPT  if and as allowed by the instructor   for brainstorming, drafting, or revising content while ensuring
+originality in the final product.
+      * Unethical Use: Submitting AI-generated essays or assignments as your own work.
+Coding and Problem Solving
+         * Ethical Use: Seek AI help  if and as allowed by the instructor   for debugging, learning new programming concepts, or solving
+specific problems.
+         * Unethical Use: Copying AI-generated code without understanding or attribution.
+Research Support
+            * Ethical Use: Use AI  if and as allowed by the instructor   to generate ideas, organize research, or draft outlines for projects.
+            * Unethical Use: Presenting AI-generated research or analysis without verification or
+additional work.
+right col
+left col
+Best Practices for Ethical AI Use
+Understand the Limits of AI
+               * Recognize that AI tools may generate inaccurate or biased information.
+               * Always verify facts and cross-check sources.
+Acknowledge AI Contributions
+               * Clearly state how AI was used in your work.
+               * Example: “This essay was drafted with the assistance of ChatGPT and edited for originality.”
+Engage in Critical Thinking
+               * Treat AI-generated suggestions as starting points, not final answers.
+               * Apply your own analysis, reasoning, and creativity to refine AI outputs.
+Follow Institutional Policies
+               * Familiarize yourself with guidelines set by your campus, department, or instructor on AI use.
+               * Adhere to any specific rules regarding the use of AI in coursework or assessments.
+Collaborate Responsibly
+               * Use AI tools in group projects only with mutual agreement and transparency among team
+members.
+               * Avoid using AI to undermine teamwork or shared learning experiences.
+right col
+left col
+Gray Areas: Ethical Decision-Making
+                  * When in doubt, consider the following questions:
+                  * Am I using AI as a tool to learn and create or as a shortcut to avoid effort?
+                  * Have I discussed how AI should and not be used for learning and completing required assignments with the instructor and my student peers?
+                  * Would I be comfortable explaining how I used AI to my instructor or peers?
+                  * Does this use align with my institution's academic integrity policies?
+                  * Am I adding my own critical thinking, creativity, and effort to AI output

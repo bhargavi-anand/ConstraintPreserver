@@ -1,0 +1,44 @@
+Guiding Principles for Use of AI at George Mason University 
+These guiding principles seek to ensure the responsible, ethical, and effective use of AI tools and platforms at George Mason University by promoting accountability, transparency, critical thinking, privacy, accuracy, accessibility, and security among members of our community. 
+
+Human Oversight: Humans must remain accountable for all decisions and actions, even when assisted by AI. Users must review all AI-generated material for accuracy, reliability, and appropriateness, ensuring outputs are verified and refined to reflect human judgement, ethical standards, and the expectations and values of their work and the university community. 
+ 
+Transparency: Users must maintain the highest standards of transparency and integrity by clearly disclosing when and how AI has been utilized in their work. This includes explicitly identifying AI-generated content, the platform utilized, and the date of use.  
+ 
+Compliance and Data Security: Users must follow all relevant laws and university policies regarding copyright, intellectual property, property rights, consent, data security, and confidentiality. This includes understanding and respecting the rules that protect creative works and personal information. Safeguarding data and respecting intellectual property are key to protecting yourself and your institution and upholding a culture of respect and integrity.  
+ 
+Data Privacy: Users should protect their personal, confidential information and proprietary intellectual property when using AI tools, understanding how data is collected, stored, and used, taking the time to read privacy policies, using strong passwords, enabling two-factor authentication, and reviewing privacy settings regularly. Be cautious with sensitive information to ensure data privacy and maintain control over your professional and personal life. 
+ 
+Critical Thinking: Users must cultivate AI literacy by understanding its workings, capabilities, and limitations, critically questioning AI content for validity and biases. Thoughtful engagement with AI ensures informed decisions, encourages independent thinking, and uses of AI to enhance, not replace, personal reasoning and creativity. 
+ 
+Accuracy: Users should ensure the accuracy of AI-generated content and always verify AI outputs by cross-referencing with reliable sources and using their own expertise to assess the information. This involves checking for any false, inaccurate, or misleading content before utilizing or sharing it. The responsibility of verifying AI output lies with each user, and this diligence is crucial to maintaining trust and upholding the integrity of our community. 
+ 
+Accessibility: Users should ensure that AI tools and instructions are accessible to all members of our community, including those with disabilities or diverse learning preferences. Examples include providing resources in multiple formats and ensuring compatibility with assistive technologies to create an inclusive environment.
+
+Uses of AI that Violate Standing Policies at George Mason University 
+As AI technologies evolve in their capabilities, the following list of uses of AI that violate standing policies at George Mason University cannot be exhaustive. For all university-related AI activities, utilize university-approved platforms and resources. When in doubt, contact your unit lead before integrating and/or using an AI tool in your activities. 
+
+Data Privacy and Confidentiality Violations: Do not enter confidential information, including proprietary data, student data, personal information, or any other data that is considered private or sensitive into publicly available AI tools. Do not access, share, or manipulate personal or institutional data without proper authorization. Be aware of the risks of using free services. Free online services typically monetize your data, identity, and how the service is being used. Several university policies, including University Policy Number 1114, lay out responsibilities of units and individuals of George Mason University regarding data stewardship.     
+ 
+Security Violations: Do not use AI for any activity that could compromise university systems or networks, including hacking, breaching security measures, or exploiting vulnerabilities. These activities have serious legal and disciplinary repercussions per University Policy Number 1301 on the responsible use of computing.     
+ 
+Malicious Content: Do not use AI to create or distribute malicious content, including malware, viruses, phishing emails, or any other content designed to harm individuals, systems, or networks. Such uses are prohibited under University Policy Number 1301 on the responsible use of computing.    
+ 
+Intellectual Property Infringement: Do not use AI to create or distribute content that violates copyright or intellectual property laws per University Policy Number 1104 on copyrighted materials. Be aware that the use of AI-generated images in official university materials and any AI-generated materials produced using university resources currently bear high intellectual property risks and could expose the university to liability.    
+ 
+Deception and Misinformation: Do not use AI to deceive others. This includes creating false communication, such as fake news articles, fabricated messages, or misleading information, with the intent to deceive or manipulate others. Do not use AI to alter or fabricate data to support false claims or mislead. This includes using AI for spamming or phishing activities. Such uses are prohibited under University Policy Number 1301 on the responsible use of computing, as well as the Commonwealth of Virginia’s DHRM Policy 1.75: Use of Electronic Communications and Social Media.     
+ 
+Unauthorized Surveillance: Do not use AI for any form of unauthorized surveillance of individuals on university grounds or within university systems. This includes using AI for surveillance of students, faculty, or staff, tracking individual movements or activities, and monitoring private conversations or communications. Such uses are prohibited by University Policy Number 1301 on the responsible use of computing.     
+ 
+Harassment and Abuse: Do not use AI to harass, bully, or intimidate. This includes using AI to generate offensive content, such as hate speech, threats, or discriminatory remarks, directed towards individuals or groups. Do not use AI to create or distribute content that promotes or incites violence, harassment, or discrimination. Remember, words, even when AI-generated, have power. Failure to do so risks violating several University Policies, such as Policy Number 1202, and the Commonwealth of Virginia’s DHRM Policy 1.60: Standards of Conduct.    
+ 
+Discrimination: Do not use AI in a manner that discriminates against individuals based on race, gender, disability, or any other protected characteristic. Failure to do so risks violation of the George Mason University Non-Discrimination Policy (Policy Number 1201).     
+ 
+Academic Integrity Violations: Do not use AI in any way that compromises academic integrity and violates university policies or guidelines. George Mason University’s Academic Standards Policy prohibits students from cheating, plagiarism, stealing, and lying in academic work.     
+ 
+Unethical Research Practices: Do not employ AI in research without adhering to ethical guidelines and obtaining necessary approvals. Failure to do so risks violating the George Mason University Misconduct in Research and Scholarship Policy. 
+ 
+These guidelines shall be reviewed as needed. A complete list of George Mason University Policies can be found at universitypolicy.gmu.edu/policies. 
+
+George Mason University’s AI Task Force 
+In Fall 2024, the university launched the AI Task Force, led by Amarda Shehu, George Mason’s inaugural vice president and chief AI officer (CAIO). The task force, comprising more than 70 students, faculty, and administrators bringing together all academic and nonacademic units of the university, began to explore how GenAI could impact how we teach, learn, research, and work, recognizing that GenAI poses unprecedented opportunities and challenges for higher education and a public university with vigorous R1 research activity, such as George Mason. These guidelines are the product of the hard work of this task force. They aim to encourage the creative and innovative exploration and use of AI tools while maintaining the university’s commitment to safety, security, academic integrity, and ethical conduct. 

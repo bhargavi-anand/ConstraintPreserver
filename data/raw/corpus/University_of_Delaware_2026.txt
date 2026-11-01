@@ -1,0 +1,137 @@
+Directive for Appropriate Use of Generative Artificial Intelligence Tools and Services
+
+Purpose
+The University supports the responsible use of Generative Artificial Intelligence tools and services (collectively, “Generative AI”). However, these tools have notable limitations and present new risks that must be taken into consideration when using these technologies. Among these risks are the following:
+
+If Generative AI is given access to personal information, the technology may not respect the privacy rights of individuals, including in a manner that may be required for compliance with applicable data protection laws, which are constantly changing.
+
+If Generative AI is given access to confidential information or trade secrets, the University may lose its intellectual property (“IP”) rights to that information and the information may be disclosed to unauthorized third parties through their independent use of the Generative AI technology.
+
+Generative AI outputs may violate the IP rights of others and might not themselves be protected by IP laws.
+
+Generative AI outputs may be factually inaccurate, and the University might be exposed to liability if relied upon without proper review.
+
+Generative AI may produce decisions that are biased, discriminatory, or otherwise inconsistent with University policies and that are otherwise in violation of applicable law.
+
+Any use of Generative AI at the University must be reflective of its inherent limitations and risks. This Directive specifies the requirements for the appropriate use of Generative AI at the University.
+
+Scope
+This Directive applies to  the use of Generative AI by faculty, staff, students, affiliates, and other University stakeholders (collectively, “University Users”) in the performance of their functions for, at, or on behalf of the University requiring the use of University Information, defined below, or the use of the University’s systems or assets. This Directive applies to all Generative AI use, including free or no-charge Generative AI tools and services. It also applies to Generative AI tools that are standalone tools as well as Generative AI features of other software products and services (e.g., a Chatbot). Unless specified otherwise in this Directive, the term “Generative AI” includes both types of Generative AI. 
+
+Definitions
+“Generative AI” includes any machine-based tool designed to consider user questions, prompts, and other inputs (e.g., text, images, videos) to generate a human-like output (e.g., a response to a question, a written document, software code, or a product design). Generative AI tools and services create new data or content based on existing information. Generative AI may be Publicly Available or UD-vetted, as defined below. 
+
+“Publicly Available Generative AI” means those tools and services that generate output using publicly available information. Only University Information classified as Level I may be used with Publicly Available Generative AI in addition to other publicly available information.
+
+“UD-vetted Generative AI” means those tools and services that the University has vetted and makes available to University Users through a contractual arrangement with the vendor or otherwise. UD-vetted Generative AI is under the control of the University and is unique to the University’s operations. UD-vetted Generative AI can be trained using University Information classified as Level II or Level III, defined below, as specified in this Policy.
+
+“University Information” means any information within the University’s purview, including information that the University may not own but that is governed by laws and regulations to which the University is held accountable. University Information encompasses all data that pertains to or supports the administration and missions, including research, of the University.
+
+“Level I, II, III Data” have the meanings specified at https://www1.udel.edu/security/framework/classification.html
+
+Direction
+The University has numerous policies that safeguard University Information and the University’s systems and assets. These policies include, but are not limited to, the Information Classification Policy1, Data Governance Policy2, and the Information Security Policy3. These policies in conjunction with this Directive apply when University Users use Generative AI at, for, or on behalf of the University when using University Information or the University’s systems or assets. University Users are required to read, understand, and comply with these policies and to raise any questions regarding them as they pertain to the use of Generative AI, or otherwise, with Information Technology. University Users are expected to use only approved Generative AI and to limit information used to train the tools and services as specified in this Policy. University Users who do not follow this Directive may have the non-conforming Generative AI deactivated.
+
+Procedures
+Approved Generative AI
+1. Only Generative AI that UD Information Technologies (UDIT) has vetted and approved, in consultation with other relevant University departments, as appropriate, may be used with University systems or assets or with University Information (“UD-vetted Generative AI”). This vetting and approval process ensures that Generative AI procured on behalf of the University has the appropriate privacy and security protections and provides the best use of University funds. This process will also ensure that any new Generative AI features of software or services will not be enabled without being vetted.
+
+2. If a University User wants to acquire Generative AI that has not been previously reviewed, prior to acquiring it, a Technology Request must be submitted to UDIT 5. UDIT will route the request to other appropriate University departments and resources to assist in validating the vendor’s product and to verify that the proposed contract does not introduce undue risk to the University. Absent approval, the Generative AI may not be used with University systems or assets or University Information. A list of approved standalone Generative AI tools will also be available at https://services.udel.edu/TDClient/32/Portal/KB/ArticleDet?ID=1150.  
+
+3. UDIT will also examine default settings associated with the Generative AI to determine whether they could expose proprietary or sensitive information to unauthorized persons and if so, will specify the appropriate settings for the use of the Generative AI on the approved list.
+
+4. Generative AI that is still in BETA testing will not be used with University systems or assets or with University Information until assessed for risk through the University’s Technology Request process.
+
+Use of University Information with Generative AI
+1. University Information classified as Level II or Level III may only be used with UD-vetted Generative AI that has been assessed and approved for such use by UDIT as a part of a Technology Request review. Level II and III data includes:
+
+- Information subject to the Family Educational Rights and Privacy Act (“FERPA”) including directory information, work produced by students to satisfy course requirements, student names and grades, and student disability-related information;6
+
+- Health information protected by the Health Insurance Portability and Accountability Act (“HIPAA”);7
+
+- Nonpublic Personal Information subject to the Gramm-Leach-Bliley Act (“GLBA”);8
+
+- Human resources information, such as salary and employee benefits information;
+
+- Personally identifiable information, including information subject to the General Data Protection Regulation, the Personal Information Protection Law, or any other international laws or regulations governing the processing of personally identifiable information;9 
+
+- Information contained in personnel records;10
+
+- Intellectual property not publicly available;11
+
+- Material under confidential review, including research papers and funding proposals; 
+
+- Information subject to export control; and
+
+- Sensitive Data to include passwords, financial account information and other such information as specified in the Information Classification Policy as it may be modified from time to time.
+
+2. Only University Information classified as Level I, in conjunction with other publicly available information, may be used with Publicly Available Generative AI. Using Level II or Level III University Information with Publicly Available AI is prohibited.
+
+Output Review Requirements
+1. University users must confirm the accuracy of information generated by Generative AI using other sources.12
+
+2. University users must check the output of the Generative AI for bias by determining whether the data input into, and the output of, Generative AI tools produces decisions that may result in a disparate impact to individuals based on their protected classifications under applicable law, such as race, ethnicity, national origin, age, sexual orientation, or disability status. Any output that is indicative of a potential bias should not be relied upon.
+
+3. University users must be transparent and disclose the use of Generative AI used to produce written materials or other work products and must not hold out output generated by Generative AI tools as their own. If the output includes any quote, paraphrase, or borrowed ideas from the output of Generative AI tools or services, University Users must confirm that the output is accurate and not plagiarize another party’s existing work or otherwise violate another party’s intellectual property rights.
+
+4. University users must not use Generative AI tools to generate malicious content, such as malware, viruses, worms, and trojan horses that may have the ability to circumvent access control measures put in place by the University, or any other third-party entity, to prevent unauthorized access to their respective networks. Any code generated using Generative AI must be reviewed by qualified personnel to verify it does not contain any malicious elements.
+
+5. University users must not use Generative AI to generate content that facilitates sexual harassment, stalking, or sexual exploitation13; or that helps others break federal, state, or local laws; institutional policies, rules, or guidelines; or licensing agreements or contracts.
+
+Academic Integrity 
+Expectations regarding the use of Generative AI should be clear to students and consistent with the guidelines the Center for Teaching and Assessment of Learning adopts in the “Considerations for Using and Addressing Advanced Automated Tools in Coursework and Assignments,” available at https://ctal.udel.edu/advanced-automated-tools/.  
+
+Remain Alert for and Report Suspicious Activity
+Generative AI has made it easier for malicious actors to create sophisticated phishing emails and to create video or audio intended to convincingly mimic a person’s voice or physical appearance without their consent (“deepfakes”). University Users who suspect any such malicious activity must report it to Information Technologies in accordance with the University’s Information Security Event Reporting policy14. Reported events will be investigated as set forth in the University’s Data Security Incident Response Plan.
+
+Considerations for using and addressing advanced automated tools in coursework and assignments
+This webpage focuses primarily on course policies, how to discuss those policies, and some examples of assignments that address or make use of advanced technologies such as generative AI. Additional resources about the use of artificial intelligence tools in teaching and learning, including important considerations for faculty considering the use of these tools in their courses and an AI literacy tutorial, can be found on the webpage for the university’s Artificial Intelligence for Teaching and Learning Working Group. The university’s information technology unit also hosts the university’s current policies about the use of generative AI tools, a list of tools available at the university, and a set of frequently asked questions.
+
+Definition
+ Advanced automated tools – artificial intelligence or machine learning tools such as Microsoft Copilot and Google Gemini that are sometimes described as “generative” or “autogenerative” tools – use sophisticated technology and very large data sets to create realistic writing, images, or other artifacts in response to natural language queries and prompts. They are very easy to use and some of their output is very difficult to distinguish from human-generated material.
+
+Purpose
+This website provides context and practical suggestions, including sample language for course syllabi, for faculty who are addressing the use of advanced automated tools in their course(s). Should students be allowed to use these tools? What are the most pressing issues – practical, pedagogical, and ethical – related to the use of these tools? How can we support their learning about these tools and the many complex, interesting, and rapidly-developing issues that surround them?
+
+Context and impact
+These tools are readily accessible to students and have the potential to significantly change some aspects of traditional Western higher education, especially assignments that require students to write or create other artifacts that can easily be created or changed using one of these tools. Although there is research that supports the notion that some automated tools can help students learn and improve skills such as writing (e.g., Wilson, Olinghouse, & Andrada (2014)), the extent of the impact of these newer tools is unknown and subject to debate. However, their accessibility and ease-of-use makes it likely that some students will at least experiment with these tools and be expected to use similar tools after graduation.
+
+Just as faculty have previously adapted their teaching to accommodate the use of other tools and advancements in technology, faculty are encouraged to develop and share with students a coherent approach to the use or non-use of these tools in their courses.
+
+Course policies
+In each course, at least four possible approaches seem plausible in terms of student use of these tools:
+
+1. Prohibit all use of these tools
+Use prohibited
+In courses where students are expected to independently produce work without any collaboration or the use of external tools, it may be appropriate to not allow any use of these tools. In these situations, it would be most helpful to not only explicitly tell students this but also explain to them why they are not allowed to collaborate or use tools. An honest, respectful discussion about why it’s important for students to work independently in this particular class can help students understand that critical context and broader (academic, professional, or disciplinary) norms and expectations.
+2. Allow their use only with prior permission
+Use only with prior permission
+In some courses, it may be appropriate to use these tools in some scenarios or on some assignments but not in others. In those situations, faculty should clearly communicate with students when and how they can and cannot use these tools. It would be helpful to also make clear the rationale for allowing these tools in some situations but not allowing them in others; this could be an open discussion and exploration of (academic, professional, or disciplinary) norms and expectations or it could be a brief explanation of your thinking and expectations. Remember that it would also be helpful to explicitly (a) note how students should cite or otherwise acknowledge these tools, with one or more examples, and (b) help students understand the limits and appropriate uses of these tools.
+3. Allow their use only with explicit acknowledgement
+In courses where students are allowed or expected to collaborate or use advanced tools, it may be appropriate to allow students to use these tools throughout the class as long as they explicitly cite or otherwise acknowledge the use of these tools. Remember that it would also be helpful to explicitly (a) note how students should cite or otherwise acknowledge these tools, with one or more examples, and (b) help students understand the limits and appropriate uses of these tools.
+5. Freely allow their use without any need for acknowledgement
+In courses where students are allowed or expected to frequently collaborate or use advanced tools, it may be appropriate to allow students to use these tools throughout the class without requiring that they explicitly cite or otherwise acknowledge the use of these tools. In these classes, it is critical that students understand the limits and appropriate uses of these tools.
+Each approach is discussed below with some thoughts and considerations; possible syllabus language for each approach is included in a separate section below. Regardless of the approach selected, faculty should explicitly discuss with students the approach and its underlying rationale.
+
+If use of these tools is prohibited, limited, or must be documented, faculty should also consider if they should include an explicit reminder about plagiarism and whether use or misuse of these tools would be considered plagiarism.
+
+Talking with students
+If students are allowed to use these tools, faculty should be able to help students understand:
+1. How to cite or acknowledge the use of these tools. Some major style guides and publishers have provided updates or advice about how to cite these tools in scholarly texts: APA, Chicago, and MLA (ChatGPT and Dall-E). Faculty can also require students to adopt other practices such as a more broad acknowledgement e.g., “Some text and ideas in this document were created or edited using Chat-GPT3.”
+2. How to effectively use these tools. Like all other tools, these tools have affordances that support and encourage some uses and discourage other uses. These are in part shaped by their limitations but there are many other considerations such as the nature of the data that were used to create the tools and the kind of output they were designed to create. Experience with similar tools suggests that some of these tools may be most useful in (a) generating ideas and (b) suggesting potential improvements or changes to existing material. However, this is an area of rapid growth and development so this may involve a genuine partnership with students to discover some of the most effective and ethical uses.
+3. The limitations of these tools. The current generation of these tools are very limited, sometimes in ways that are not obvious to novice users. For example, the current generation of Chat-GPT cannot perform synthesis of sources or even document the sources that were used to create its responses. So it may be useful for idea generation or generic recommendations but it has no ability to creatively and independently generate new insights and make novel connections. These tools may also produce information that is incorrect or biased so students must ensure that material they submit or share has been verified with appropriate sources and is reasonably free of biases.
+4. Ethical issues related to the development and use of these tools. There are many challenging, important, and unresolved ethical issues related to the use of these tools that should be addressed. How should their use be documented? In what situations should these tools not be used? How do we reconcile the complex issues of copyright and intellectual property, not only of the material that is generated but also the material that was used to create the tool? How do we grapple with the environmental costs of these tools?
+5. The closed and commercial nature of many of these tools. Many of these tools are developed and hosted by companies who do not disclose many important details about the data they have collected or require to use these tools. This extends to the requirements for registering or using some of these tools e.g., phone number, e-mail address.
+
+“Computational thinking” is one of UD’s General Education objectives, the set of skills and knowledge that we expect all UD undergraduate students to attain through their educational experience. Meaningfully addressing the use of these tools – probing their limits, exploring their ethical uses, and meaningfully integrating them into practices – in the context of a specific course or discipline can be a very effective way of helping students build computational thinking skills and knowledge (Martín-Núñez, et al. (2023) explicitly supports this hypothesis).
+
+Detecting the use of these tools
+There have been and continue to be efforts to develop tools that can detect materials generated by these advanced automated tools. The level of accuracy of these detection tools varies and will continue to change as both the generators and the detectors continue to change and are updated. Many experts are skeptical of the quality of these tools with significant concerns about “false positives” that can potentially be used to accuse students of using these tools when they have not used these tools; our colleagues at Temple University have written about this, including their own evaluation of such tools. The difficulty of creating an accurate detection tool led the creators of ChatGPT to remove their own tool, stating that “none of [the detection tools] have proven to reliably distinguish between AI-generated and human-generated content.”
+
+Instead of (solely) focusing on detecting the use of the tools or attempting to design assignments that the current tools cannot complete, The MLA-CCCC (Modern Language Association and Conference on College Composition and Communication) Joint Task Force on Writing and AI has several recommendations for faculty. This group focuses on writing and writing assignments but these recommendations can easily be extended to other domains:
+
+Design assignments to support intrinsic motivation
+Emphasize teacher, peer, and tutor relationships in the writing process
+Assign steps in the writing process
+Ask for documentation of and reflection on the writing process
+Test assignments on language models [and AI tools]

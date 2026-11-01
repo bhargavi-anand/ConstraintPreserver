@@ -1,0 +1,35 @@
+IT's Artificial Intelligence Position Statement
+
+Overview
+Generative Artificial Intelligence (GenAI) presents exciting opportunities and challenges for Pepperdine University. In considering GenAI’s potential to enhance teaching, learning, and productivity, we must approach this technology thoughtfully and responsibly, aligning its use with our core values. With that in mind, the following is the work of an ad hoc committee comprised of members of the Pepperdine University Information Technology Department and the Keck Data Science Institute.
+
+The Promise of Generative AI
+GenAI offers several transformative opportunities:
+1. Enhance Teaching: GenAI can streamline administrative tasks, generate insightful data analyses, and provide new avenues for creative instruction.
+2. Support Learning: GenAI offers personalized learning opportunities, helping students to understand complex subjects through interactive, adaptive tutoring.
+3. Promote Research: GenAI can streamline literature reviews, assist with data analyses, and spark new research directions. It can help to uncover hidden patterns and insights, accelerating our pursuit of knowledge.
+4. Increase Efficiency: GenAI can automate repetitive tasks, freeing up faculty and staff to focus on higher-order activities that require human expertise. It can facilitate communication, streamline workflows, and improve overall operational efficiency.
+GenAI tools can support Pepperdine’s academic rigor and Christian values by enhancing the quality and accessibility of educational resources, fostering an environment of innovation and exploration.
+
+Navigating Generative AI: Best Practices
+To harness the power of GenAI responsibly, consider these best practices:
+1. Ethical Use: Respect the dignity of individuals, avoid the misuse of generated content, and recognize the limitations of GenAI.
+2. Critical Evaluation: Always critically evaluate GenAI-generated content for accuracy, bias, and originality.
+3. Data Privacy: Understand how GenAI stores and processes your data.
+4. Prompt Engineering: Establish clear contexts and tones to elicit accurate and relevant responses from GenAI tools.
+5. Continuous Learning: Stay informed of GenAI’s evolving capabilities and potential applications within the academic environment.
+
+Dangers, Caveats, and Pitfalls to Avoid
+While GenAI holds immense promise, it is crucial to be aware of its potential drawbacks:
+1. Data Security: Inputting Confidential data containing Personally Identifiable Information or RESTRICTED data into GenAI tools can compromise security.
+2. Plagiarism and Misuse: GenAI-generated work can be difficult to distinguish from original student submissions. Educate students and faculty on citing GenAI as a source.
+3. Misinformation and Bias: GenAI can produce biased or fabricated content that appears to be true, and even generate sources that do not exist. Always verify generated information and confirm the sources are reliable.
+4. Unintended Consequences: Consider the potential for negative impacts on student learning, employee performance, and the University's reputation.
+5. Overreliance: Overreliance on GenAI may stifle critical thinking and creativity. Use it as a tool to augment – not replace – human judgment and creativity.
+By proactively addressing these concerns, we can ensure that GenAI is used ethically and responsibly, and in alignment with our commitment to integrity and service.
+
+A Call to Action
+Embrace the opportunities provided by GenAI at Pepperdine. Doing so requires a thoughtful and ethical approach. As we integrate this technology into our academic and operational practices, let us remain committed to our core values: academic rigor, Christian values, prioritizing teaching and research, and upholding strong ethical standards. We can harness the power of GenAI to enrich education and support holistic student development.
+
+Let us guide our community toward responsible exploration and utilization of GenAI, ensuring that it serves as a tool for growth, innovation, and dignity for everyone.
+

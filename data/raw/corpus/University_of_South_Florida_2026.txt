@@ -1,0 +1,52 @@
+USF Guidance for Ethical Generative AI Usage
+
+University Guidance
+
+Generative artificial intelligence (genAI) tools are rapidly transforming teaching and learning, research, and business practices at the University of South Florida. These tools have changed how routine tasks are performed and how new challenges are addressed. With the increasing availability of genAI tools, the university provides guidance and considerations for implementing their use across various workflows.
+
+Individual units and departments are responsible for exploring the usefulness and limitations of generative AI technologies within their specific contexts and for sharing their expectations and experiences. As these tools continue to evolve, institutional practices and usage recommendations will be updated.
+
+Defining Generative AI Tools
+
+Generative artificial intelligence refers to technologies that automatically generate new, original content and assets, including text, images, audio, video, and computer code. These tools analyze patterns in training data, build an understanding of structure and style, and use that understanding to create new outputs that resemble the training data while introducing variation and new ideas. The core capability of generative AI is to synthesize coherent and relevant artifacts based on user-provided context.
+
+GenAI Guiding Principles and Usage Limitations
+
+Human-Centered Generative AI
+Human intelligence is fundamental to the responsible use of generative AI technologies. Critical thinking, ethical awareness, and human judgment remain essential. Generative AI tools should augment, not replace, cultivated talent, scholarly expertise, creative expression, intellectual community, and human capital. These tools generate possibilities, while human intelligence determines value and appropriate use.
+
+Individual Responsibility
+Individuals are responsible for understanding the limitations and constraints of the generative AI tools they use. Users are accountable for the validity, correctness, and usefulness of AI-generated content. Facts should be verified and information cross-checked, as generative AI tools may produce incorrect information that appears authoritative.
+
+Awareness of Bias
+Users should recognize that generative AI models may perpetuate biases present in their training data or the applications used to access them. Users are expected to identify and mitigate harmful bias in AI-generated content.
+
+Sourcing Information
+Generative AI tools may rely on training data that include original and potentially copyrighted works. Users have an ethical responsibility to respect copyright, avoid plagiarism, and provide proper attribution when AI-generated content incorporates or builds upon the work of others. Academic principles require acknowledgment of sources, authors, and contributors.
+
+Transparency of Use
+Users should be aware when they are using generative AI tools and, when appropriate, disclose whether content is AI-generated or human-generated. Disclosure is particularly important for published works, official communications, and student submissions when permitted by instructors. Misrepresenting AI-generated work as one’s own conflicts with academic integrity principles. Transparency supports trust and appropriate use of generative AI.
+
+Discipline-Specific Principles
+Users of generative AI are responsible for remaining informed about discipline-specific policies, guidelines, and ethical standards, including those established by professional organizations and scholarly publications. Use of generative AI tools in coursework is determined by instructors, and students are expected to comply with course-specific policies.
+
+Data Protection and Privacy
+Users must comply with current University of South Florida technology policies, particularly when using publicly available AI tools that may retain or reuse submitted data. Student data, employment data, and other protected or sensitive information must not be shared. Users must comply with applicable data privacy regulations, including FERPA and HIPAA. Faculty and staff have access to institutionally supported generative AI tools that provide data protection. Governance structures for institutional data and information will continue to evaluate these technologies.
+
+Supporting Student Success and Workforce Readiness
+
+When used responsibly, generative AI can help students develop skills in research, analysis, communication, and digital fluency. Faculty are encouraged to integrate generative AI thoughtfully where appropriate, ensuring students understand how and why to use these tools ethically and responsibly.
+
+Creating Public Custom Chatbots with Copyrighted Material and Course Content
+
+Faculty, staff, and students must not use copyrighted materials or course content to create publicly accessible custom chatbots without proper authorization. This includes using published articles, books, research papers, course materials, lecture notes, presentations, images, videos, audio files, software, and computer code.
+
+Course materials created by instructors may not be used without the express, prior, written permission of the instructor. Students may not use course materials or personal recordings or notes from lectures to create publicly accessible custom chatbots without written consent from the instructor.
+
+When copyrighted content or course materials are required for educational or research chatbot development, appropriate permissions and licenses must be obtained. Guidance on copyright may be obtained from university library services.
+
+Chatbots developed for courses must use university-supported platforms to ensure data privacy and security.
+
+If instructors implement a chatbot in a course, the following statement should be used:
+
+This course includes access to a chatbot designed to answer frequently asked questions about assignments, deadlines, and course policies. While the chatbot may be a helpful tool, critical information should be verified using official course materials or by contacting the instructor directly. The chatbot is not a substitute for official communication and may not reflect recent updates or individualized instructions.

@@ -1,0 +1,91 @@
+Generative AI @ UW–‍Madison: use & policies
+Version 3, published August 23, 2024
+
+This page outlines existing policies governing what you may and may not do when using generative artificial intelligence (AI) tools and services. These policies safeguard institutional data, which everyone in the university is legally and ethically obligated to protect. All university faculty, staff, students and affiliates must follow these policies.
+
+As with everything you do at the university, you must follow UW–‍Madison, UW System Administration (UWSA) and UW System Board of Regents policies when using generative AI tools and services. Read on for more about those policies and tips for using AI safely.
+
+General policies relevant to AI use
+Policy No.	Policy Name	What to Note
+UW-523	Institutional Data	
+Definition of “institutional data”
+Provisions related to protecting individual privacy, maintaining promised confidentiality, and ensuring appropriate access and use
+Requirement for institutional data to be classified in accordance with applicable university data classification policy
+UW-504	Data Classification	
+Explanation of the need to classify data as part of the university’s obligation to protect sensitive information
+Data classifications
+SYS1031	Data Classification and Protection	
+Explanation of data classification categories
+Requirement for all information to be kept in a manner consistent with appropriate controls, and standards commensurate with its data classification and the protections outlined in UWSA 1031.B, Information Security: Data Protection Standard
+Regent Policy 25-3	Acceptable Use of Information Technology Resources	
+Prohibitions on using UW System IT resources to intentionally damage, disrupt, or expose IT resources or data to unauthorized access or harm
+Prohibited use and relevant policies
+Here are some examples of generative AI use that are not allowed under UW–‍Madison, UWSA and board of regents policies:
+
+Prohibited Use	Relevant Policy	Explanation
+You may not enter any sensitive, restricted or otherwise protected data into any generative AI tool or service unless it has undergone appropriate internal review (see the UW–‍Madison CISO Statement on Use of Generative AI for more information).
+This information includes, but is not limited to:
+
+FERPA-protected information, such as:
+Wiscard ID photos
+University Directory Service data
+Work produced by students to satisfy course requirements
+Student names and grades
+Student disability-related information
+Health information protected by HIPAA
+Information related to employees and their performance
+Intellectual property not publicly available
+Material under confidential review, including research papers and funding proposals
+Information subject to export control
+UW-523 Institutional Data
+UW-504 Data Classification
+UW-500 Release of Wiscard ID Photos to Campus Software Applications
+UW-517 University Directory Service (UDS) Responsible Use
+UW-2007 Disability Documentation and Confidentiality
+HIPAA Security Program
+UW-711 Academic Staff Personnel Files
+UW-4000 Export Controls
+SYS 1031 Data Classification and Protection
+SYS 1040 Privacy
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+The university is obligated to protect sensitive information to comply with applicable state and federal privacy and security laws and regulations and with university, UW System and board of regents policies. Access to protected institutional data shall be authorized and managed to protect individual privacy, maintain promised confidentiality, and ensure appropriate access and use.
+You may not upload any information from electronic files you are not authorized to access and use.	
+UW-870 Access to Electronic Files
+No one but an authorized user of an electronic file may intentionally access that file.
+You may not upload any data that could be used to help create or carry out malware, spam and phishing campaigns or other cyber scams.	
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+System IT resources may not be used to disseminate unauthorized email messages.
+You may not upload aerial photographs or scaled drawings of UW–‍Madison areas or utilities-related data.	
+UW-6060 Distribution of Facility Data, Documents, and Graphics Information
+Disclosure of certain facility, data, documents and graphics could compromise the safety and security of UW–‍Madison and its students, faculty, staff, visitors or physical infrastructure.
+You may not use AI-generated code within institutional IT systems or services without having it reviewed by a human to verify it doesn’t have malicious elements.	
+UW-503 Cybersecurity Risk Management
+SYS 1039 Risk Management
+UW-124 HIPAA Security Risk Management
+Use of malicious code in IT systems or services may threaten or increase the vulnerability of systems and the university data such systems store or transmit.
+You may not direct AI tools or services to generate content that facilitates sexual harassment, stalking or sexual exploitation.	
+UW-146 Sexual Harassment and Sexual Violence
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+UW-146 prohibits sexual harassment, stalking and sexual exploitation. Regent Policy 25-3 prohibits the use of System IT resources for harassment and stalking, as well as for storage, display, transmission, or intentional or solicited receipt of material that is or may reasonably be regarded as obscene, sexually explicit, or pornographic.
+You may not use AI tools or services to generate content that helps others break federal, state or local laws; institutional policies, rules or guidelines; or licensing agreements or contracts.	
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+System IT resources may not be used to violate laws, policies or contracts.
+You may not use AI tools or services to generate content that enables harassment, threats, defamation, hostile environments, stalking or illegal discrimination.	
+UW-146 Sexual Harassment and Sexual Violence
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+UW-146 prohibits stalking. Regent Policy 25-3 prohibits the use of System IT resources to perpetrate harassment or stalking or to violate laws or policies.
+You may not use AI tools or services to infringe copyright or other intellectual property rights.	
+Regent Policy 25-3 Acceptable Use of Information Technology Resources
+SYS 346 Patents and Inventions
+UW-4008 Intellectual Property Policy for Research
+System IT resources may not be used to violate copyright or other intellectual property laws. Entering copyrighted material into a generative AI tool or service may effectively result in the creation of a digital copy, which is a copyright violation. Feeding copyrighted material into a generative AI tool or service could “train” the AI to output works that violate the intellectual property rights of the original creator. In addition, entering research results into a generative AI tool or service could constitute premature disclosure, compromising invention patentability.
+In addition to violating UW policies, many of the above uses also violate generative AI providers’ policies and terms.
+
+Incident reporting policies
+Any member of the UW–‍Madison community who learns of a potential breach of data protection or confidentiality—including through the use of generative AI—must report the incident.
+
+UW-509 Incident Reporting and Response
+SYS 1033 Incident Response
+UW-131 Reporting of HIPAA Incidents and Notifications in the Case of Breaches of Unsecured Protected Health Information
+Trustworthy AI
+For uses of generative AI that are not prohibited, UW–‍Madison faculty, staff, students and affiliates can help protect themselves and others by choosing tools and services that exhibit the National Institute of Standards and Technology’s (NIST’s) characteristics of trustworthy AI.
