@@ -1,76 +1,198 @@
 # ConstraintPreserver
 
-### A Constraint-Preserving Document Retrieval and Question-Answering System
+### Investigating Information Loss in AI-Generated Summaries
 
-ConstraintPreserver is a Python-based document retrieval and question-answering system designed to retrieve relevant information from documents while preserving important constraints, conditions, and contextual details.
+**The Disappearing Detail Problem: What Important Information Disappears When AI Summarizes Text?**
 
-The project focuses on improving the reliability of document-based question answering by combining document preprocessing, intelligent chunking, semantic search, and constraint-aware answer generation.
+ConstraintPreserver is an NLP research project investigating whether important information gets lost when large language models summarize long, information-dense documents.
 
-## 🎯 Project Objectives
+The project focuses on information that is particularly important for accurate interpretation and decision-making: conditions, exceptions, deadlines, responsibilities, decisions, and numerical limitations.
 
-* Extract and preprocess information from documents.
-* Divide documents into meaningful chunks for efficient retrieval.
-* Generate semantic embeddings for document chunks.
-* Perform similarity-based retrieval using FAISS.
-* Identify and preserve important constraints from retrieved information.
-* Generate contextually relevant answers based on retrieved documents.
+Rather than evaluating summaries only on general semantic similarity, ConstraintPreserver examines whether specific constraints and obligations survive the summarization process.
 
-## ⚙️ Technology Stack
+---
 
-| Technology            | Purpose                                   |
-| --------------------- | ----------------------------------------- |
-| Python                | Core programming language                 |
-| FAISS                 | Vector similarity search                  |
-| Sentence Transformers | Semantic embeddings                       |
-| JSON                  | Document and metadata storage             |
-| NLP                   | Text processing and information retrieval |
+## Research Motivation
 
-## 🏗️ Project Architecture
+AI-generated summaries can communicate the general meaning of a document while omitting details that significantly affect its interpretation.
 
-The project follows a modular architecture consisting of the following stages:
+For example:
 
-**1. Document Preprocessing**
+**Original statement:**
 
-* Document extraction and cleaning.
-* Text normalization.
-* Document validation.
+> Students may submit applications after the deadline only if they have received prior written approval from the department.
 
-**2. Document Chunking**
+**Potentially incomplete summary:**
 
-* Dividing documents into smaller chunks.
-* Maintaining relevant contextual information.
-* Generating structured document metadata.
+> Students may submit applications after the deadline with approval.
 
-**3. Vector Indexing**
+The summary preserves the general idea but loses the requirement that approval must be both prior and written.
 
-* Generating semantic embeddings.
-* Storing embeddings in a FAISS index.
-* Maintaining associated chunk metadata.
+This is the information-loss problem that ConstraintPreserver aims to investigate.
 
-**4. Semantic Retrieval**
+## Research Question
 
-* Converting user queries into embeddings.
-* Searching for relevant document chunks.
-* Retrieving the most relevant information.
+**Which linguistic and structural properties make important information more likely to disappear from AI-generated summaries?**
 
-**5. Constraint Extraction**
+The project also investigates whether constraint-aware prompting can improve the preservation of critical information.
 
-* Identifying important conditions and restrictions.
-* Preserving critical information during answer generation.
+## Research Objectives
 
-**6. Answer Generation**
+* Identify critical constraints in institutional documents.
+* Generate ordinary and constraint-aware summaries using an LLM.
+* Measure how much critical information survives summarization.
+* Compare preservation across different constraint categories.
+* Investigate which linguistic and structural features are associated with information loss.
+* Validate automated evaluations through human annotation.
 
-* Generating answers using retrieved document context.
-* Maintaining consistency with the original document information.
+---
 
-## 📁 Project Structure
+## Types of Information Studied
+
+ConstraintPreserver focuses on six categories:
+
+| Category         | Description                                   | Examples                              |
+| ---------------- | --------------------------------------------- | ------------------------------------- |
+| Decisions        | Explicit decisions and mandatory requirements | Must submit, required to attend       |
+| Conditions       | Prerequisites and conditional requirements    | Only if, provided that                |
+| Exceptions       | Exclusions and special circumstances          | Unless, except when                   |
+| Deadlines        | Time restrictions and deadlines               | Within 30 days, before submission     |
+| Responsibilities | Assigned roles and obligations                | Department must approve               |
+| Numerical Limits | Quantities, thresholds and percentages        | Maximum of 5 attempts, 75% attendance |
+
+---
+
+## Research Methodology
+
+The research pipeline consists of five major stages.
+
+### 1. Document Preprocessing
+
+The dataset contains 136 institutional generative AI policy documents.
+
+Documents undergo:
+
+* Text extraction and cleaning.
+* Document structuring.
+* Paragraph-based chunking.
+* Preparation for constraint extraction and summarization.
+
+### 2. Constraint Extraction
+
+An LLM identifies critical constraints from the original documents.
+
+Each extracted constraint includes:
+
+* Constraint ID
+* Constraint category
+* Original constraint text
+* Supporting source evidence
+
+### 3. Comparative Summarization
+
+Each document is summarized using two different prompting strategies.
+
+**A. Baseline Summarization**
+
+Uses a conventional summarization prompt focused on capturing the main ideas, purpose, and important information.
+
+**B. Constraint-Aware Summarization**
+
+Uses a modified prompt explicitly instructing the model to preserve:
+
+* Decisions
+* Conditions
+* Exceptions
+* Deadlines
+* Responsibilities
+* Numerical limits
+
+Both approaches use the same underlying language model to make the prompting strategies comparable.
+
+### 4. Constraint Preservation Evaluation
+
+Each extracted constraint is checked against both generated summaries.
+
+Evaluation labels:
+
+| Label     | Score | Meaning                                                         |
+| --------- | ----: | --------------------------------------------------------------- |
+| PRESERVED |   1.0 | The constraint is accurately retained                           |
+| PARTIAL   |   0.5 | Some information is retained, but important details are missing |
+| LOST      |   0.0 | The constraint is absent or inaccurately represented            |
+
+The system records supporting evidence and reasoning for each evaluation.
+
+### 5. Statistical Analysis and Human Validation
+
+The evaluation results are analyzed to compare:
+
+* Overall preservation rates.
+* Document-level performance.
+* Category-wise information loss.
+* Differences between baseline and constraint-aware summaries.
+
+A human annotation dataset is also generated to support independent validation of automated evaluation results.
+
+---
+
+## Preliminary Pilot Results
+
+An initial pilot experiment was conducted on three documents, with 31 extracted constraints.
+
+| Metric               | Baseline | Constraint-Aware |
+| -------------------- | -------: | ---------------: |
+| Overall preservation |   73.91% |           96.97% |
+
+**Improvement: +23.06 percentage points**
+
+### Category-wise Pilot Results
+
+| Category       | Baseline | Constraint-Aware | Improvement |
+| -------------- | -------: | ---------------: | ----------: |
+| Decision       |   69.23% |           96.15% |   +26.92 pp |
+| Condition      |   50.00% |           90.00% |   +40.00 pp |
+| Exception      |  100.00% |          100.00% |        0 pp |
+| Responsibility |   80.00% |          100.00% |   +20.00 pp |
+| Deadline       |  100.00% |          100.00% |        0 pp |
+
+*These are preliminary, automated pilot results from three documents, not final research findings. The full dataset evaluation and human validation are still required. Category-wise results are calculated from pooled constraint-level evaluations.*
+
+---
+
+## Technology Stack
+
+| Component              | Technology                 |
+| ---------------------- | -------------------------- |
+| Programming Language   | Python                     |
+| Language Model         | Google Gemini API          |
+| LLM Integration        | Google Gen AI SDK          |
+| Text Processing        | Python                     |
+| Semantic Retrieval     | FAISS                      |
+| Embeddings             | Sentence Transformers      |
+| Data Storage           | JSON, CSV                  |
+| Data Analysis          | Python                     |
+| Environment Management | Python Virtual Environment |
+
+---
+
+## Project Structure
 
 ```text
 ConstraintPreserver/
 │
 ├── data/
+│   ├── raw/
 │   ├── processed/
-│   └── index/
+│   │   ├── cleaned_documents.json
+│   │   └── chunks.json
+│   │
+│   ├── constraints/
+│   ├── index/
+│   ├── summaries/
+│   ├── evaluation/
+│   ├── annotations/
+│   └── analysis/
 │
 ├── src/
 │   ├── preprocessing/
@@ -78,115 +200,157 @@ ConstraintPreserver/
 │   │   ├── clean_documents.py
 │   │   └── chunk_documents.py
 │   │
-│   ├── validation/
-│   │   └── verify_cleaned_documents.py
-│   │
-│   ├── retrieval/
-│   │   ├── build_index.py
-│   │   ├── search.py
-│   │   └── answer.py
-│   │
 │   ├── constraints/
 │   │   └── extractor.py
 │   │
-│   └── generation/
+│   ├── retrieval/
+│   │   ├── build_index.py
+│   │   └── search.py
+│   │
+│   ├── generation/
+│   │   └── answer.py
+│   │
+│   ├── summarization/
+│   │   └── generate_summaries.py
+│   │
+│   ├── evaluation/
+│   │   ├── evaluate_preservation.py
+│   │   └── create_annotation_dataset.py
+│   │
+│   └── analysis/
+│       └── analyze_results.py
 │
+├── configs/
+├── notebooks/
+├── tests/
+├── docs/
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
-*Note: The structure above represents the main modules; additional files may exist in the repository.*
+*Some directories are created as the pipeline runs. The structure may evolve as the research progresses.*
 
-## 🚀 Key Features
+---
 
-* Modular document processing pipeline.
-* Semantic document retrieval.
-* FAISS-based vector indexing.
-* Metadata-aware document chunking.
-* Constraint extraction and preservation.
-* Context-based question answering.
+## Getting Started
 
-## 💻 Installation and Setup
-
-**1. Clone the repository**
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/bhargavi-anand/ConstraintPreserver.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
 cd ConstraintPreserver
 ```
 
-**3. Create a virtual environment**
+### 2. Create a Virtual Environment
 
 ```bash
 python -m venv .venv
 ```
 
-**4. Activate the environment**
+Activate it on Windows PowerShell:
 
-Windows:
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+### 3. Install Dependencies
 
 ```bash
-.venv\Scripts\activate
+pip install google-genai python-dotenv faiss-cpu sentence-transformers pandas
 ```
 
-**5. Install dependencies**
+### 4. Configure the Gemini API
+
+Create a `.env` file in the project root:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+GEMINI_MODEL=your_available_gemini_model
+```
+
+Never commit your `.env` file or expose your API key.
+
+### 5. Run the Summarization Pipeline
+
+Run a three-document pilot:
 
 ```bash
-pip install -r requirements.txt
+python -m src.summarization.generate_summaries --limit 3
 ```
 
-## 🔬 Project Workflow
+Run the full dataset:
 
-```text
-Input Documents
-      |
-      v
-Document Extraction
-      |
-      v
-Text Cleaning & Validation
-      |
-      v
-Document Chunking
-      |
-      v
-Embedding Generation
-      |
-      v
-FAISS Vector Index
-      |
-      v
-Semantic Retrieval
-      |
-      v
-Constraint Extraction
-      |
-      v
-Context-Aware Answer Generation
-      |
-      v
-Final Answer
+```bash
+python -m src.summarization.generate_summaries --limit 0
 ```
 
-## 📌 Future Enhancements
+The summarization pipeline supports checkpointing and automatic resumption. Completed documents are saved incrementally, allowing interrupted runs to continue without repeating completed work.
 
-* Support for additional document formats.
-* Improved constraint extraction techniques.
-* Enhanced retrieval accuracy.
-* Evaluation using benchmark datasets.
-* Integration of advanced language models.
-* Improved handling of complex multi-condition queries.
+### 6. Evaluate Constraint Preservation
 
-## 👩‍💻 Contributors
+```bash
+python -m src.evaluation.evaluate_preservation
+```
 
-Developed as a project exploring Natural Language Processing, semantic search, document retrieval, and constraint-aware question answering.
+### 7. Generate the Human Annotation Dataset
+
+```bash
+python -m src.evaluation.create_annotation_dataset
+```
+
+### 8. Analyze the Results
+
+```bash
+python -m src.analysis.analyze_results
+```
+
+---
+
+## Current Research Status
+
+| Component                           | Status      |
+| ----------------------------------- | ----------- |
+| Document preprocessing              | Completed   |
+| Dataset preparation (136 documents) | Completed   |
+| Text chunking                       | Completed   |
+| Constraint extraction module        | Implemented |
+| Baseline summarization              | Implemented |
+| Constraint-aware summarization      | Implemented |
+| Checkpoint and resume mechanism     | Implemented |
+| Preservation evaluation             | Implemented |
+| Pilot experiment (3 documents)      | Completed   |
+| Preliminary statistical analysis    | Completed   |
+| Human annotation dataset generation | Completed   |
+| Full-dataset summarization          | In progress |
+| Full-dataset evaluation             | Pending     |
+| Human annotation and validation     | Pending     |
+| Linguistic feature analysis         | Planned     |
+
+---
+
+## Future Work
+
+1. **Full-Scale Evaluation:** Extend the experiment from the pilot sample to all 136 documents.
+2. **Human Validation:** Compare human judgments with automated LLM-based evaluations.
+3. **Inter-Annotator Agreement:** Measure annotation consistency where multiple annotators are available.
+4. **Linguistic Feature Analysis:** Investigate the effects of modal verbs, conditional expressions, negation, numerical expressions, clause complexity, and constraint position.
+5. **Statistical Significance:** Apply appropriate paired statistical tests and confidence intervals.
+6. **Generalizability:** Investigate whether the findings extend to other document types and summarization models.
+
+---
+
+## Research Contribution
+
+ConstraintPreserver approaches summarization evaluation from an information-preservation perspective.
+
+Instead of asking only whether an AI-generated summary captures the general meaning of a document, it asks:
+
+**Does the summary preserve the specific details that determine what someone is allowed, required, or prohibited from doing?**
+
+The goal is to develop a systematic way of identifying, measuring, and understanding the disappearance of critical information during AI summarization.
 
 ---
 
 **Project:** ConstraintPreserver
-**Repository:** https://github.com/bhargavi-anand/ConstraintPreserver
+**Research Area:** Natural Language Processing | Large Language Models | Summarization Evaluation | Information Preservation
