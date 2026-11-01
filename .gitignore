@@ -1,0 +1,16 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated experiment outputs
+data/summaries/
+data/evaluation/
+data/analysis/
+data/annotations/
+data/index/
